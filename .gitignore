@@ -1,0 +1,7 @@
+*.dict
+*.dict.gz
+*.dict.dz
+*.idx
+*.idx.gz
+*.ifo
+*.syn
