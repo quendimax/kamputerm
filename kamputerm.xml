@@ -12,6 +12,18 @@
 
 <contents>
 	<article>
+		<key>application</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>(карыстальніцкая)</i> праграма]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>argument</key>
+		<definition type="h">арґумэнт</definition>
+	</article>
+
+	<article>
 		<key>backup</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> рэзэрвовая копія<br/>
@@ -23,6 +35,11 @@
 	<article>
 		<key>backup server</key>
 		<definition type="h">сэрвер рэзэрваваньня</definition>
+	</article>
+
+	<article>
+		<key>bold</key>
+		<definition type="h">тоўсты</definition>
 	</article>
 
 	<article>
@@ -38,12 +55,16 @@
 	<article>
 		<key>close</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> <i>(як мэтафара)</i> зачыняць, зачыніць<br/>
-				&nbsp; <b>close a file</b> зачыніць файл<br/>
-				&nbsp; <b>close a window</b> зачыніць акно<br/>
-			<b>II</b> <i>(зрабіць недаступным для іншых)</i><br/>
-				&nbsp; <b>1.</b> <i>verb</i> закрываць, закрыць<br/>
-				&nbsp; <b>2.</b> <i>adjective</i> закрыты]]>
+			<b>I</b> <i>(як мэтафара)</i> зачыняць, зачыніць
+				<p style="margin: 0px 8px 0px">
+				<b>close a file</b> зачыніць файл<br/>
+				<b>close a window</b> зачыніць акно
+				</p>
+			<b>II</b> <i>(зрабіць недаступным для іншых)</i>
+				<p style="margin: 0px 8px 0px">
+				<b>1.</b> <i>verb</i> закрываць, закрыць<br/>
+				<b>2.</b> <i>adjective</i> закрыты
+				</p>]]>
 		</definition>
 	</article>
 
@@ -63,6 +84,11 @@
 	<article>
 		<key>data</key>
 		<definition type="h">зьвесткі</definition>
+	</article>
+
+	<article>
+		<key>default</key>
+		<definition type="h">стандартавы</definition>
 	</article>
 
 	<article>
@@ -94,6 +120,15 @@
 	</article>
 
 	<article>
+		<key>disc</key>
+		<key>disk</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>(носьбіты інфармацыі круглай формы: вініл, CD, DVD, Blue Ray)</i> кружэлка<br/>
+			<b>2.</b> <i>(іншыя носьбіты)</i> дыск]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>drawer</key>
 		<definition type="h"><![CDATA[
 			<b>I</b> высоўная скрыня<br/>
@@ -102,12 +137,15 @@
 	</article>
 
 	<article>
+		<key>drive</key>
+		<definition type="h">дыск?????</definition>
+	</article>
+
+	<article>
 		<key>edit</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(зрабіць адвольныя зьмены ў дакумэнце)</i>
-			рэдагаваць, зрэдагаваць<br/>
-			<b>2.</b> <i>(зрабіць шаблённыя зьмены ў віртуальным аб’екце)</i>
-			зьмяняць, зьмяніць]]>
+			<b>1.</b> <i>(зрабіць адвольныя зьмены ў дакумэнце)</i> рэдагаваць, зрэдагаваць<br/>
+			<b>2.</b> <i>(зрабіць шаблённыя зьмены ў віртуальным аб’екце)</i> зьмяняць, зьмяніць]]>
 		</definition>
 	</article>
 
@@ -130,8 +168,19 @@
 	</article>
 
 	<article>
+		<key>font family</key>
+		<synonym>typeface</synonym>
+		<definition type="h">ґарнітура</definition>
+	</article>
+
+	<article>
 		<key>information</key>
 		<definition type="h">інфармацыя</definition>
+	</article>
+
+	<article>
+		<key>italic</key>
+		<definition type="h">курсіў</definition>
 	</article>
 
 	<article>
@@ -152,6 +201,11 @@
 	</article>
 
 	<article>
+		<key>monospace</key>
+		<definition type="h">роўнашырокі</definition>
+	</article>
+
+	<article>
 		<key>mouse</key>
 		<definition type="h">мыш</definition>
 	</article>
@@ -169,6 +223,11 @@
 	</article>
 
 	<article>
+		<key>normal</key>
+		<definition type="h">звычайны</definition>
+	</article>
+
+	<article>
 		<key>open</key>
 		<definition type="h"><![CDATA[
 			<b>I</b> <i>(як мэтафара)</i> адчыняць, адчыніць<br/>
@@ -180,6 +239,32 @@
 				&nbsp; <b>2.</b> <i>adjective</i> адкрыты<br/>
 					&nbsp; &nbsp; <b>open source</b> адкрыты зыходны код]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>parameter</key>
+		<definition type="h">парамэтр, парамэтар</definition>
+	</article>
+
+	<article>
+		<key>partition</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>(noun)</i> разьдзел<br/>
+			<b>2.</b> <i>(verb)</i> дзяліць, падзяліць]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>partitioning</key>
+		<definition type="h"><![CDATA[
+			падзел <i>(працэс)</i>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>preferences</key>
+		<synonym>settings</synonym>
+		<definition type="h">налады</definition>
 	</article>
 
 	<article>
@@ -203,6 +288,20 @@
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>(для выдаленьня)</i> выдаляць, выдаліць<br/>
 			<b>2.</b> <i>(для выманьня элемэнту са сьпісу)</i> прыбіраць, прыбраць]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>repartition</key>
+		<definition type="h"><![CDATA[
+			<i>(verb)</i> дзяліць наноў, падзяліць наноў]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>repartitioning</key>
+		<definition type="h"><![CDATA[
+			перадзел <i>(працэс)</i>]]>
 		</definition>
 	</article>
 
@@ -235,6 +334,20 @@
 	</article>
 
 	<article>
+		<key>settings</key>
+		<synonym>preferences</synonym>
+		<definition type="h">налады</definition>
+	</article>
+
+	<article>
+		<key>size</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>(агульнаўжыванае)</i> памер<br/>
+			<b>2.</b> <i>(для шрыфтоў)</i> памер]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>storage</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> сховішча<br/>
@@ -249,6 +362,16 @@
 	</article>
 
 	<article>
+		<key>strikethrough</key>
+		<definition type="h">закрэсьліць</definition>
+	</article>
+
+	<article>
+		<key>style</key>
+		<definition type="h">стыль</definition>
+	</article>
+
+	<article>
 		<key>trash</key>
 		<definition type="h"><![CDATA[
 			сьмецьце <i>(зьмесьціва trash can, recycle bin</i><br/>
@@ -260,6 +383,17 @@
 		<key>trash can</key>
 		<key>recycle bin</key>
 		<definition type="h">сьметніца</definition>
+	</article>
+
+	<article>
+		<key>typeface</key>
+		<synonym>font family</synonym>
+		<definition type="h">ґарнітура</definition>
+	</article>
+
+	<article>
+		<key>underline</key>
+		<definition type="h">падкрэсьліць</definition>
 	</article>
 </contents>
 </stardict>
