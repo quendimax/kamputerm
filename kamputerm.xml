@@ -138,7 +138,10 @@
 
 	<article>
 		<key>drive</key>
-		<definition type="h">дыск?????</definition>
+		<definition type="h"><![CDATA[
+			<b>1.</b> дыск<br/>
+			<b>2.</b> кружэльнік <i>(для прыладаў, дзе ўжываецца кружэлка</i>]]>
+	</definition>
 	</article>
 
 	<article>
@@ -176,6 +179,11 @@
 	<article>
 		<key>information</key>
 		<definition type="h">інфармацыя</definition>
+	</article>
+
+	<article>
+		<key>install</key>
+		<definition type="h">усталяваць</definition>
 	</article>
 
 	<article>
