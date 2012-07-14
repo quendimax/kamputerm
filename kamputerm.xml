@@ -24,6 +24,11 @@
 	</article>
 
 	<article>
+		<key>ascending</key>
+		<definition type="h">наўпросты</definition>
+	</article>
+
+	<article>
 		<key>backup</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> рэзэрвовая копія<br/>
@@ -100,6 +105,11 @@
 		<key>delete</key>
 		<synonym>remove</synonym>
 		<definition type="h">выдаляць, выдаліць</definition>
+	</article>
+
+	<article>
+		<key>descending</key>
+		<definition type="h">адваротны</definition>
 	</article>
 
 	<article>
@@ -184,6 +194,11 @@
 		<key>font family</key>
 		<synonym>typeface</synonym>
 		<definition type="h">ґарнітура</definition>
+	</article>
+
+	<article>
+		<key>hardware</key>
+		<definition type="h">абсталяваньне</definition>
 	</article>
 
 	<article>
@@ -420,6 +435,11 @@
 			<b>1.</b> <i>(агульнаўжыванае)</i> памер<br/>
 			<b>2.</b> <i>(для шрыфтоў)</i> памер]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>software</key>
+		<definition type="h">апраграмаваньне</definition>
 	</article>
 
 	<article>
