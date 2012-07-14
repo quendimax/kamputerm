@@ -26,6 +26,11 @@
 	</article>
 
 	<article>
+		<key>button</key>
+		<definition type="h">кнопка</definition>
+	</article>
+
+	<article>
 		<key>catalogue</key>
 		<definition type="h">каталёг</definition>
 	</article>
@@ -67,6 +72,11 @@
 	</article>
 
 	<article>
+		<key>device</key>
+		<definition type="h">прылада</definition>
+	</article>
+
+	<article>
 		<key>directory</key>
 		<definition type="h"><![CDATA[
 			каталёг<br/>
@@ -88,6 +98,16 @@
 		<definition type="h"><![CDATA[
 			<b>I</b> высоўная скрыня<br/>
 			<b>II</b> <i>глядзіце</i> <b>directory</b>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>edit</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>(зрабіць адвольныя зьмены ў дакумэнце)</i>
+			рэдагаваць, зрэдагаваць<br/>
+			<b>2.</b> <i>(зрабіць шаблённыя зьмены ў віртуальным аб’екце)</i>
+			зьмяняць, зьмяніць]]>
 		</definition>
 	</article>
 
@@ -115,8 +135,25 @@
 	</article>
 
 	<article>
+		<key>key</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>(keyboard key)</i> клявіша <i>ж.</i>, клявіш <i>м.</i>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>keyboard</key>
+		<definition type="h">клявіятура</definition>
+	</article>
+
+	<article>
 		<key>metadata</key>
 		<definition type="h">мэтазьвесткі</definition>
+	</article>
+
+	<article>
+		<key>mouse</key>
+		<definition type="h">мыш</definition>
 	</article>
 
 	<article>
@@ -146,6 +183,21 @@
 	</article>
 
 	<article>
+		<key>press</key>
+		<definition type="h">ціснуць, націснуць</definition>
+	</article>
+
+	<article>
+		<key>print</key>
+		<definition type="h">друкаваць, надрукаваць</definition>
+	</article>
+
+	<article>
+		<key>printer</key>
+		<definition type="h">друкарка</definition>
+	</article>
+
+	<article>
 		<key>remove</key>
 		<synonym>delete</synonym>
 		<definition type="h"><![CDATA[
@@ -167,6 +219,19 @@
 	<article>
 		<key>save</key>
 		<definition type="h">захоўваць, захаваць</definition>
+	</article>
+
+	<article>
+		<key>scan</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>(апэрацыя сканэра)</i> сканаваць, сасканаваць<br/>
+			<b>2.</b> <i>(пошук у чымсьці)</i> праглядаць, праглядзець, прагледзець]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>scanner</key>
+		<definition type="h">сканэр</definition>
 	</article>
 
 	<article>
