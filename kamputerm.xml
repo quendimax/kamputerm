@@ -48,6 +48,11 @@
 	</article>
 
 	<article>
+		<key>cancel</key>
+		<definition type="h">скасаваць</definition>
+	</article>
+
+	<article>
 		<key>catalogue</key>
 		<definition type="h">каталёг</definition>
 	</article>
@@ -56,12 +61,12 @@
 		<key>close</key>
 		<definition type="h"><![CDATA[
 			<b>I</b> <i>(як мэтафара)</i> зачыняць, зачыніць
-				<p style="margin: 0px 8px 0px">
+				<p style="margin: 0px 16px 0px">
 				<b>close a file</b> зачыніць файл<br/>
 				<b>close a window</b> зачыніць акно
 				</p>
 			<b>II</b> <i>(зрабіць недаступным для іншых)</i>
-				<p style="margin: 0px 8px 0px">
+				<p style="margin: 0px 16px 0px">
 				<b>1.</b> <i>verb</i> закрываць, закрыць<br/>
 				<b>2.</b> <i>adjective</i> закрыты
 				</p>]]>
@@ -106,7 +111,7 @@
 		<key>directory</key>
 		<definition type="h"><![CDATA[
 			каталёг<br/>
-				<p style="margin: 0px 8px 0px">
+				<p style="margin: 0px 16px 0px">
 				<i>У графічных інтэрфэйсах вельмі часта замест слова</i>
 				<b>dictionary</b><i> выкарыстоўваюцца іншыя мэтафарычныя тэрміны
 				(напрыклад </i><b>folder</b><i>, </i><b>drawer</b> <i>і іншыя).
@@ -129,6 +134,11 @@
 	</article>
 
 	<article>
+		<key>download</key>
+		<definition type="h">спампаваць</definition>
+	</article>
+
+	<article>
 		<key>drawer</key>
 		<definition type="h"><![CDATA[
 			<b>I</b> высоўная скрыня<br/>
@@ -140,7 +150,7 @@
 		<key>drive</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> дыск<br/>
-			<b>2.</b> кружэльнік <i>(для прыладаў, дзе ўжываецца кружэлка</i>]]>
+			<b>2.</b> кружэльнік <i>(для прыладаў, дзе ўжываецца кружэлка: CD/DVD/Blueray drive)</i>]]>
 	</definition>
 	</article>
 
@@ -214,6 +224,16 @@
 	</article>
 
 	<article>
+		<key>mount</key>
+		<definition type="h">прымацаваць</definition>
+	</article>
+
+	<article>
+		<key>unmount</key>
+		<definition type="h">адмацаваць</definition>
+	</article>
+
+	<article>
 		<key>mouse</key>
 		<definition type="h">мыш</definition>
 	</article>
@@ -223,10 +243,32 @@
 		<definition type="h"><![CDATA[
 			<b>I</b> <i>(агульна ўжываны варыянт)</i> перамяшчаць, перамясьціць<br/>
 			<b>II</b> <i>(паводле кантэксту можна выкарыстоўваць іншыя варыянты,
-			якія больш адпавядаюць меркаванаму мэтафарычнаму значэньню)</i><br/>
-				&nbsp; <b>1.</b> перасоўваць, перасунуць, пасунуць<br/>
-					&nbsp; &nbsp; <b>move up</b> пасунуць уверх<br/>
-				&nbsp; <b>2.</b> пераносіць, перанесьці]]>
+			якія больш адпавядаюць меркаванаму мэтафарычнаму значэньню)</i>
+				<p style="margin: 0px 16px 0px">
+				<b>1.</b> перасоўваць, перасунуць, пасунуць
+				</p>
+					<p style="margin: 0px 32px 0px">
+					<b>move up</b> пасунуць уверх
+					</p>
+				<p style="margin: 0px 16px 0px">
+				<b>2.</b> пераносіць, перанесьці
+				</p>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>name</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>(для адушаўлёных)</i> імя
+				<p style="margin: 0px 16px 0px">
+				<b>user name</b> імя карыстальніка
+				</p>
+			<b>2.</b> <i>(для неадушаўлёных)</i> назва
+				<p style="margin: 0px 16px 0px">
+				<b>computer name</b> назва кампутару<br/>
+				<b>file name</b> назва файла<br/>
+				<b>group name</b> назва групы
+				</p>]]>
 		</definition>
 	</article>
 
@@ -236,16 +278,31 @@
 	</article>
 
 	<article>
+		<key>ok</key>
+		<definition type="h">добра</definition>
+	</article>
+
+	<article>
 		<key>open</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> <i>(як мэтафара)</i> адчыняць, адчыніць<br/>
-				&nbsp; <b>open a file</b> адчыніць файл<br/>
-				&nbsp; <b>open a window</b> адчыніць акно<br/>
-			<b>II</b> <i>(зрабіць даступным для іншых)</i><br/>
-				&nbsp; <b>1.</b> <i>verb</i> адкрываць, адкрыць<br/>
-					&nbsp; &nbsp; <b>open source of program</b> адкрыць зыходны код праграмы<br/>
-				&nbsp; <b>2.</b> <i>adjective</i> адкрыты<br/>
-					&nbsp; &nbsp; <b>open source</b> адкрыты зыходны код]]>
+			<b>I</b> <i>(як мэтафара)</i> адчыняць, адчыніць
+				<p style="margin: 0px 16px 0px">
+				<b>open a file</b> адчыніць файл<br/>
+				<b>open a window</b> адчыніць акно
+				</p>
+			<b>II</b> <i>(зрабіць даступным для іншых)</i>
+				<p style="margin: 0px 16px 0px">
+				<b>1.</b> <i>verb</i> адкрываць, адкрыць<br/>
+				</p>
+					<p style="margin: 0px 32px 0px">
+					<b>open source of program</b> адкрыць зыходны код праграмы
+					</p>
+				<p style="margin: 0px 16px 0px">
+				<b>2.</b> <i>adjective</i> адкрыты
+				</p>
+					<p style="margin: 0px 32px 0px">
+					<b>open source</b> адкрыты зыходны код
+					</p>]]>
 		</definition>
 	</article>
 
@@ -291,6 +348,11 @@
 	</article>
 
 	<article>
+		<key>proportional</key>
+		<definition type="h">сумерны</definition>
+	</article>
+
+	<article>
 		<key>remove</key>
 		<synonym>delete</synonym>
 		<definition type="h"><![CDATA[
@@ -316,6 +378,11 @@
 	<article>
 		<key>repository</key>
 		<definition type="h">сховішча</definition>
+	</article>
+
+	<article>
+		<key>resolution</key>
+		<definition type="h">разрознасьць</definition>
 	</article>
 
 	<article>
@@ -382,8 +449,10 @@
 	<article>
 		<key>trash</key>
 		<definition type="h"><![CDATA[
-			сьмецьце <i>(зьмесьціва trash can, recycle bin</i><br/>
-				&nbsp; <b>move to trash</b> перамясьціць у сьметніцу]]>
+			сьмецьце <i>(зьмесьціва trash can, recycle bin</i>
+				<p style="margin: 0px 16px 0px">
+				<b>move to trash</b> перамясьціць у сьметніцу
+				</p>]]>
 		</definition>
 	</article>
 
@@ -402,6 +471,29 @@
 	<article>
 		<key>underline</key>
 		<definition type="h">падкрэсьліць</definition>
+	</article>
+
+	<article>
+		<key>upload</key>
+		<definition type="h">запампаваць</definition>
+	</article>
+
+	<article>
+		<key>user</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> карыстальнік<br/>
+			<b>2.</b> <i>adjective</i> карыстальніцкі]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>window</key>
+		<definition type="h">акно</definition>
+	</article>
+
+	<article>
+		<key>yes</key>
+		<definition type="h">так</definition>
 	</article>
 </contents>
 </stardict>
