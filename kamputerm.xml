@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<stardict>
+<info>
+	<version>2.4.2</version>
+	<bookname>Беларуская камутарная тэрміналёгія</bookname>
+	<author>Зьміцер Саўка і іншыя</author>
+	<website>http://wg.kamputerm.org/</website>
+	<description>Спроба стварыць слоўнік беларускай IT тэрміналёгіі</description>
+	<date>2012-07-13</date>
+</info>
+
+<contents>
+	<article>
+		<key>backup</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> рэзэрвовая копія<br/>
+			<b>2.</b> <i>verb</i> ствараць/стварыць рэзэрвовую копію<br/>
+			<b>3.</b> <i>adjective</i> рэзэрвовы <i>(файл, сховішча)</i>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>backup server</key>
+		<definition type="h">сэрвер рэзэрваваньня</definition>
+	</article>
+
+	<article>
+		<key>catalogue</key>
+		<definition type="h">каталёг</definition>
+	</article>
+
+	<article>
+		<key>close</key>
+		<definition type="h"><![CDATA[
+			<b>I</b> <i>(як мэтафара)</i> зачыняць, зачыніць<br/>
+				&nbsp; <b>close a file</b> зачыніць файл<br/>
+				&nbsp; <b>close a window</b> зачыніць акно<br/>
+			<b>II</b> <i>(зрабіць недаступным для іншых)</i><br/>
+				&nbsp; <b>1.</b> <i>verb</i> закрываць, закрыць<br/>
+				&nbsp; <b>2.</b> <i>adjective</i> закрыты]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>copy</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> копія<br/>
+			<b>2.</b> <i>verb</i> капіяваць, скапіяваць]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>create</key>
+		<definition type="h">ствараць, стварыць</definition>
+	</article>
+
+	<article>
+		<key>data</key>
+		<definition type="h">зьвесткі</definition>
+	</article>
+
+	<article>
+		<key>delete</key>
+		<synonym>remove</synonym>
+		<definition type="h">выдаляць, выдаліць</definition>
+	</article>
+
+	<article>
+		<key>directory</key>
+		<definition type="h"><![CDATA[
+			каталёг<br/>
+				<p style="margin: 0px 8px 0px">
+				<i>У графічных інтэрфэйсах вельмі часта замест слова</i>
+				<b>dictionary</b><i> выкарыстоўваюцца іншыя мэтафарычныя тэрміны
+				(напрыклад </i><b>folder</b><i>, </i><b>drawer</b> <i>і іншыя).
+				Калі яны знаходзяцца ў тэхнічных тэкстах, то дзеля сыстэмнасьці
+				варта перакладаць іх як і </i><b>directory</b><i>. У выпадках
+				жа, калі яны мусяць перадаваць свой мэтафарычны сэнс, то
+				перакладаць іх трэба так, як было задумана распрацоўнікамі
+				(напрыклад, </i><b>folder</b><i> &mdash; тэчка).</i>
+				</p>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>drawer</key>
+		<definition type="h"><![CDATA[
+			<b>I</b> высоўная скрыня<br/>
+			<b>II</b> <i>глядзіце</i> <b>directory</b>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>file</key>
+		<definition type="h">файл</definition>
+	</article>
+
+	<article>
+		<key>folder</key>
+		<definition type="h"><![CDATA[
+			<b>I</b> тэчка<br/>
+			<b>II</b> <i>глядзіце</i> <b>directory</b>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>font</key>
+		<definition type="h">шрыфт</definition>
+	</article>
+
+	<article>
+		<key>information</key>
+		<definition type="h">інфармацыя</definition>
+	</article>
+
+	<article>
+		<key>metadata</key>
+		<definition type="h">мэтазьвесткі</definition>
+	</article>
+
+	<article>
+		<key>move</key>
+		<definition type="h"><![CDATA[
+			<b>I</b> <i>(агульна ўжываны варыянт)</i> перамяшчаць, перамясьціць<br/>
+			<b>II</b> <i>(паводле кантэксту можна выкарыстоўваць іншыя варыянты,
+			якія больш адпавядаюць меркаванаму мэтафарычнаму значэньню)</i><br/>
+				&nbsp; <b>1.</b> перасоўваць, перасунуць, пасунуць<br/>
+					&nbsp; &nbsp; <b>move up</b> пасунуць уверх<br/>
+				&nbsp; <b>2.</b> пераносіць, перанесьці]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>open</key>
+		<definition type="h"><![CDATA[
+			<b>I</b> <i>(як мэтафара)</i> адчыняць, адчыніць<br/>
+				&nbsp; <b>open a file</b> адчыніць файл<br/>
+				&nbsp; <b>open a window</b> адчыніць акно<br/>
+			<b>II</b> <i>(зрабіць даступным для іншых)</i><br/>
+				&nbsp; <b>1.</b> <i>verb</i> адкрываць, адкрыць<br/>
+					&nbsp; &nbsp; <b>open source of program</b> адкрыць зыходны код праграмы<br/>
+				&nbsp; <b>2.</b> <i>adjective</i> адкрыты<br/>
+					&nbsp; &nbsp; <b>open source</b> адкрыты зыходны код]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>remove</key>
+		<synonym>delete</synonym>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>(для выдаленьня)</i> выдаляць, выдаліць<br/>
+			<b>2.</b> <i>(для выманьня элемэнту са сьпісу)</i> прыбіраць, прыбраць]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>repository</key>
+		<definition type="h">сховішча</definition>
+	</article>
+
+	<article>
+		<key>restore</key>
+		<definition type="h">аднавіць</definition>
+	</article>
+
+	<article>
+		<key>save</key>
+		<definition type="h">захоўваць, захаваць</definition>
+	</article>
+
+	<article>
+		<key>storage</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> сховішча<br/>
+			<b>2.</b> <i>verb</i> захоўванне<br/>
+			<b>3.</b> <i>adjective</i> захавальны]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>store</key>
+		<definition type="h">захоўваць, захаваць</definition>
+	</article>
+
+	<article>
+		<key>trash</key>
+		<definition type="h"><![CDATA[
+			сьмецьце <i>(зьмесьціва trash can, recycle bin</i><br/>
+				&nbsp; <b>move to trash</b> перамясьціць у сьметніцу]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>trash can</key>
+		<key>recycle bin</key>
+		<definition type="h">сьметніца</definition>
+	</article>
+</contents>
+</stardict>
+<!-- &nbsp;  &mdash;-->
