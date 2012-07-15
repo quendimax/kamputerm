@@ -3,7 +3,7 @@
 <stardict>
 <info>
 	<version>2.4.2</version>
-	<bookname>Беларуская камутарная тэрміналёгія</bookname>
+	<bookname>Анґельска-беларускі слоўнік камутарнай тэрміналёгіі (en-be)</bookname>
 	<author>Зьміцер Саўка і іншыя</author>
 	<website>http://wg.kamputerm.org/</website>
 	<description>Спроба стварыць слоўнік беларускай IT тэрміналёгіі</description>
@@ -11,6 +11,21 @@
 </info>
 
 <contents>
+	<article>
+		<key>align</key>
+		<definition type="h">раўнаваць, зраўнаваць</definition>
+	</article>
+
+	<article>
+		<key>align left</key>
+		<definition type="h">раўнаваць зьлева, зраўнаваць зьлева</definition>
+	</article>
+
+	<article>
+		<key>align right</key>
+		<definition type="h">раўнаваць справа, зраўнаваць справа</definition>
+	</article>
+
 	<article>
 		<key>application</key>
 		<definition type="h"><![CDATA[
@@ -87,8 +102,29 @@
 	</article>
 
 	<article>
+		<key>content</key>
+		<definition type="h">зьмесьціва</definition>
+	</article>
+
+	<article>
+		<key>contents</key>
+		<synonym>table of contents</synonym>
+		<definition type="h">зьмест</definition>
+	</article>
+
+	<article>
 		<key>create</key>
 		<definition type="h">ствараць, стварыць</definition>
+	</article>
+
+	<article>
+		<key>current</key>
+		<definition type="h">дзейны</definition>
+	</article>
+
+	<article>
+		<key>cut</key>
+		<definition type="h"><![CDATA[вымаць, выняць, вымі <i>заг. л.</i>]]></definition>
 	</article>
 
 	<article>
@@ -110,6 +146,11 @@
 	<article>
 		<key>descending</key>
 		<definition type="h">адваротны</definition>
+	</article>
+
+	<article>
+		<key>desktop</key>
+		<definition type="h">стальніца</definition>
 	</article>
 
 	<article>
@@ -202,6 +243,14 @@
 	</article>
 
 	<article>
+		<key>help</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> дапамога<br/>
+			<b>2.</b> <i>verb</i> дапамагаць, дапамагчы]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>icon</key>
 		<definition type="h"><![CDATA[
 			значак
@@ -245,6 +294,26 @@
 	<article>
 		<key>intranet</key>
 		<definition type="h">інтранэт</definition>
+	</article>
+
+	<article>
+		<key>inversion</key>
+		<definition type="h">інвэрсія</definition>
+	</article>
+
+	<article>
+		<key>invert</key>
+		<definition type="h">інвертаваць, зынвертаваць</definition>
+	</article>
+
+	<article>
+		<key>invertable</key>
+		<definition type="h">інвертавальны</definition>
+	</article>
+
+	<article>
+		<key>inverted</key>
+		<definition type="h">інвэрсійны</definition>
 	</article>
 
 	<article>
@@ -342,6 +411,26 @@
 	</article>
 
 	<article>
+		<key>online</key>
+		<key>on-line</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>adverb</i> у сеціве<br/>
+			<b>2.</b> <i>adjective</i> сеткавы <i>(спалучаны зь сеткай)</i>,
+			                           сеціўны <i>(спалучаны зь сецівам)</i>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>offline</key>
+		<key>off-line</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>adverb</i> па-за сецівам<br/>
+			<b>2.</b> <i>adjective</i> пазасеткавы <i>(не спалучаны зь сеткай)</i>,
+			                           пазасеціўны <i>(не спалучаны зь сецівам)</i>]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>open</key>
 		<definition type="h"><![CDATA[
 			<b>I</b> <i>(як мэтафара)</i> адчыняць, адчыніць
@@ -366,6 +455,14 @@
 	</article>
 
 	<article>
+		<key>order</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> парадак<br/>
+			<b>2.</b> <i>verb</i> парадкаваць, спарадкаваць]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>parameter</key>
 		<definition type="h">парамэтр, парамэтар</definition>
 	</article>
@@ -383,6 +480,11 @@
 		<definition type="h"><![CDATA[
 			падзел <i>(працэс)</i>]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>paste</key>
+		<definition type="h">устаўляць, уставіць</definition>
 	</article>
 
 	<article>
@@ -412,12 +514,33 @@
 	</article>
 
 	<article>
+		<key>recycle bin</key>
+		<synonym>trash can</synonym>
+		<definition type="h">сьметніца</definition>
+	</article>
+
+	<article>
+		<key>redo</key>
+		<definition type="h">узнаўляць, узнавіць</definition>
+	</article>
+
+	<article>
+		<key>refresh</key>
+		<definition type="h">абнаўляць, абнавіць</definition>
+	</article>
+
+	<article>
 		<key>remove</key>
 		<synonym>delete</synonym>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>(для выдаленьня)</i> выдаляць, выдаліць<br/>
 			<b>2.</b> <i>(для выманьня элемэнту са сьпісу)</i> прыбіраць, прыбраць]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>rename</key>
+		<definition type="h">пераназываць, пераназваць</definition>
 	</article>
 
 	<article>
@@ -474,6 +597,14 @@
 	</article>
 
 	<article>
+		<key>shortcut</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>(клявіятурны)</i> скарот<br/>
+			<b>2.</b> ???]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>size</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>(агульнаўжыванае)</i> памер<br/>
@@ -515,6 +646,20 @@
 	</article>
 
 	<article>
+		<key>table of contents</key>
+		<synonym>contents</synonym>
+		<definition type="h">зьмест</definition>
+	</article>
+
+	<article>
+		<key>tile</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> кафля <i>(адзінка ці зборнае)</i><br/>
+			<b>2.</b> <i>verb</i> кафляваць, закафляваць]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>trash</key>
 		<definition type="h"><![CDATA[
 			сьмецьце <i>(зьмесьціва trash can, recycle bin</i>
@@ -526,7 +671,7 @@
 
 	<article>
 		<key>trash can</key>
-		<key>recycle bin</key>
+		<synonym>recycle bin</synonym>
 		<definition type="h">сьметніца</definition>
 	</article>
 
