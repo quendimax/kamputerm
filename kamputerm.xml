@@ -98,7 +98,7 @@
 
 	<article>
 		<key>default</key>
-		<definition type="h">стандартавы</definition>
+		<definition type="h">перадвызначаны</definition>
 	</article>
 
 	<article>
@@ -202,6 +202,29 @@
 	</article>
 
 	<article>
+		<key>icon</key>
+		<definition type="h"><![CDATA[
+			значак
+				<p style="margin: 0px 16px 0px">
+				<b>адзіночны лік:</b>
+					<i>Н:</i> зна&#x301;чак,
+					<i>Р:</i> зна&#x301;чка,
+					<i>Д:</i> зна&#x301;чку,
+					<i>В:</i> зна&#x301;чак,
+					<i>Т:</i> зна&#x301;чкам,
+					<i>М:</i> зна&#x301;чку;<br/>
+				<b>множны лік:</b>
+					<i>Н:</i> зна&#x301;чкі,
+					<i>Р:</i> зна&#x301;чкаў,
+					<i>Д:</i> зна&#x301;чкам,
+					<i>В:</i> зна&#x301;чкі,
+					<i>Т:</i> зна&#x301;чкамі,
+					<i>М:</i> зна&#x301;чках.
+				</p>]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>information</key>
 		<definition type="h">інфармацыя</definition>
 	</article>
@@ -209,6 +232,19 @@
 	<article>
 		<key>install</key>
 		<definition type="h">усталяваць</definition>
+	</article>
+
+	<article>
+		<key>internet</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> інтэрнэт<br/>
+			<b>2.</b> сеціва <i>(у тэкстах нетэрміналягічнага характару)</i>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>intranet</key>
+		<definition type="h">інтранэт</definition>
 	</article>
 
 	<article>
@@ -284,6 +320,14 @@
 				<b>file name</b> назва файла<br/>
 				<b>group name</b> назва групы
 				</p>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>network</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> сетка<br/>
+			<b>2.</b> <i>adjective</i> сеткавы]]>
 		</definition>
 	</article>
 
@@ -439,7 +483,11 @@
 
 	<article>
 		<key>software</key>
-		<definition type="h">апраграмаваньне</definition>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> апраграмаваньне<br/>
+			<b>2.</b> <i>adjective</i> праграмны
+			]]>
+		</definition>
 	</article>
 
 	<article>
@@ -494,6 +542,16 @@
 	</article>
 
 	<article>
+		<key>undo</key>
+		<definition type="h">адрабляць, адрабіць</definition>
+	</article>
+
+	<article>
+		<key>unistall</key>
+		<definition type="h">высталёўваць, высталяваць</definition>
+	</article>
+
+	<article>
 		<key>upload</key>
 		<definition type="h">запампаваць</definition>
 	</article>
@@ -503,6 +561,14 @@
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> карыстальнік<br/>
 			<b>2.</b> <i>adjective</i> карыстальніцкі]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>web</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> сеціва<br/>
+			<b>2.</b> <i>adjective</i> сеціўны]]>
 		</definition>
 	</article>
 
