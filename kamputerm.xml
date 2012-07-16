@@ -240,9 +240,14 @@
 	<article>
 		<key>drive</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> дыск<br/>
+			<b>1.</b> дыскавод<br/>
 			<b>2.</b> кружэ́льнік <i>(для прыладаў, дзе ўжываецца кружэлка: CD/DVD/Blueray drive)</i>]]>
 	</definition>
+	</article>
+
+	<article>
+		<key>dump</key>
+		<definition type="h">адбі́так</definition>
 	</article>
 
 	<article>
@@ -311,6 +316,20 @@
 					<i>М:</i> зна&#x301;чках.
 				</p>]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>image</key>
+		<synonym>picture</synonym>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> выя́ва<br/>
+			<b>2.</b> <i>verb</i> выяўля́ць, вы́явіць]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>imaging</key>
+		<definition type="h">выяўле́нчы</definition>
 	</article>
 
 	<article>
@@ -403,11 +422,6 @@
 	<article>
 		<key>mount</key>
 		<definition type="h">прымацава́ць</definition>
-	</article>
-
-	<article>
-		<key>unmount</key>
-		<definition type="h">адмацава́ць</definition>
 	</article>
 
 	<article>
@@ -547,6 +561,12 @@
 	<article>
 		<key>paste</key>
 		<definition type="h">устаўля́ць, уста́віць</definition>
+	</article>
+
+	<article>
+		<key>picture</key>
+		<synonym>image</synonym>
+		<definition type="h">відары́с</definition>
 	</article>
 
 	<article>
@@ -770,6 +790,11 @@
 	<article>
 		<key>uninstaller</key>
 		<definition type="h">высталёўнік</definition>
+	</article>
+
+	<article>
+		<key>unmount</key>
+		<definition type="h">адмацава́ць</definition>
 	</article>
 
 	<article>
