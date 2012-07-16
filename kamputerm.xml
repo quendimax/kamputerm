@@ -3,7 +3,7 @@
 <stardict>
 <info>
 	<version>2.4.2</version>
-	<bookname>Анґельска-беларускі слоўнік камутарнай тэрміналёгіі (en-be)</bookname>
+	<bookname>Анґельска-беларускі слоўнік кампутарнай тэрміналёгіі (en-be)</bookname>
 	<author>Зьміцер Саўка і іншыя</author>
 	<website>http://wg.kamputerm.org/</website>
 	<description>Спроба стварыць слоўнік беларускай IT тэрміналёгіі</description>
@@ -13,29 +13,29 @@
 <contents>
 	<article>
 		<key>align</key>
-		<definition type="h">раўнаваць, зраўнаваць</definition>
+		<definition type="h">раўнава́ць, зраўнава́ць</definition>
 	</article>
 
 	<article>
 		<key>align left</key>
-		<definition type="h">раўнаваць зьлева, зраўнаваць зьлева</definition>
+		<definition type="h">раўнава́ць зьлева, зраўнава́ць зьлева</definition>
 	</article>
 
 	<article>
 		<key>align right</key>
-		<definition type="h">раўнаваць справа, зраўнаваць справа</definition>
+		<definition type="h">раўнава́ць справа, зраўнава́ць справа</definition>
 	</article>
 
 	<article>
 		<key>application</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(карыстальніцкая)</i> праграма]]>
+			<b>1.</b> <i>(карыстальніцкая)</i> прагра́ма]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>argument</key>
-		<definition type="h">арґумэнт</definition>
+		<definition type="h">арґумэ́нт</definition>
 	</article>
 
 	<article>
@@ -47,14 +47,19 @@
 		<key>backup</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> рэзэрвовая копія<br/>
-			<b>2.</b> <i>verb</i> ствараць/стварыць рэзэрвовую копію<br/>
+			<b>2.</b> <i>verb</i> ствара́ць/ствары́ць рэзэрвовую копію<br/>
 			<b>3.</b> <i>adjective</i> рэзэрвовы <i>(файл, сховішча)</i>]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>backup server</key>
-		<definition type="h">сэрвер рэзэрваваньня</definition>
+		<definition type="h">сэ́рвер рэзэрвава́ньня</definition>
+	</article>
+
+	<article>
+		<key>bar</key>
+		<definition type="h">палі́ца</definition>
 	</article>
 
 	<article>
@@ -69,7 +74,7 @@
 
 	<article>
 		<key>cancel</key>
-		<definition type="h">скасаваць</definition>
+		<definition type="h">скасава́ць</definition>
 	</article>
 
 	<article>
@@ -78,32 +83,50 @@
 	</article>
 
 	<article>
+		<key>click</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> пстры́к<br/>
+			<b>2.</b> <i>verb</i> пстры́каць, прсты́кнуць]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>clipboard</key>
+		<definition type="h">кішэ́ня</definition>
+	</article>
+
+	<article>
 		<key>close</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> <i>(як мэтафара)</i> зачыняць, зачыніць
+			<b>I</b> <i>(як мэтафара)</i> зачыня́ць, зачыні́ць
 				<p style="margin: 0px 16px 0px">
 				<b>close a file</b> зачыніць файл<br/>
 				<b>close a window</b> зачыніць акно
 				</p>
 			<b>II</b> <i>(зрабіць недаступным для іншых)</i>
 				<p style="margin: 0px 16px 0px">
-				<b>1.</b> <i>verb</i> закрываць, закрыць<br/>
-				<b>2.</b> <i>adjective</i> закрыты
+				<b>1.</b> <i>verb</i> закрыва́ць, закры́ць<br/>
+				<b>2.</b> <i>adjective</i> закры́ты
 				</p>]]>
 		</definition>
 	</article>
 
 	<article>
-		<key>copy</key>
+		<key>command</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> копія<br/>
-			<b>2.</b> <i>verb</i> капіяваць, скапіяваць]]>
+			<b>1.</b> <i>noun</i> зага́д<br/>
+			<b>2.</b> <i>adjective</i> зага́дны]]>
 		</definition>
 	</article>
 
 	<article>
+		<key>command line</key>
+		<definition type="h">зага́дны радок</definition>
+	</article>
+
+	<article>
 		<key>content</key>
-		<definition type="h">зьмесьціва</definition>
+		<definition type="h">зьме́сьціва</definition>
 	</article>
 
 	<article>
@@ -113,34 +136,42 @@
 	</article>
 
 	<article>
+		<key>copy</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> копія<br/>
+			<b>2.</b> <i>verb</i> капіява́ць, скапіява́ць]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>create</key>
-		<definition type="h">ствараць, стварыць</definition>
+		<definition type="h">ствара́ць, ствары́ць</definition>
 	</article>
 
 	<article>
 		<key>current</key>
-		<definition type="h">дзейны</definition>
+		<definition type="h">дзе́йны</definition>
 	</article>
 
 	<article>
 		<key>cut</key>
-		<definition type="h"><![CDATA[вымаць, выняць, вымі <i>заг. л.</i>]]></definition>
+		<definition type="h"><![CDATA[выма́ць, вы́няць, вы́мі <i>заг. лад</i>]]></definition>
 	</article>
 
 	<article>
 		<key>data</key>
-		<definition type="h">зьвесткі</definition>
+		<definition type="h">зьве́сткі</definition>
 	</article>
 
 	<article>
 		<key>default</key>
-		<definition type="h">перадвызначаны</definition>
+		<definition type="h">перадвы́значаны</definition>
 	</article>
 
 	<article>
 		<key>delete</key>
 		<synonym>remove</synonym>
-		<definition type="h">выдаляць, выдаліць</definition>
+		<definition type="h">выдаля́ць, вы́даліць</definition>
 	</article>
 
 	<article>
@@ -150,12 +181,12 @@
 
 	<article>
 		<key>desktop</key>
-		<definition type="h">стальніца</definition>
+		<definition type="h">стальні́ца</definition>
 	</article>
 
 	<article>
 		<key>device</key>
-		<definition type="h">прылада</definition>
+		<definition type="h">прыла́да</definition>
 	</article>
 
 	<article>
@@ -179,14 +210,23 @@
 		<key>disc</key>
 		<key>disk</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(носьбіты інфармацыі круглай формы: вініл, CD, DVD, Blue Ray)</i> кружэлка<br/>
+			<b>1.</b> <i>(носьбіты інфармацыі круглай формы: вініл, CD, DVD, Blue Ray)</i> кружэ́лка<br/>
 			<b>2.</b> <i>(іншыя носьбіты)</i> дыск]]>
 		</definition>
 	</article>
 
 	<article>
+		<key>double click</key>
+		<key>double-click</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> падвойны пстры́к<br/>
+			<b>2.</b> <i>verb</i> двойчы прсты́кнуць]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>download</key>
-		<definition type="h">спампаваць</definition>
+		<definition type="h">спампава́ць</definition>
 	</article>
 
 	<article>
@@ -201,15 +241,15 @@
 		<key>drive</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> дыск<br/>
-			<b>2.</b> кружэльнік <i>(для прыладаў, дзе ўжываецца кружэлка: CD/DVD/Blueray drive)</i>]]>
+			<b>2.</b> кружэ́льнік <i>(для прыладаў, дзе ўжываецца кружэлка: CD/DVD/Blueray drive)</i>]]>
 	</definition>
 	</article>
 
 	<article>
 		<key>edit</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(зрабіць адвольныя зьмены ў дакумэнце)</i> рэдагаваць, зрэдагаваць<br/>
-			<b>2.</b> <i>(зрабіць шаблённыя зьмены ў віртуальным аб’екце)</i> зьмяняць, зьмяніць]]>
+			<b>1.</b> <i>(зрабіць адвольныя зьмены ў дакумэнце)</i> рэдагава́ць, зрэдагава́ць<br/>
+			<b>2.</b> <i>(зрабіць шаблённыя зьмены ў віртуальным аб’екце)</i> зьмяня́ць, зьмяні́ць]]>
 		</definition>
 	</article>
 
@@ -234,26 +274,26 @@
 	<article>
 		<key>font family</key>
 		<synonym>typeface</synonym>
-		<definition type="h">ґарнітура</definition>
+		<definition type="h">ґарніту́ра</definition>
 	</article>
 
 	<article>
 		<key>hardware</key>
-		<definition type="h">абсталяваньне</definition>
+		<definition type="h">абсталява́ньне</definition>
 	</article>
 
 	<article>
 		<key>help</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> дапамога<br/>
-			<b>2.</b> <i>verb</i> дапамагаць, дапамагчы]]>
+			<b>2.</b> <i>verb</i> дапамага́ць, дапамагчы́]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>icon</key>
 		<definition type="h"><![CDATA[
-			значак
+			зна́чак
 				<p style="margin: 0px 16px 0px">
 				<b>адзіночны лік:</b>
 					<i>Н:</i> зна&#x301;чак,
@@ -275,67 +315,84 @@
 
 	<article>
 		<key>information</key>
-		<definition type="h">інфармацыя</definition>
+		<definition type="h">інфарма́цыя</definition>
 	</article>
 
 	<article>
 		<key>install</key>
-		<definition type="h">усталяваць</definition>
+		<definition type="h">усталява́ць</definition>
+	</article>
+
+	<article>
+		<key>installation</key>
+		<synonym>installing</synonym>
+		<definition type="h">усталява́ньне</definition>
+	</article>
+
+	<article>
+		<key>installing</key>
+		<synonym>installation</synonym>
+		<definition type="h">усталёўваньне</definition>
+	</article>
+
+	<article>
+		<key>installer</key>
+		<definition type="h">усталёўнік</definition>
 	</article>
 
 	<article>
 		<key>internet</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> інтэрнэт<br/>
-			<b>2.</b> сеціва <i>(у тэкстах нетэрміналягічнага характару)</i>]]>
+			<b>1.</b> інтэрнэ́т<br/>
+			<b>2.</b> се́ціва <i>(у тэкстах нетэрміналягічнага характару)</i>]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>intranet</key>
-		<definition type="h">інтранэт</definition>
+		<definition type="h">інтранэ́т</definition>
 	</article>
 
 	<article>
 		<key>inversion</key>
-		<definition type="h">інвэрсія</definition>
+		<definition type="h">інвэ́рсія</definition>
 	</article>
 
 	<article>
 		<key>invert</key>
-		<definition type="h">інвертаваць, зынвертаваць</definition>
+		<definition type="h">інвэртава́ць, зынвэртава́ць</definition>
 	</article>
 
 	<article>
 		<key>invertable</key>
-		<definition type="h">інвертавальны</definition>
+		<definition type="h">інвэртава́льны</definition>
 	</article>
 
 	<article>
 		<key>inverted</key>
-		<definition type="h">інвэрсійны</definition>
+		<definition type="h">інвэрсі́йны</definition>
 	</article>
 
 	<article>
 		<key>italic</key>
-		<definition type="h">курсіў</definition>
+		<definition type="h">курсі́ў</definition>
 	</article>
 
 	<article>
 		<key>key</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(keyboard key)</i> клявіша <i>ж.</i>, клявіш <i>м.</i>]]>
+			<b>1.</b> <i>(keyboard key)</i> кля́віша <i>ж.</i>, кля́віш <i>м.</i>]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>keyboard</key>
-		<definition type="h">клявіятура</definition>
+		<definition type="h">клявіяту́ра</definition>
 	</article>
 
 	<article>
 		<key>metadata</key>
-		<definition type="h">мэтазьвесткі</definition>
+		<definition type="h">мэтазьве́сткі</definition>
 	</article>
 
 	<article>
@@ -345,12 +402,12 @@
 
 	<article>
 		<key>mount</key>
-		<definition type="h">прымацаваць</definition>
+		<definition type="h">прымацава́ць</definition>
 	</article>
 
 	<article>
 		<key>unmount</key>
-		<definition type="h">адмацаваць</definition>
+		<definition type="h">адмацава́ць</definition>
 	</article>
 
 	<article>
@@ -361,17 +418,17 @@
 	<article>
 		<key>move</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> <i>(агульна ўжываны варыянт)</i> перамяшчаць, перамясьціць<br/>
+			<b>I</b> <i>(агульна ўжываны варыянт)</i> перамяшча́ць, перамясьці́ць<br/>
 			<b>II</b> <i>(паводле кантэксту можна выкарыстоўваць іншыя варыянты,
 			якія больш адпавядаюць меркаванаму мэтафарычнаму значэньню)</i>
 				<p style="margin: 0px 16px 0px">
-				<b>1.</b> перасоўваць, перасунуць, пасунуць
+				<b>1.</b> перасоўваць, перасу́нуць, пасу́нуць
 				</p>
 					<p style="margin: 0px 32px 0px">
 					<b>move up</b> пасунуць уверх
 					</p>
 				<p style="margin: 0px 16px 0px">
-				<b>2.</b> пераносіць, перанесьці
+				<b>2.</b> пераносіць, перане́сьці
 				</p>]]>
 		</definition>
 	</article>
@@ -379,11 +436,11 @@
 	<article>
 		<key>name</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(для адушаўлёных)</i> імя
+			<b>1.</b> <i>(для адушаўлёных)</i> імя́
 				<p style="margin: 0px 16px 0px">
 				<b>user name</b> імя карыстальніка
 				</p>
-			<b>2.</b> <i>(для неадушаўлёных)</i> назва
+			<b>2.</b> <i>(для неадушаўлёных)</i> на́зва
 				<p style="margin: 0px 16px 0px">
 				<b>computer name</b> назва кампутару<br/>
 				<b>file name</b> назва файла<br/>
@@ -395,14 +452,14 @@
 	<article>
 		<key>network</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> сетка<br/>
-			<b>2.</b> <i>adjective</i> сеткавы]]>
+			<b>1.</b> <i>noun</i> се́тка<br/>
+			<b>2.</b> <i>adjective</i> се́ткавы]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>normal</key>
-		<definition type="h">звычайны</definition>
+		<definition type="h">звыча́йны</definition>
 	</article>
 
 	<article>
@@ -414,9 +471,9 @@
 		<key>online</key>
 		<key>on-line</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>adverb</i> у сеціве<br/>
-			<b>2.</b> <i>adjective</i> сеткавы <i>(спалучаны зь сеткай)</i>,
-			                           сеціўны <i>(спалучаны зь сецівам)</i>]]>
+			<b>1.</b> <i>adverb</i> у се́ціве<br/>
+			<b>2.</b> <i>adjective</i> се́ткавы <i>(спалучаны зь сеткай)</i>,
+			                           се́ціўны <i>(спалучаны зь сецівам)</i>]]>
 		</definition>
 	</article>
 
@@ -424,29 +481,29 @@
 		<key>offline</key>
 		<key>off-line</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>adverb</i> па-за сецівам<br/>
-			<b>2.</b> <i>adjective</i> пазасеткавы <i>(не спалучаны зь сеткай)</i>,
-			                           пазасеціўны <i>(не спалучаны зь сецівам)</i>]]>
+			<b>1.</b> <i>adverb</i> па-за се́цівам<br/>
+			<b>2.</b> <i>adjective</i> пазасе́ткавы <i>(не спалучаны зь сеткай)</i>,
+			                           пазасе́ціўны <i>(не спалучаны зь сецівам)</i>]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>open</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> <i>(як мэтафара)</i> адчыняць, адчыніць
+			<b>I</b> <i>(як мэтафара)</i> адчыня́ць, адчыні́ць
 				<p style="margin: 0px 16px 0px">
 				<b>open a file</b> адчыніць файл<br/>
 				<b>open a window</b> адчыніць акно
 				</p>
 			<b>II</b> <i>(зрабіць даступным для іншых)</i>
 				<p style="margin: 0px 16px 0px">
-				<b>1.</b> <i>verb</i> адкрываць, адкрыць<br/>
+				<b>1.</b> <i>verb</i> адкрыва́ць, адкры́ць<br/>
 				</p>
 					<p style="margin: 0px 32px 0px">
 					<b>open source of program</b> адкрыць зыходны код праграмы
 					</p>
 				<p style="margin: 0px 16px 0px">
-				<b>2.</b> <i>adjective</i> адкрыты
+				<b>2.</b> <i>adjective</i> адкры́ты
 				</p>
 					<p style="margin: 0px 32px 0px">
 					<b>open source</b> адкрыты зыходны код
@@ -457,103 +514,113 @@
 	<article>
 		<key>order</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> парадак<br/>
-			<b>2.</b> <i>verb</i> парадкаваць, спарадкаваць]]>
+			<b>1.</b> <i>noun</i> пара́дак<br/>
+			<b>2.</b> <i>verb</i> парадкава́ць, спара́дкаваць]]>
 		</definition>
 	</article>
 
 	<article>
+		<key>panel</key>
+		<definition type="h">панэ́ль</definition>
+	</article>
+
+	<article>
 		<key>parameter</key>
-		<definition type="h">парамэтр, парамэтар</definition>
+		<definition type="h">пара́мэтр, пара́мэтар</definition>
 	</article>
 
 	<article>
 		<key>partition</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(noun)</i> разьдзел<br/>
-			<b>2.</b> <i>(verb)</i> дзяліць, падзяліць]]>
+			<b>1.</b> <i>(noun)</i> разьдзе́л<br/>
+			<b>2.</b> <i>(verb)</i> дзялі́ць, падзялі́ць]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>partitioning</key>
 		<definition type="h"><![CDATA[
-			падзел <i>(працэс)</i>]]>
+			падзе́л <i>(працэс)</i>]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>paste</key>
-		<definition type="h">устаўляць, уставіць</definition>
+		<definition type="h">устаўля́ць, уста́віць</definition>
+	</article>
+
+	<article>
+		<key>pixel</key>
+		<definition type="h">пі́ксэль</definition>
 	</article>
 
 	<article>
 		<key>preferences</key>
 		<synonym>settings</synonym>
-		<definition type="h">налады</definition>
+		<definition type="h">нала́ды</definition>
 	</article>
 
 	<article>
 		<key>press</key>
-		<definition type="h">ціснуць, націснуць</definition>
+		<definition type="h">ці́снуць, наці́снуць</definition>
 	</article>
 
 	<article>
 		<key>print</key>
-		<definition type="h">друкаваць, надрукаваць</definition>
+		<definition type="h">друкава́ць, надрукава́ць</definition>
 	</article>
 
 	<article>
 		<key>printer</key>
-		<definition type="h">друкарка</definition>
+		<definition type="h">друка́рка</definition>
 	</article>
 
 	<article>
 		<key>proportional</key>
-		<definition type="h">сумерны</definition>
+		<definition type="h">суме́рны</definition>
 	</article>
 
 	<article>
 		<key>recycle bin</key>
 		<synonym>trash can</synonym>
-		<definition type="h">сьметніца</definition>
+		<definition type="h">сьме́тніца</definition>
 	</article>
 
 	<article>
 		<key>redo</key>
-		<definition type="h">узнаўляць, узнавіць</definition>
+		<definition type="h">узнаўля́ць, узнаві́ць</definition>
 	</article>
 
 	<article>
 		<key>refresh</key>
-		<definition type="h">абнаўляць, абнавіць</definition>
+		<definition type="h">абнаўля́ць, абнаві́ць</definition>
 	</article>
 
 	<article>
 		<key>remove</key>
 		<synonym>delete</synonym>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(для выдаленьня)</i> выдаляць, выдаліць<br/>
-			<b>2.</b> <i>(для выманьня элемэнту са сьпісу)</i> прыбіраць, прыбраць]]>
+			<b>1.</b> <i>(для выдаленьня)</i> выдаля́ць, вы́даліць<br/>
+			<b>2.</b> <i>(для выманьня элемэнту са сьпісу)</i> прыбіра́ць, прыбра́ць]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>rename</key>
-		<definition type="h">пераназываць, пераназваць</definition>
+		<definition type="h">пераназыва́ць, пераназва́ць</definition>
 	</article>
 
 	<article>
 		<key>repartition</key>
 		<definition type="h"><![CDATA[
-			<i>(verb)</i> дзяліць наноў, падзяліць наноў]]>
+			<i>(verb)</i> дзялі́ць наноў, падзялі́ць наноў]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>repartitioning</key>
 		<definition type="h"><![CDATA[
-			перадзел <i>(працэс)</i>]]>
+			перадзе́л <i>(працэс)</i>]]>
 		</definition>
 	</article>
 
@@ -569,19 +636,19 @@
 
 	<article>
 		<key>restore</key>
-		<definition type="h">аднавіць</definition>
+		<definition type="h">аднаві́ць</definition>
 	</article>
 
 	<article>
 		<key>save</key>
-		<definition type="h">захоўваць, захаваць</definition>
+		<definition type="h">захоўваць, захава́ць</definition>
 	</article>
 
 	<article>
 		<key>scan</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(апэрацыя сканэра)</i> сканаваць, сасканаваць<br/>
-			<b>2.</b> <i>(пошук у чымсьці)</i> праглядаць, праглядзець, прагледзець]]>
+			<b>1.</b> <i>(апэрацыя сканэра)</i> сканава́ць, сасканава́ць<br/>
+			<b>2.</b> <i>(пошук у чымсьці)</i> прагляда́ць, праглядзе́ць, прагле́дзець]]>
 		</definition>
 	</article>
 
@@ -593,30 +660,22 @@
 	<article>
 		<key>settings</key>
 		<synonym>preferences</synonym>
-		<definition type="h">налады</definition>
-	</article>
-
-	<article>
-		<key>shortcut</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(клявіятурны)</i> скарот<br/>
-			<b>2.</b> ???]]>
-		</definition>
+		<definition type="h">нала́ды</definition>
 	</article>
 
 	<article>
 		<key>size</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(агульнаўжыванае)</i> памер<br/>
-			<b>2.</b> <i>(для шрыфтоў)</i> памер]]>
+			<b>1.</b> <i>(агульнаўжыванае)</i> паме́р<br/>
+			<b>2.</b> <i>(для шрыфтоў)</i> паме́р]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>software</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> апраграмаваньне<br/>
-			<b>2.</b> <i>adjective</i> праграмны
+			<b>1.</b> <i>noun</i> апраграмава́ньне<br/>
+			<b>2.</b> <i>adjective</i> прагра́мны
 			]]>
 		</definition>
 	</article>
@@ -626,18 +685,18 @@
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> сховішча<br/>
 			<b>2.</b> <i>verb</i> захоўванне<br/>
-			<b>3.</b> <i>adjective</i> захавальны]]>
+			<b>3.</b> <i>adjective</i> захава́льны]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>store</key>
-		<definition type="h">захоўваць, захаваць</definition>
+		<definition type="h">захоўваць, захава́ць</definition>
 	</article>
 
 	<article>
 		<key>strikethrough</key>
-		<definition type="h">закрэсьліць</definition>
+		<definition type="h">закрэ́сьліць</definition>
 	</article>
 
 	<article>
@@ -648,21 +707,21 @@
 	<article>
 		<key>table of contents</key>
 		<synonym>contents</synonym>
-		<definition type="h">зьмест</definition>
+		<definition type="h">зьме́ст</definition>
 	</article>
 
 	<article>
 		<key>tile</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> кафля <i>(адзінка ці зборнае)</i><br/>
-			<b>2.</b> <i>verb</i> кафляваць, закафляваць]]>
+			<b>1.</b> <i>noun</i> ка́фля <i>(адзінка ці зборнае)</i><br/>
+			<b>2.</b> <i>verb</i> кафлява́ць, закафлява́ць]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>trash</key>
 		<definition type="h"><![CDATA[
-			сьмецьце <i>(зьмесьціва trash can, recycle bin</i>
+			сьме́цьце <i>(зьмесьціва trash can, recycle bin</i>
 				<p style="margin: 0px 16px 0px">
 				<b>move to trash</b> перамясьціць у сьметніцу
 				</p>]]>
@@ -672,54 +731,76 @@
 	<article>
 		<key>trash can</key>
 		<synonym>recycle bin</synonym>
-		<definition type="h">сьметніца</definition>
+		<definition type="h">сьме́тніца</definition>
 	</article>
 
 	<article>
 		<key>typeface</key>
 		<synonym>font family</synonym>
-		<definition type="h">ґарнітура</definition>
+		<definition type="h">ґарніту́ра</definition>
 	</article>
 
 	<article>
 		<key>underline</key>
-		<definition type="h">падкрэсьліць</definition>
+		<definition type="h">падкрэ́сьліць</definition>
 	</article>
 
 	<article>
 		<key>undo</key>
-		<definition type="h">адрабляць, адрабіць</definition>
+		<definition type="h">адрабля́ць, адрабі́ць</definition>
 	</article>
 
 	<article>
 		<key>unistall</key>
-		<definition type="h">высталёўваць, высталяваць</definition>
+		<definition type="h">высталёўваць, вы́сталяваць</definition>
+	</article>
+
+	<article>
+		<key>uninstallation</key>
+		<synonym>uninstalling</synonym>
+		<definition type="h">высталява́ньне</definition>
+	</article>
+
+	<article>
+		<key>uninstalling</key>
+		<synonym>uninstallation</synonym>
+		<definition type="h">высталёўваньне</definition>
+	</article>
+
+	<article>
+		<key>uninstaller</key>
+		<definition type="h">высталёўнік</definition>
 	</article>
 
 	<article>
 		<key>upload</key>
-		<definition type="h">запампаваць</definition>
+		<definition type="h">запампава́ць</definition>
 	</article>
 
 	<article>
 		<key>user</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> карыстальнік<br/>
-			<b>2.</b> <i>adjective</i> карыстальніцкі]]>
+			<b>1.</b> <i>noun</i> карыста́льнік<br/>
+			<b>2.</b> <i>adjective</i> карыста́льніцкі]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>web</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> сеціва<br/>
-			<b>2.</b> <i>adjective</i> сеціўны]]>
+			<b>1.</b> <i>noun</i> се́ціва<br/>
+			<b>2.</b> <i>adjective</i> се́ціўны]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>window</key>
 		<definition type="h">акно</definition>
+	</article>
+
+	<article>
+		<key>wizard</key>
+		<definition type="h">памочнік, ма́йстар</definition>
 	</article>
 
 	<article>
