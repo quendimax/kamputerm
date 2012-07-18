@@ -17,6 +17,12 @@
 	</article>
 
 	<article>
+		<key>add-on</key>
+		<key>addon</key>
+		<definition type="h">дада́так</definition>
+	</article>
+
+	<article>
 		<key>align</key>
 		<definition type="h">раўнава́ць, зраўнава́ць</definition>
 	</article>
@@ -73,6 +79,11 @@
 	</article>
 
 	<article>
+		<key>bitrate</key>
+		<definition type="h">бітрэ́йт</definition>
+	</article>
+
+	<article>
 		<key>bold</key>
 		<definition type="h">тоўсты</definition>
 	</article>
@@ -90,6 +101,16 @@
 	<article>
 		<key>catalogue</key>
 		<definition type="h">каталёг</definition>
+	</article>
+
+	<article>
+		<key>checkbox</key>
+		<definition type="h">поле пту́шкі</definition>
+	</article>
+
+	<article>
+		<key>checkmark</key>
+		<definition type="h">пту́шка</definition>
 	</article>
 
 	<article>
@@ -137,6 +158,11 @@
 	<article>
 		<key>command line</key>
 		<definition type="h">зага́дны радок</definition>
+	</article>
+
+	<article>
+		<key>complete</key>
+		<definition type="h">сканча́ць, скончыць</definition>
 	</article>
 
 	<article>
@@ -309,6 +335,11 @@
 	</article>
 
 	<article>
+		<key>downloader</key>
+		<definition type="h">пампава́льнік</definition>
+	</article>
+
+	<article>
 		<key>drag&amp;drop</key>
 		<key>drag &amp; drop</key>
 		<definition type="h">перацягну́ць</definition>
@@ -378,6 +409,22 @@
 	</article>
 
 	<article>
+		<key>game</key>
+		<definition type="h">гульня́</definition>
+	</article>
+
+	<article>
+		<key>hang</key>
+		<definition type="h">завіса́ць, заві́снуць</definition>
+	</article>
+
+	<article>
+		<key>hang up</key>
+		<synonym>disconnect</synonym>
+		<definition type="h"><![CDATA[<i>глядзіце</i> <b>disconnect</b>]]></definition>
+	</article>
+
+	<article>
 		<key>hardware</key>
 		<definition type="h">абсталява́ньне</definition>
 	</article>
@@ -387,6 +434,14 @@
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> дапамога<br/>
 			<b>2.</b> <i>verb</i> дапамага́ць, дапамагчы́]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>home</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> пача́так<br/>
+			<b>2.</b> <i>adjective</i> пачатковы]]>
 		</definition>
 	</article>
 
@@ -523,6 +578,54 @@
 			<b>1.</b> <i>noun</i> заладава́насьць<br/>
 			<b>2.</b> <i>verb</i> ладава́ць, заладава́ць]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>loader</key>
+		<definition type="h">ладава́льнік</definition>
+	</article>
+
+	<article>
+		<key>local</key>
+		<definition type="h"><![CDATA[
+			<b>I</b> <i>(у тэрміналягічным сэнсе)</i> ляка́льны<br/>
+			<b>II.</b> <i>(у агульнамоўным сэнсе)</i> мясцовы]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>locale</key>
+		<definition type="h">ляка́ль</definition>
+	</article>
+
+	<article>
+		<key>locality</key>
+		<definition type="h"><![CDATA[мясцовасьць <i>(агульна моўнае)</i>]]></definition>
+	</article>
+
+	<article>
+		<key>localizable</key>
+		<definition type="h">лякалізава́льны</definition>
+	</article>
+
+	<article>
+		<key>localization</key>
+		<definition type="h">лякаліза́цыя</definition>
+	</article>
+
+	<article>
+		<key>localize</key>
+		<definition type="h">лякалізава́ць</definition>
+	</article>
+
+	<article>
+		<key>localized</key>
+		<definition type="h">лякалізава́ны</definition>
+	</article>
+
+	<article>
+		<key>lose</key>
+		<definition type="h">прагуля́ць</definition>
 	</article>
 
 	<article>
@@ -671,6 +774,11 @@
 	</article>
 
 	<article>
+		<key>page</key>
+		<definition type="h">старонка, бачы́на</definition>
+	</article>
+
+	<article>
 		<key>paging</key>
 		<synonym>swaping</synonym>
 		<definition type="h">падме́на</definition>
@@ -713,6 +821,11 @@
 	</article>
 
 	<article>
+		<key>perfomance</key>
+		<definition type="h">прадукцы́йнаць</definition>
+	</article>
+
+	<article>
 		<key>personal</key>
 		<definition type="h">пэрсана́льны</definition>
 	</article>
@@ -736,6 +849,28 @@
 	<article>
 		<key>pixel</key>
 		<definition type="h">пі́ксэль</definition>
+	</article>
+
+	<article>
+		<key>play</key>
+		<definition type="h"><![CDATA[
+			<b>I.</b> <i>(для узнаўленьня відэа-, аўдыёфайлаў)</i> прайграва́ць, прайгра́ць<br/>
+			<b>II.</b> <i>(для відэагульняў)</i> гуля́ць, згуля́ць]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>player</key>
+		<definition type="h"><![CDATA[
+			<b>I.</b> <i>(для узнаўленьня відэа-, аўдыёфайлаў)</i> прайграва́льнік<br/>
+			<b>II.</b> <i>(для відэагульняў)</i> гуле́ц]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>plugin</key>
+		<key>plug-in</key>
+		<definition type="h">убудова</definition>
 	</article>
 
 	<article>
@@ -770,6 +905,14 @@
 	</article>
 
 	<article>
+		<key>rate</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> часьціня<br/>
+			<b>2.</b> <i>verb</i> ацэньваць, ацаніць]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>recycle bin</key>
 		<synonym>trash can</synonym>
 		<definition type="h">сьме́тніца</definition>
@@ -788,6 +931,11 @@
 	<article>
 		<key>reload</key>
 		<definition type="h">перазаладоўваць, перазаладава́ць</definition>
+	</article>
+
+	<article>
+		<key>remote</key>
+		<definition type="h">адле́глы</definition>
 	</article>
 
 	<article>
@@ -989,6 +1137,11 @@
 	</article>
 
 	<article>
+		<key>update</key>
+		<definition type="h">абнаўле́ньне</definition>
+	</article>
+
+	<article>
 		<key>upload</key>
 		<definition type="h">запампава́ць</definition>
 	</article>
@@ -1015,8 +1168,23 @@
 	</article>
 
 	<article>
+		<key>win</key>
+		<definition type="h">вы́гуляць</definition>
+	</article>
+
+	<article>
 		<key>window</key>
 		<definition type="h">акно</definition>
+	</article>
+
+	<article>
+		<key>wire</key>
+		<definition type="h">дротавы</definition>
+	</article>
+
+	<article>
+		<key>wireless</key>
+		<definition type="h">бяздротавы</definition>
 	</article>
 
 	<article>
