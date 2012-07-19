@@ -60,6 +60,26 @@
 	</article>
 
 	<article>
+		<key>authenticate</key>
+		<definition type="h">апазнава́ць, апазна́ць</definition>
+	</article>
+
+	<article>
+		<key>authentication</key>
+		<definition type="h">апазнава́ньне</definition>
+	</article>
+
+	<article>
+		<key>authorize</key>
+		<definition type="h">упаўнава́жваць, упаўнава́жыць</definition>
+	</article>
+
+	<article>
+		<key>authorization</key>
+		<definition type="h">упаўнава́жаньне</definition>
+	</article>
+
+	<article>
 		<key>backup</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> рэзэрвовая копія<br/>
@@ -101,6 +121,17 @@
 	<article>
 		<key>catalogue</key>
 		<definition type="h">каталёг</definition>
+	</article>
+
+	<article>
+		<key>char</key>
+		<key>character</key>
+		<definition type="h">знак</definition>
+	</article>
+
+	<article>
+		<key>charset</key>
+		<definition type="h">знаказбор</definition>
 	</article>
 
 	<article>
@@ -148,6 +179,11 @@
 	</article>
 
 	<article>
+		<key>column</key>
+		<definition type="h">слупок</definition>
+	</article>
+
+	<article>
 		<key>command</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> зага́д<br/>
@@ -180,8 +216,7 @@
 		<key>connect</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>(пры раўназначным злучэньні)</i> злучыць<br/>
-			<b>2.</b> <i>(пры нераўназначным злучэньні)</i> далучыць<br/>
-			<b>3.</b> <i>(у значэньні plug)</i> падлучыць]]>
+			<b>2.</b> <i>(пры нераўназначным злучэньні)</i> далучыць<br/>]]>
 		</definition>
 	</article>
 
@@ -193,6 +228,24 @@
 	<article>
 		<key>connection</key>
 		<definition type="h"><![CDATA[<i>noun</i> злучэньне]]></definition>
+	</article>
+
+	<article>
+		<key>connector</key>
+		<definition type="h">злуча́льнік</definition>
+	</article>
+
+	<article>
+		<key>control</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> элемэ́нт кірава́ньня<br/>
+			<b>2.</b> <i>verb</i> кірава́ць]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>controller</key>
+		<definition type="h">кантролер</definition>
 	</article>
 
 	<article>
@@ -250,7 +303,14 @@
 
 	<article>
 		<key>default</key>
-		<definition type="h">перадвы́значаны</definition>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>adjective</i> станда́ртны<br/>
+			<b>2.</b> <i>noun</i> станда́ртны, станда́ртныя <i>(у залежнасьці ад
+			таго, што маецца на ўвазе: defaults = defaults settings — стандартныя)</i>
+				<p style="margin: 0px 16px 0px">
+				<b>standart default</b> стандартны перадвызначаны
+				</p>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -385,14 +445,24 @@
 	</article>
 
 	<article>
+		<key>encoding</key>
+		<definition type="h">кадава́ньне</definition>
+	</article>
+
+	<article>
 		<key>file</key>
 		<definition type="h">файл</definition>
 	</article>
 
 	<article>
+		<key>firewall</key>
+		<definition type="h">заслона</definition>
+	</article>
+
+	<article>
 		<key>folder</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> тэчка<br/>
+			<b>I</b> тэ́чка<br/>
 			<b>II</b> <i>глядзіце</i> <b>directory</b>]]>
 		</definition>
 	</article>
@@ -409,8 +479,21 @@
 	</article>
 
 	<article>
+		<key>format</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> фарма́т<br/>
+			<b>2.</b> <i>verb</i> фарматава́ць, адфарматава́ць]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>game</key>
 		<definition type="h">гульня́</definition>
+	</article>
+
+	<article>
+		<key>glyph</key>
+		<definition type="h">гліф</definition>
 	</article>
 
 	<article>
@@ -446,6 +529,11 @@
 	</article>
 
 	<article>
+		<key>hot key</key>
+		<definition type="h">гара́чая кля́віша, гара́чы кля́віш</definition>
+	</article>
+
+	<article>
 		<key>icon</key>
 		<definition type="h"><![CDATA[
 			зна́чак
@@ -473,6 +561,11 @@
 		<key>ID</key>
 		<synonym>identifier</synonym>
 		<definition type="h">id, ID</definition>
+	</article>
+
+	<article>
+		<key>identification</key>
+		<definition type="h">ідэнтыфіка́цыя</definition>
 	</article>
 
 	<article>
@@ -550,9 +643,13 @@
 	</article>
 
 	<article>
-		<key>inverted</key>
 		<key>inverse</key>
 		<definition type="h">інвэрсі́йны</definition>
+	</article>
+
+	<article>
+		<key>inverted</key>
+		<definition type="h">інвэртава́ны</definition>
 	</article>
 
 	<article>
@@ -624,8 +721,38 @@
 	</article>
 
 	<article>
+		<key>log in</key>
+		<definition type="h">уваходзіць, увайсьці́</definition>
+	</article>
+
+	<article>
+		<key>log out</key>
+		<definition type="h">выходзіць, вы́йсьці</definition>
+	</article>
+
+	<article>
+		<key>logging in</key>
+		<definition type="h">уваход</definition>
+	</article>
+
+	<article>
+		<key>logging out</key>
+		<definition type="h">вы́хад</definition>
+	</article>
+
+	<article>
 		<key>lose</key>
 		<definition type="h">прагуля́ць</definition>
+	</article>
+
+	<article>
+		<key>manage</key>
+		<definition type="h">кірава́ць</definition>
+	</article>
+
+	<article>
+		<key>manager</key>
+		<definition type="h">кіраўні́к</definition>
 	</article>
 
 	<article>
@@ -803,8 +930,8 @@
 	<article>
 		<key>partition</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(noun)</i> разьдзе́л<br/>
-			<b>2.</b> <i>(verb)</i> дзялі́ць, падзялі́ць]]>
+			<b>1.</b> <i>noun</i> разьдзе́л<br/>
+			<b>2.</b> <i>verb</i> дзялі́ць, падзялі́ць]]>
 		</definition>
 	</article>
 
@@ -967,6 +1094,14 @@
 	</article>
 
 	<article>
+		<key>report</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> справазда́ча<br/>
+			<b>2.</b> <i>verb</i> паведамля́ць, паве́даміць]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>repository</key>
 		<definition type="h">сховішча</definition>
 	</article>
@@ -979,6 +1114,19 @@
 	<article>
 		<key>restore</key>
 		<definition type="h">аднаві́ць</definition>
+	</article>
+
+	<article>
+		<key>roaming</key>
+		<definition type="h">блука́ньне</definition>
+	</article>
+
+	<article>
+		<key>sample</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> узор<br/>
+			<b>2.</b> <i>adjective</i> узорны]]>
+		</definition>
 	</article>
 
 	<article>
@@ -1008,6 +1156,14 @@
 		<key>settings</key>
 		<synonym>preferences</synonym>
 		<definition type="h">нала́ды</definition>
+	</article>
+
+	<article>
+		<key>shortcut</key>
+		<synonym>hot key</synonym>
+		<definition type="h"><![CDATA[
+			<b>I.</b> <b>keyboard ~</b> клявіятурны скарот]]>
+		</definition>
 	</article>
 
 	<article>
@@ -1052,6 +1208,11 @@
 	</article>
 
 	<article>
+		<key>summary</key>
+		<definition type="h">падсумава́ньне</definition>
+	</article>
+
+	<article>
 		<key>swaping</key>
 		<synonym>paging</synonym>
 		<definition type="h">падме́на</definition>
@@ -1061,6 +1222,11 @@
 		<key>swapfile</key>
 		<synonym>pagefile</synonym>
 		<definition type="h">файл падме́ны</definition>
+	</article>
+
+	<article>
+		<key>symbol</key>
+		<definition type="h">сы́мбаль</definition>
 	</article>
 
 	<article>
@@ -1138,12 +1304,28 @@
 
 	<article>
 		<key>update</key>
-		<definition type="h">абнаўле́ньне</definition>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> абнаўле́ньне<br/>
+			<b>2.</b> <i>verb</i> абнаўля́ць, абнаві́ць]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>upgrade</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> мадэрніза́цыя<br/>
+			<b>2.</b> <i>verb</i> мадэрнізава́ць]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>upload</key>
 		<definition type="h">запампава́ць</definition>
+	</article>
+
+	<article>
+		<key>URL</key>
+		<definition type="h"><![CDATA[URL, адрас <i>(толькі для размоўнага)</i>]]></definition>
 	</article>
 
 	<article>
@@ -1160,11 +1342,21 @@
 	</article>
 
 	<article>
+		<key>variable</key>
+		<definition type="h">зьме́нная</definition>
+	</article>
+
+	<article>
 		<key>web</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> се́ціва<br/>
 			<b>2.</b> <i>adjective</i> се́ціўны]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>wheel</key>
+		<definition type="h">колца</definition>
 	</article>
 
 	<article>
@@ -1195,6 +1387,13 @@
 	<article>
 		<key>yes</key>
 		<definition type="h">так</definition>
+	</article>
+
+	<article>
+		<key>zoom</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> суме́р]]>
+		</definition>
 	</article>
 </contents>
 </stardict>
