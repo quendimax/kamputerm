@@ -450,6 +450,41 @@
 	</article>
 
 	<article>
+		<key>execute</key>
+		<definition type="h">выконваць, вы́канаць</definition>
+	</article>
+
+	<article>
+		<key>executable</key>
+		<definition type="h">выконвальны</definition>
+	</article>
+
+	<article>
+		<key>favorite</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>adjective</i> упадаба́ны<br/>
+			<b>2.</b> <i>noun</i> упадаба́нае, упадаба́ныя <i>мн. лік</i>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>feed</key>
+		<definition type="h"><![CDATA[
+			<b>I.</b> сту́жка<br/>
+			<b>II.</b> <i>(друк.)</i>
+				<p style="margin: 0px 16px 0px">
+				<b>1.</b> <i>noun</i> пада́ча<br/>
+				<b>2.</b> <i>verb</i> падава́ць
+				</p>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>feeder</key>
+		<definition type="h"><![CDATA[падавальнік <i>(друк.)</i>]]></definition>
+	</article>
+
+	<article>
 		<key>file</key>
 		<definition type="h">файл</definition>
 	</article>
@@ -530,7 +565,17 @@
 
 	<article>
 		<key>hot key</key>
+		<key>hotkey</key>
 		<definition type="h">гара́чая кля́віша, гара́чы кля́віш</definition>
+	</article>
+
+	<article>
+		<key>hyperlink</key>
+		<synonym>link</synonym>
+		<definition type="h"><![CDATA[
+			гі́пэрспасы́лка, спасы́лка <i>(у апошні час патрэбы ў назьве гіпэрспасылка
+			няма, таму паўсюдна выкарыстоўваецца спасылка)</i>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -667,6 +712,22 @@
 	<article>
 		<key>keyboard</key>
 		<definition type="h">клявіяту́ра</definition>
+	</article>
+
+	<article>
+		<key>landscape</key>
+		<definition type="h"><![CDATA[<i>(у тыпаграфіцы)</i> гарызанта́льны]]></definition>
+	</article>
+
+	<article>
+		<key>line</key>
+		<definition type="h">радок</definition>
+	</article>
+
+	<article>
+		<key>link</key>
+		<synonym>hyperlink</synonym>
+		<definition type="h">спасы́лка</definition>
 	</article>
 
 	<article>
@@ -826,8 +887,22 @@
 	</article>
 
 	<article>
+		<key>newsfeed</key>
+		<definition type="h">наві́нная сту́жка</definition>
+	</article>
+
+	<article>
 		<key>normal</key>
 		<definition type="h">звыча́йны</definition>
+	</article>
+
+	<article>
+		<key>offline</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>adverb</i> па-за се́цівам<br/>
+			<b>2.</b> <i>adjective</i> пазасе́ткавы <i>(не спалучаны зь сеткай)</i>,
+			                           пазасе́ціўны <i>(не спалучаны зь сецівам)</i>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -842,21 +917,10 @@
 
 	<article>
 		<key>online</key>
-		<key>on-line</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>adverb</i> у се́ціве<br/>
 			<b>2.</b> <i>adjective</i> се́ткавы <i>(спалучаны зь сеткай)</i>,
 			                           се́ціўны <i>(спалучаны зь сецівам)</i>]]>
-		</definition>
-	</article>
-
-	<article>
-		<key>offline</key>
-		<key>off-line</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i>adverb</i> па-за се́цівам<br/>
-			<b>2.</b> <i>adjective</i> пазасе́ткавы <i>(не спалучаны зь сеткай)</i>,
-			                           пазасе́ціўны <i>(не спалучаны зь сецівам)</i>]]>
 		</definition>
 	</article>
 
@@ -1001,6 +1065,37 @@
 	</article>
 
 	<article>
+		<key>port</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> порт<br/>
+			<b>2.</b> <i>verb</i> партава́ць, партава́ць <i>(перанос праграмы на іншую плятформу)</i>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>portable</key>
+		<definition type="h"><![CDATA[
+			<b>I.</b> пераносны <i>(пераноснае апраграмаванне, якое не патрабуе ўсталявання)</i><br/>
+			<b>II.</b> партава́льны <i>(адаптаванне апраграмавання пад іншую платформу)</i>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>portage</key>
+		<definition type="h">партава́ньне</definition>
+	</article>
+
+	<article>
+		<key>porting</key>
+		<definition type="h">партава́ньне</definition>
+	</article>
+
+	<article>
+		<key>portrait</key>
+		<definition type="h"><![CDATA[<i>(у тыпаграфіцы)</i> вэртыка́льны]]></definition>
+	</article>
+
+	<article>
 		<key>preferences</key>
 		<synonym>settings</synonym>
 		<definition type="h">нала́ды</definition>
@@ -1037,6 +1132,17 @@
 			<b>1.</b> <i>noun</i> часьціня<br/>
 			<b>2.</b> <i>verb</i> ацэньваць, ацаніць]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>recover</key>
+		<synonym>restore</synonym>
+		<definition type="h">аднаўля́ць, аднаві́ць</definition>
+	</article>
+
+	<article>
+		<key>recovery</key>
+		<definition type="h">аднаўле́ньне</definition>
 	</article>
 
 	<article>
@@ -1113,12 +1219,19 @@
 
 	<article>
 		<key>restore</key>
-		<definition type="h">аднаві́ць</definition>
+		<synonym>recover</synonym>
+		<definition type="h">аднаўля́ць, аднаві́ць</definition>
 	</article>
 
 	<article>
 		<key>roaming</key>
 		<definition type="h">блука́ньне</definition>
+	</article>
+
+	<article>
+		<key>RSS feed</key>
+		<key>RSS-feed</key>
+		<definition type="h">RSS-сту́жка</definition>
 	</article>
 
 	<article>
@@ -1153,9 +1266,27 @@
 	</article>
 
 	<article>
+		<key>sensor</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> сэнсар<br/>
+			<b>2.</b> <i>adjective</i> сэнсарны]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>server</key>
+		<definition type="h">сэ́рвер</definition>
+	</article>
+
+	<article>
 		<key>settings</key>
 		<synonym>preferences</synonym>
 		<definition type="h">нала́ды</definition>
+	</article>
+
+	<article>
+		<key>sheet</key>
+		<definition type="h">а́ркуш</definition>
 	</article>
 
 	<article>
@@ -1164,6 +1295,11 @@
 		<definition type="h"><![CDATA[
 			<b>I.</b> <b>keyboard ~</b> клявіятурны скарот]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>site</key>
+		<definition type="h">сайт</definition>
 	</article>
 
 	<article>
@@ -1203,6 +1339,14 @@
 	</article>
 
 	<article>
+		<key>string</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> радок <i>(калі string мае сэнс line)</i><br/>
+			<b>2.</b> чарада́ <i>(калі спэцыфічны тэрмін)</i>]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>style</key>
 		<definition type="h">стыль</definition>
 	</article>
@@ -1227,6 +1371,23 @@
 	<article>
 		<key>symbol</key>
 		<definition type="h">сы́мбаль</definition>
+	</article>
+
+	<article>
+		<key>synchronization</key>
+		<key>sync</key>
+		<definition type="h">сынхраніза́цыя</definition>
+	</article>
+
+	<article>
+		<key>synchronize</key>
+		<key>sync</key>
+		<definition type="h">сынхранізава́ць, ссынхранізава́ць</definition>
+	</article>
+
+	<article>
+		<key>synchronizing</key>
+		<definition type="h">сынхранізава́ньне</definition>
 	</article>
 
 	<article>
@@ -1344,6 +1505,16 @@
 	<article>
 		<key>variable</key>
 		<definition type="h">зьме́нная</definition>
+	</article>
+
+	<article>
+		<key>view</key>
+		<definition type="h">прагляда́ць, прагле́дзець, праглядзе́ць</definition>
+	</article>
+
+	<article>
+		<key>viewer</key>
+		<definition type="h">прагляда́льнік</definition>
 	</article>
 
 	<article>
