@@ -267,6 +267,11 @@
 	</article>
 
 	<article>
+		<key>cursor</key>
+		<definition type="h">курсор</definition>
+	</article>
+
+	<article>
 		<key>custom</key>
 		<definition type="h">дапасава́ны</definition>
 	</article>
@@ -540,6 +545,11 @@
 		<key>hang up</key>
 		<synonym>disconnect</synonym>
 		<definition type="h"><![CDATA[<i>глядзіце</i> <b>disconnect</b>]]></definition>
+	</article>
+
+	<article>
+		<key>hard disk</key>
+		<definition type="h">цьвёрды дыск</definition>
 	</article>
 
 	<article>
@@ -1352,8 +1362,24 @@
 	</article>
 
 	<article>
+		<key>subscript</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> падрадкоўе, падрадковы тэкст<br/>
+			<b>2.</b> <i>adjective</i> падрадковы]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>summary</key>
 		<definition type="h">падсумава́ньне</definition>
+	</article>
+
+	<article>
+		<key>superscript</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> надрадкоўе, надрадковы тэкст<br/>
+			<b>2.</b> <i>adjective</i> надрадковы]]>
+		</definition>
 	</article>
 
 	<article>
