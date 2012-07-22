@@ -17,8 +17,16 @@
 	</article>
 
 	<article>
+		<key>add-in</key>
+		<key>addin</key>
+		<synonym>add-on</synonym>
+		<definition type="h">дада́так</definition>
+	</article>
+
+	<article>
 		<key>add-on</key>
 		<key>addon</key>
+		<synonym>add-in</synonym>
 		<definition type="h">дада́так</definition>
 	</article>
 
@@ -121,6 +129,14 @@
 	<article>
 		<key>bold</key>
 		<definition type="h">тоўсты</definition>
+	</article>
+
+	<article>
+		<key>build</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> <i>noun</i> збор<br/>
+			<b>2.</b> <i>verb</i> зьбіра́ць, сабра́ць]]>
+		</definition>
 	</article>
 
 	<article>
@@ -437,6 +453,7 @@
 	<article>
 		<key>drag&amp;drop</key>
 		<key>drag &amp; drop</key>
+		<key>drag and drop</key>
 		<definition type="h">перацягну́ць</definition>
 	</article>
 
@@ -473,6 +490,11 @@
 			<b>1.</b> <i>(зрабіць адвольныя зьмены ў дакумэнце)</i> рэдагава́ць, зрэдагава́ць<br/>
 			<b>2.</b> <i>(зрабіць шаблённыя зьмены ў віртуальным аб’екце)</i> зьмяня́ць, зьмяні́ць]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>edition</key>
+		<definition type="h">выда́ньне</definition>
 	</article>
 
 	<article>
@@ -911,7 +933,32 @@
 
 	<article>
 		<key>log in</key>
+		<synonym>log on</synonym>
+		<synonym>sign in</synonym>
 		<definition type="h">уваходзіць, увайсьці́</definition>
+	</article>
+
+	<article>
+		<key>log off</key>
+		<synonym>sign out</synonym>
+		<synonym>log out</synonym>
+		<synonym>sign off</synonym>
+		<definition type="h">выходзіць, вы́йсьці</definition>
+	</article>
+
+	<article>
+		<key>log on</key>
+		<synonym>log in</synonym>
+		<synonym>sign in</synonym>
+		<definition type="h">уваходзіць, увайсьці́</definition>
+	</article>
+
+	<article>
+		<key>log out</key>
+		<synonym>sign off</synonym>
+		<synonym>sign out</synonym>
+		<synonym>log off</synonym>
+		<definition type="h">выходзіць, вы́йсьці</definition>
 	</article>
 
 	<article>
@@ -948,6 +995,11 @@
 	<article>
 		<key>manager</key>
 		<definition type="h">кіраўні́к</definition>
+	</article>
+
+	<article>
+		<key>manufacturer</key>
+		<definition type="h">вытворца</definition>
 	</article>
 
 	<article>
@@ -1286,6 +1338,16 @@
 	</article>
 
 	<article>
+		<key>publish</key>
+		<definition type="h">выдава́ць, вы́даць</definition>
+	</article>
+
+	<article>
+		<key>publisher</key>
+		<definition type="h">выдаве́ц</definition>
+	</article>
+
+	<article>
 		<key>rate</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> часьціня<br/>
@@ -1318,6 +1380,22 @@
 	<article>
 		<key>refresh</key>
 		<definition type="h">абнаўля́ць, абнаві́ць</definition>
+	</article>
+
+	<article>
+		<key>register</key>
+		<synonym>sign up</synonym>
+		<definition type="h">рэґістрава́ць, зарэґістрава́ць; рэґістрава́цца, зарэґістрава́цца</definition>
+	</article>
+
+	<article>
+		<key>registration</key>
+		<definition type="h">рэґістра́цыя</definition>
+	</article>
+
+	<article>
+		<key>release</key>
+		<definition type="h">вы́пуск</definition>
 	</article>
 
 	<article>
@@ -1380,6 +1458,11 @@
 		<key>restore</key>
 		<synonym>recover</synonym>
 		<definition type="h">аднаўля́ць, аднаві́ць</definition>
+	</article>
+
+	<article>
+		<key>revision</key>
+		<definition type="h">рэда́кцыя</definition>
 	</article>
 
 	<article>
@@ -1454,6 +1537,35 @@
 		<definition type="h"><![CDATA[
 			<b>I.</b> <b>keyboard ~</b> клявіятурны скарот]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>sign in</key>
+		<synonym>log on</synonym>
+		<synonym>log in</synonym>
+		<definition type="h">уваходзіць, увайсьці́</definition>
+	</article>
+
+	<article>
+		<key>sign off</key>
+		<synonym>sign out</synonym>
+		<synonym>log out</synonym>
+		<synonym>log off</synonym>
+		<definition type="h">выходзіць, вы́йсьці</definition>
+	</article>
+
+	<article>
+		<key>sign out</key>
+		<synonym>sign off</synonym>
+		<synonym>log out</synonym>
+		<synonym>log off</synonym>
+		<definition type="h">выходзіць, вы́йсьці</definition>
+	</article>
+
+	<article>
+		<key>sign up</key>
+		<synonym>register</synonym>
+		<definition type="h">рэґістрава́ць, зарэґістрава́ць; рэґістрава́цца, зарэґістрава́цца</definition>
 	</article>
 
 	<article>
@@ -1703,6 +1815,11 @@
 	<article>
 		<key>variable</key>
 		<definition type="h">зьме́нная</definition>
+	</article>
+
+	<article>
+		<key>version</key>
+		<definition type="h">вэ́рсія</definition>
 	</article>
 
 	<article>
