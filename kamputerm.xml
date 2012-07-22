@@ -109,6 +109,11 @@
 	</article>
 
 	<article>
+		<key>bit</key>
+		<definition type="h"><![CDATA[біт, біт <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
 		<key>bitrate</key>
 		<definition type="h">бітрэ́йт</definition>
 	</article>
@@ -121,6 +126,16 @@
 	<article>
 		<key>button</key>
 		<definition type="h">кнопка</definition>
+	</article>
+
+	<article>
+		<key>byte</key>
+		<definition type="h"><![CDATA[байт, Б <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
+		<key>cache</key>
+		<definition type="h">кэш</definition>
 	</article>
 
 	<article>
@@ -237,7 +252,7 @@
 
 	<article>
 		<key>connecting</key>
-		<definition type="h"><![CDATA[<i>(працэсс)</i> злучэньне]]></definition>
+		<definition type="h"><![CDATA[<i>(працэс)</i> злучэньне]]></definition>
 	</article>
 
 	<article>
@@ -447,11 +462,24 @@
 	</article>
 
 	<article>
+		<key>E</key>
+		<key>exa</key>
+		<definition type="h"><![CDATA[э́кза, Э <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
 		<key>edit</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>(зрабіць адвольныя зьмены ў дакумэнце)</i> рэдагава́ць, зрэдагава́ць<br/>
 			<b>2.</b> <i>(зрабіць шаблённыя зьмены ў віртуальным аб’екце)</i> зьмяня́ць, зьмяні́ць]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>Ei</key>
+		<key>exbi</key>
+		<key>binary exa</key>
+		<definition type="h"><![CDATA[э́кзбі, Эі <i>скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -490,6 +518,16 @@
 	</article>
 
 	<article>
+		<key>expire</key>
+		<definition type="h">канчаецца тэрмін дзеяньня</definition>
+	</article>
+
+	<article>
+		<key>expired</key>
+		<definition type="h">пратэрмінава́ны</definition>
+	</article>
+
+	<article>
 		<key>favorite</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>adjective</i> упадаба́ны<br/>
@@ -511,7 +549,7 @@
 
 	<article>
 		<key>feeder</key>
-		<definition type="h"><![CDATA[падавальнік <i>(друк.)</i>]]></definition>
+		<definition type="h"><![CDATA[падава́льнік <i>(друк.)</i>]]></definition>
 	</article>
 
 	<article>
@@ -552,8 +590,21 @@
 	</article>
 
 	<article>
+		<key>G</key>
+		<key>giga</key>
+		<definition type="h"><![CDATA[гі́га, Г <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
 		<key>game</key>
 		<definition type="h">гульня́</definition>
+	</article>
+
+	<article>
+		<key>Gi</key>
+		<key>gibi</key>
+		<key>binary giga</key>
+		<definition type="h"><![CDATA[гі́бі, Гі <i>скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -743,6 +794,24 @@
 	</article>
 
 	<article>
+		<key>K</key>
+		<key>kilo</key>
+		<definition type="h"><![CDATA[кі́ля, к <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
+		<key>kB</key>
+		<key>kilobyte</key>
+		<definition type="h"><![CDATA[кі́ляба́йт, кБ <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
+		<key>kbit</key>
+		<key>kilobit</key>
+		<definition type="h"><![CDATA[кі́лябі́т, кбіт <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
 		<key>key</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>(keyboard key)</i> кля́віша <i>ж.</i>, кля́віш <i>м.</i>]]>
@@ -752,6 +821,25 @@
 	<article>
 		<key>keyboard</key>
 		<definition type="h">клявіяту́ра</definition>
+	</article>
+
+	<article>
+		<key>Ki</key>
+		<key>kibi</key>
+		<key>binary kilo</key>
+		<definition type="h"><![CDATA[кі́бі, Кі <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
+		<key>KiB</key>
+		<key>kibibyte</key>
+		<definition type="h"><![CDATA[кі́біба́йт, КіБ <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
+		<key>Kibit</key>
+		<key>kibibit</key>
+		<definition type="h"><![CDATA[кі́бібі́т, Кібіт <i>скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -847,6 +935,12 @@
 	</article>
 
 	<article>
+		<key>M</key>
+		<key>mega</key>
+		<definition type="h"><![CDATA[мэ́га, М <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
 		<key>manage</key>
 		<definition type="h">кірава́ць</definition>
 	</article>
@@ -859,6 +953,13 @@
 	<article>
 		<key>metadata</key>
 		<definition type="h">мэтазьве́сткі</definition>
+	</article>
+
+	<article>
+		<key>Mi</key>
+		<key>mebi</key>
+		<key>binary mega</key>
+		<definition type="h"><![CDATA[мэ́бі, Мі <i>скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1005,6 +1106,12 @@
 	</article>
 
 	<article>
+		<key>P</key>
+		<key>peta</key>
+		<definition type="h"><![CDATA[пэ́та, П <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
 		<key>page</key>
 		<definition type="h">старонка, бачы́на</definition>
 	</article>
@@ -1072,6 +1179,13 @@
 	</article>
 
 	<article>
+		<key>Pi</key>
+		<key>pebi</key>
+		<key>binary peta</key>
+		<definition type="h"><![CDATA[пэ́бі, Пі <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
 		<key>picture</key>
 		<synonym>image</synonym>
 		<definition type="h">відары́с</definition>
@@ -1102,6 +1216,11 @@
 		<key>plugin</key>
 		<key>plug-in</key>
 		<definition type="h">убудова</definition>
+	</article>
+
+	<article>
+		<key>pointer</key>
+		<definition type="h">указа́льнік</definition>
 	</article>
 
 	<article>
@@ -1447,6 +1566,12 @@
 	</article>
 
 	<article>
+		<key>T</key>
+		<key>tera</key>
+		<definition type="h"><![CDATA[тэ́ра, Т <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
 		<key>table of contents</key>
 		<synonym>contents</synonym>
 		<definition type="h">зьме́ст</definition>
@@ -1455,6 +1580,13 @@
 	<article>
 		<key>terminal</key>
 		<definition type="h">тэрміна́л</definition>
+	</article>
+
+	<article>
+		<key>Ti</key>
+		<key>tebi</key>
+		<key>binary tera</key>
+		<definition type="h"><![CDATA[тэ́бі, Ті <i>скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1552,7 +1684,7 @@
 
 	<article>
 		<key>URL</key>
-		<definition type="h"><![CDATA[URL, адрас <i>(толькі для размоўнага)</i>]]></definition>
+		<definition type="h"><![CDATA[URL, а́драс <i>(толькі для размоўнага)</i>]]></definition>
 	</article>
 
 	<article>
@@ -1622,8 +1754,34 @@
 	</article>
 
 	<article>
+		<key>Y</key>
+		<key>yotta</key>
+		<definition type="h"><![CDATA[ёта, Ё <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
 		<key>yes</key>
 		<definition type="h">так</definition>
+	</article>
+
+	<article>
+		<key>Yi</key>
+		<key>yobi</key>
+		<key>binary yotta</key>
+		<definition type="h"><![CDATA[ёбі, Ёі <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
+		<key>Z</key>
+		<key>zetta</key>
+		<definition type="h"><![CDATA[зэ́та, З <i>скар.</i>]]></definition>
+	</article>
+
+	<article>
+		<key>Zi</key>
+		<key>zebi</key>
+		<key>binary zetta</key>
+		<definition type="h"><![CDATA[зэ́бі, Зі <i>скар.</i>]]></definition>
 	</article>
 
 	<article>
