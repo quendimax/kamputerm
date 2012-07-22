@@ -38,6 +38,16 @@
 	</article>
 
 	<article>
+		<key>animate</key>
+		<definition type="h">анімава́ць, занімава́ць</definition>
+	</article>
+
+	<article>
+		<key>animated</key>
+		<definition type="h">анімава́ны</definition>
+	</article>
+
+	<article>
 		<key>antivirus</key>
 		<definition type="h">антыві́рус</definition>
 	</article>
@@ -199,6 +209,11 @@
 	<article>
 		<key>complete</key>
 		<definition type="h">сканча́ць, скончыць</definition>
+	</article>
+
+	<article>
+		<key>console</key>
+		<definition type="h">кансоль</definition>
 	</article>
 
 	<article>
@@ -465,6 +480,16 @@
 	</article>
 
 	<article>
+		<key>exist</key>
+		<definition type="h">існава́ць</definition>
+	</article>
+
+	<article>
+		<key>existing</key>
+		<definition type="h">і́сны</definition>
+	</article>
+
+	<article>
 		<key>favorite</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>adjective</i> упадаба́ны<br/>
@@ -577,6 +602,11 @@
 		<key>hot key</key>
 		<key>hotkey</key>
 		<definition type="h">гара́чая кля́віша, гара́чы кля́віш</definition>
+	</article>
+
+	<article>
+		<key>hub</key>
+		<definition type="h">габ</definition>
 	</article>
 
 	<article>
@@ -1423,11 +1453,21 @@
 	</article>
 
 	<article>
+		<key>terminal</key>
+		<definition type="h">тэрміна́л</definition>
+	</article>
+
+	<article>
 		<key>tile</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i>noun</i> ка́фля <i>(адзінка ці зборнае)</i><br/>
 			<b>2.</b> <i>verb</i> кафлява́ць, закафлява́ць]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>trackball</key>
+		<definition type="h">трэкбол</definition>
 	</article>
 
 	<article>
