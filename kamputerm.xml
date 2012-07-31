@@ -1952,7 +1952,7 @@
 		<definition type="h"><![CDATA[кібібі́т, Кібіт <i>скар.</i>]]></definition>
 	</article>
 
-<!-- undefined -->
+<!-- sustreča 32-33 -->
 
 	<article>
 		<key>alarm</key>
@@ -2042,6 +2042,195 @@
 	<article>
 		<key>tablet</key>
 		<definition type="h">тэ́блет</definition>
+	</article>
+
+<!-- sustreča 34 -->
+
+	<article>
+		<key>allocation</key>
+		<definition type="h">выдзяле́ньне</definition>
+	</article>
+
+	<article>
+		<key>applet</key>
+		<definition type="h">мініпрагра́ма</definition>
+	</article>
+
+	<article>
+		<key>area</key>
+		<definition type="h">пляцоўка, ме́йсца, прастора</definition>
+	</article>
+
+	<article>
+		<key>audio</key>
+		<definition type="h">а́ўдыё</definition>
+	</article>
+
+	<article>
+		<key>balloon</key>
+		<definition type="h">падка́зьнік</definition>
+	</article>
+
+	<article>
+		<key>binding</key>
+		<definition type="h"><![CDATA[
+			<b>1.</b> зьвязваньне <i>працэс.</i><br/>
+			<b>2.</b> зьвязак]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>bidirectional</key>
+		<definition type="h">двухкіру́нкавы</definition>
+	</article>
+
+	<article>
+		<key>callout</key>
+		<definition type="h">вы́наска</definition>
+	</article>
+
+	<article>
+		<key>caret</key>
+		<definition type="h"><![CDATA[
+			<b>I.</b> <i>(знак)</i> стрэ́шка<br/>
+			<b>II.</b> <i>(друкарскі тэрмін)</i> ???]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>dock</key>
+		<definition type="h">стыкава́ць, прыстыкава́ць</definition>
+	</article>
+
+	<article>
+		<key>drop-down list</key>
+		<definition type="h">выпадны́ сьпіс</definition>
+	</article>
+
+	<article>
+		<key>drop-down menu</key>
+		<definition type="h">выпадное мэню́</definition>
+	</article>
+
+	<article>
+		<key>early-launch boot driver</key>
+		<definition type="h">дра́йвэр заладава́ньня ра́ньняга за́пуску</definition>
+	</article>
+
+	<article>
+		<key>emoticon</key>
+		<definition type="h">эматыкон</definition>
+	</article>
+
+	<article>
+		<key>face down</key>
+		<definition type="h">друкава́ным уні́з</definition>
+	</article>
+
+	<article>
+		<key>floating point number</key>
+		<key>float</key>
+		<definition type="h">лік зь нефіксава́наю коскай</definition>
+	</article>
+
+	<article>
+		<key>foreground color</key>
+		<definition type="h">колер аб’е́кта</definition>
+	</article>
+
+	<article>
+		<key>gadget</key>
+		<definition type="h">ґа́джэт</definition>
+	</article>
+
+	<article>
+		<key>grave accent</key>
+		<definition type="h">ґра́віс</definition>
+	</article>
+
+	<article>
+		<key>hibernate</key>
+		<definition type="h">быць у гібэрнацыі</definition>
+	</article>
+
+	<article>
+		<key>hibernation</key>
+		<definition type="h">гібэрна́цыя</definition>
+	</article>
+
+	<article>
+		<key>identity</key>
+		<definition type="h">асабовасьць</definition>
+	</article>
+
+	<article>
+		<key>indent</key>
+		<definition type="h">адступа́ць, адступі́ць</definition>
+	</article>
+
+	<article>
+		<key>indentation</key>
+		<definition type="h">водступ</definition>
+	</article>
+
+	<article>
+		<key>justify</key>
+		<definition type="h">вы́раўняць па баках</definition>
+	</article>
+
+	<article>
+		<key>margin</key>
+		<definition type="h"><![CDATA[поле, палі <i>мн.</i>]]></definition>
+	</article>
+
+	<article>
+		<key>mute</key>
+		<definition type="h">сьці́шыць</definition>
+	</article>
+
+	<article>
+		<key>pair</key>
+		<definition type="h">спа́рваць, спа́рыць</definition>
+	</article>
+
+	<article>
+		<key>paper jam</key>
+		<definition type="h">заціска́льнік папе́ры</definition>
+	</article>
+
+	<article>
+		<key>placeholder</key>
+		<definition type="h">запаўняльнік</definition>
+	</article>
+
+	<article>
+		<key>pop-up window</key>
+		<definition type="h">выплыўное акно</definition>
+	</article>
+
+	<article>
+		<key>print area</key>
+		<definition type="h">плошча дру́ку, поле дру́ку</definition>
+	</article>
+
+	<article>
+		<key>reader</key>
+		<definition type="h">чыта́льнік</definition>
+	</article>
+
+	<article>
+		<key>sound card</key>
+		<definition type="h">гу́кавая ка́рта</definition>
+	</article>
+
+	<article>
+		<key>statement</key>
+		<definition type="h">апэра́тар</definition>
+	</article>
+
+	<article>
+		<key>video card</key>
+		<definition type="h">ві̀дэака́рта</definition>
 	</article>
 </contents>
 </stardict>
