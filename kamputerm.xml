@@ -63,7 +63,7 @@
 	<article>
 		<key>application</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(карыстальніцкая)</i> прагра́ма]]>
+			<b>1.</b> <i class="ex">(карыстальніцкая)</i> прагра́ма]]>
 		</definition>
 	</article>
 
@@ -100,9 +100,9 @@
 	<article>
 		<key>backup</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> рэзэрвовая копія<br/>
-			<b>2.</b> <i>verb</i> ствара́ць/ствары́ць рэзэрвовую копію<br/>
-			<b>3.</b> <i>adjective</i> рэзэрвовы <i>(файл, сховішча)</i>]]>
+			<b>1.</b> <i class="gr">noun</i> рэзэрвовая копія<br>
+			<b>2.</b> <i class="gr">verb</i> ствара́ць/ствары́ць рэзэрвовую копію<br>
+			<b>3.</b> <i class="gr">adjective</i> рэзэрвовы <i class="ex">(файл, сховішча)</i>]]>
 		</definition>
 	</article>
 
@@ -118,7 +118,7 @@
 
 	<article>
 		<key>bit</key>
-		<definition type="h"><![CDATA[біт, біт <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[біт, біт <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -134,8 +134,8 @@
 	<article>
 		<key>build</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> збор<br/>
-			<b>2.</b> <i>verb</i> зьбіра́ць, сабра́ць]]>
+			<b>1.</b> <i class="gr">noun</i> збор<br>
+			<b>2.</b> <i class="gr">verb</i> зьбіра́ць, сабра́ць]]>
 		</definition>
 	</article>
 
@@ -146,7 +146,7 @@
 
 	<article>
 		<key>byte</key>
-		<definition type="h"><![CDATA[байт, Б <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[байт, Б <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -188,8 +188,8 @@
 	<article>
 		<key>click</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> пстры́к<br/>
-			<b>2.</b> <i>verb</i> пстры́каць, прсты́кнуць]]>
+			<b>1.</b> <i class="gr">noun</i> пстры́к<br>
+			<b>2.</b> <i class="gr">verb</i> пстры́каць, прсты́кнуць]]>
 		</definition>
 	</article>
 
@@ -201,15 +201,16 @@
 	<article>
 		<key>close</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> <i>(як мэтафара)</i> зачыня́ць, зачыні́ць
-				<p style="margin: 0px 16px 0px">
-				<b>close a file</b> зачыніць файл<br/>
-				<b>close a window</b> зачыніць акно
+			<b>I.</b> <i>(для файлаў)</i> зачыня́ць, зачыні́ць
+				<p class="ind1">
+				<span class="ex">
+				<b>close a file</b> зачыніць файл<br>
+				<b>close a window</b> зачыніць акно</span>
 				</p>
-			<b>II</b> <i>(зрабіць недаступным для іншых)</i>
-				<p style="margin: 0px 16px 0px">
-				<b>1.</b> <i>verb</i> закрыва́ць, закры́ць<br/>
-				<b>2.</b> <i>adjective</i> закры́ты
+			<b>II.</b> <i>(зрабіць недаступным для іншых)</i>
+				<p class="ind1">
+				<b>1.</b> <i class="gr">verb</i> закрыва́ць, закры́ць<br>
+				<b>2.</b> <i class="gr">adjective</i> закры́ты
 				</p>]]>
 		</definition>
 	</article>
@@ -227,8 +228,8 @@
 	<article>
 		<key>command</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> зага́д<br/>
-			<b>2.</b> <i>adjective</i> зага́дны]]>
+			<b>1.</b> <i class="gr">noun</i> зага́д<br>
+			<b>2.</b> <i class="gr">adjective</i> зага́дны]]>
 		</definition>
 	</article>
 
@@ -261,8 +262,8 @@
 	<article>
 		<key>connect</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(пры раўназначным злучэньні)</i> злучыць<br/>
-			<b>2.</b> <i>(пры нераўназначным злучэньні)</i> далучыць<br/>]]>
+			<b>1.</b> <i>(пры раўназначным злучэньні)</i> злучыць<br>
+			<b>2.</b> <i>(пры нераўназначным злучэньні)</i> далучыць<br>]]>
 		</definition>
 	</article>
 
@@ -273,7 +274,7 @@
 
 	<article>
 		<key>connection</key>
-		<definition type="h"><![CDATA[<i>noun</i> злучэньне]]></definition>
+		<definition type="h"><![CDATA[<i class="gr">noun</i> злучэньне]]></definition>
 	</article>
 
 	<article>
@@ -284,8 +285,8 @@
 	<article>
 		<key>control</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> элемэ́нт кірава́ньня<br/>
-			<b>2.</b> <i>verb</i> кірава́ць]]>
+			<b>1.</b> <i class="gr">noun</i> элемэ́нт кірава́ньня<br>
+			<b>2.</b> <i class="gr">verb</i> кірава́ць]]>
 		</definition>
 	</article>
 
@@ -297,8 +298,8 @@
 	<article>
 		<key>copy</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> копія<br/>
-			<b>2.</b> <i>verb</i> капіява́ць, скапіява́ць]]>
+			<b>1.</b> <i class="gr">noun</i> копія<br>
+			<b>2.</b> <i class="gr">verb</i> капіява́ць, скапіява́ць]]>
 		</definition>
 	</article>
 
@@ -334,7 +335,7 @@
 
 	<article>
 		<key>cut</key>
-		<definition type="h"><![CDATA[выма́ць, вы́няць, вы́мі <i>заг. лад</i>]]></definition>
+		<definition type="h"><![CDATA[выма́ць, вы́няць, вы́мі <i class="gr">заг. лад</i>]]></definition>
 	</article>
 
 	<article>
@@ -355,8 +356,8 @@
 	<article>
 		<key>default</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>adjective</i> станда́ртны<br/>
-			<b>2.</b> <i>noun</i> станда́ртны, станда́ртныя <i>(у залежнасьці ад
+			<b>1.</b> <i class="gr">adjective</i> станда́ртны<br>
+			<b>2.</b> <i class="gr">noun</i> станда́ртны, станда́ртныя <i>(у залежнасьці ад
 			таго, што маецца на ўвазе: defaults = defaults settings — стандартныя)</i>
 				<p style="margin: 0px 16px 0px">
 				<b>standart default</b> стандартны перадвызначаны
@@ -395,7 +396,7 @@
 	<article>
 		<key>directory</key>
 		<definition type="h"><![CDATA[
-			каталёг<br/>
+			<span style="background-color:darkgreen; color:white; font-family:sans-serif; font-size:10px;">&thinsp;fs&thinsp;</span> каталёг<br>
 				<p style="margin: 0px 16px 0px">
 				<i>У графічных інтэрфэйсах вельмі часта замест слова</i>
 				<b>dictionary</b><i> выкарыстоўваюцца іншыя мэтафарычныя тэрміны
@@ -413,15 +414,15 @@
 		<key>disc</key>
 		<key>disk</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(носьбіты інфармацыі круглай формы: вініл, CD, DVD, Blue Ray)</i> кружэ́лка<br/>
-			<b>2.</b> <i>(іншыя носьбіты)</i> дыск]]>
+			<b>I.</b> <i>(носьбіты інфармацыі круглай формы: вініл, CD, DVD, Blue Ray)</i> кружэ́лка<br>
+			<b>II.</b> <i>(іншыя носьбіты)</i> дыск]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>disconnect</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(пры раўназначным злучэньні)</i> разлучыць<br/>
+			<b>1.</b> <i>(пры раўназначным злучэньні)</i> разлучыць<br>
 			<b>2.</b> <i>(пры нераўназначным злучэньні)</i> адлучыць]]>
 		</definition>
 	</article>
@@ -435,8 +436,8 @@
 		<key>double click</key>
 		<key>double-click</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> падвойны пстры́к<br/>
-			<b>2.</b> <i>verb</i> двойчы прсты́кнуць]]>
+			<b>1.</b> <i class="gr">noun</i> падвойны пстры́к<br>
+			<b>2.</b> <i class="gr">verb</i> двойчы прсты́кнуць]]>
 		</definition>
 	</article>
 
@@ -460,15 +461,15 @@
 	<article>
 		<key>drawer</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> высоўная скрыня<br/>
-			<b>II</b> <i>глядзіце</i> <b>directory</b>]]>
+			<b>I.</b> высоўная скрыня<br>
+			<b>II.</b> <i>глядзіце</i> <b>directory</b>]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>drive</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> дыскавод<br/>
+			<b>1.</b> дыскавод<br>
 			<b>2.</b> кружэ́льнік <i>(для прыладаў, дзе ўжываецца кружэлка: CD/DVD/Blueray drive)</i>]]>
 	</definition>
 	</article>
@@ -481,7 +482,7 @@
 	<article>
 		<key>edit</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(зрабіць адвольныя зьмены ў дакумэнце)</i> рэдагава́ць, зрэдагава́ць<br/>
+			<b>1.</b> <i>(зрабіць адвольныя зьмены ў дакумэнце)</i> рэдагава́ць, зрэдагава́ць<br>
 			<b>2.</b> <i>(зрабіць шаблённыя зьмены ў віртуальным аб’екце)</i> зьмяня́ць, зьмяні́ць]]>
 		</definition>
 	</article>
@@ -539,19 +540,19 @@
 	<article>
 		<key>favorite</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>adjective</i> упадаба́ны<br/>
-			<b>2.</b> <i>noun</i> упадаба́нае, упадаба́ныя <i>мн. лік</i>]]>
+			<b>1.</b> <i class="gr">adjective</i> упадаба́ны<br>
+			<b>2.</b> <i class="gr">noun</i> упадаба́нае, упадаба́ныя <i class="gr">мн. лік</i>]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>feed</key>
 		<definition type="h"><![CDATA[
-			<b>I.</b> сту́жка<br/>
+			<b>I.</b> сту́жка<br>
 			<b>II.</b> <i>(друк.)</i>
 				<p style="margin: 0px 16px 0px">
-				<b>1.</b> <i>noun</i> пада́ча<br/>
-				<b>2.</b> <i>verb</i> падава́ць
+				<b>1.</b> <i class="gr">noun</i> пада́ча<br>
+				<b>2.</b> <i class="gr">verb</i> падава́ць
 				</p>]]>
 		</definition>
 	</article>
@@ -574,8 +575,8 @@
 	<article>
 		<key>folder</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> тэ́чка<br/>
-			<b>II</b> <i>глядзіце</i> <b>directory</b>]]>
+			<b>I.</b> тэ́чка<br>
+			<b>II.</b> <i>глядзіце</i> <b>directory</b>]]>
 		</definition>
 	</article>
 
@@ -593,8 +594,8 @@
 	<article>
 		<key>format</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> фарма́т<br/>
-			<b>2.</b> <i>verb</i> фарматава́ць, адфарматава́ць]]>
+			<b>1.</b> <i class="gr">noun</i> фарма́т<br>
+			<b>2.</b> <i class="gr">verb</i> фарматава́ць, адфарматава́ць]]>
 		</definition>
 	</article>
 
@@ -632,16 +633,16 @@
 	<article>
 		<key>help</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> дапамога<br/>
-			<b>2.</b> <i>verb</i> дапамага́ць, дапамагчы́]]>
+			<b>1.</b> <i class="gr">noun</i> дапамога<br>
+			<b>2.</b> <i class="gr">verb</i> дапамага́ць, дапамагчы́]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>home</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> пача́так<br/>
-			<b>2.</b> <i>adjective</i> пачатковы]]>
+			<b>1.</b> <i class="gr">noun</i> пача́так<br>
+			<b>2.</b> <i class="gr">adjective</i> пачатковы]]>
 		</definition>
 	</article>
 
@@ -671,19 +672,19 @@
 			зна́чак
 				<p style="margin: 0px 16px 0px">
 				<b>адзіночны лік:</b>
-					<i>Н:</i> зна́чак,
-					<i>Р:</i> зна́чка,
-					<i>Д:</i> зна́чку,
-					<i>В:</i> зна́чак,
-					<i>Т:</i> зна́чкам,
-					<i>М:</i> зна́чку;<br/>
+					<i class="gr">Н:</i> зна́чак,
+					<i class="gr">Р:</i> зна́чка,
+					<i class="gr">Д:</i> зна́чку,
+					<i class="gr">В:</i> зна́чак,
+					<i class="gr">Т:</i> зна́чкам,
+					<i class="gr">М:</i> зна́чку;<br>
 				<b>множны лік:</b>
-					<i>Н:</i> зна́чкі,
-					<i>Р:</i> зна́чкаў,
-					<i>Д:</i> зна́чкам,
-					<i>В:</i> зна́чкі,
-					<i>Т:</i> зна́чкамі,
-					<i>М:</i> зна́чках.
+					<i class="gr">Н:</i> зна́чкі,
+					<i class="gr">Р:</i> зна́чкаў,
+					<i> class="gr"Д:</i> зна́чкам,
+					<i class="gr">В:</i> зна́чкі,
+					<i class="gr">Т:</i> зна́чкамі,
+					<i class="gr">М:</i> зна́чках.
 				</p>]]>
 		</definition>
 	</article>
@@ -709,8 +710,8 @@
 		<key>image</key>
 		<synonym>picture</synonym>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> выя́ва<br/>
-			<b>2.</b> <i>verb</i> выяўля́ць, вы́явіць]]>
+			<b>1.</b> <i class="gr">noun</i> выя́ва<br>
+			<b>2.</b> <i class="gr">verb</i> выяўля́ць, вы́явіць]]>
 		</definition>
 	</article>
 
@@ -749,7 +750,7 @@
 	<article>
 		<key>internet</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> інтэрнэ́т<br/>
+			<b>1.</b> інтэрнэ́т<br>
 			<b>2.</b> се́ціва <i>(у тэкстах нетэрміналягічнага характару)</i>]]>
 		</definition>
 	</article>
@@ -797,7 +798,7 @@
 	<article>
 		<key>key</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(keyboard key)</i> кля́віша <i>ж.</i>, кля́віш <i>м.</i>]]>
+			<b>1.</b> <i class="ex">(keyboard key)</i> кля́віша <i class="gr">ж.</i>, кля́віш <i class="gr">м.</i>]]>
 		</definition>
 	</article>
 
@@ -825,8 +826,8 @@
 	<article>
 		<key>load</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> заладава́насьць<br/>
-			<b>2.</b> <i>verb</i> ладава́ць, заладава́ць]]>
+			<b>1.</b> <i class="gr">noun</i> заладава́насьць<br>
+			<b>2.</b> <i class="gr">verb</i> ладава́ць, заладава́ць]]>
 		</definition>
 	</article>
 
@@ -838,7 +839,7 @@
 	<article>
 		<key>local</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> <i>(у тэрміналягічным сэнсе)</i> ляка́льны<br/>
+			<b>I.</b> <i>(у тэрміналягічным сэнсе)</i> ляка́льны<br>
 			<b>II.</b> <i>(у агульнамоўным сэнсе)</i> мясцовы]]>
 		</definition>
 	</article>
@@ -951,7 +952,7 @@
 	<article>
 		<key>monitor</key>
 		<definition type="h"><![CDATA[
-			<b>I.</b> <i>(прылада)</i> манітор<br/>
+			<b>I.</b> <i>(прылада)</i> манітор<br>
 			<b>II.</b> <i>(праграма)</i> назіральнік]]>
 		</definition>
 	</article>
@@ -974,8 +975,8 @@
 	<article>
 		<key>move</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> <i>(агульна ўжываны варыянт)</i> перамяшча́ць, перамясьці́ць<br/>
-			<b>II</b> <i>(паводле кантэксту можна выкарыстоўваць іншыя варыянты,
+			<b>I.</b> <i>(агульна ўжываны варыянт)</i> перамяшча́ць, перамясьці́ць<br>
+			<b>II.</b> <i>(паводле кантэксту можна выкарыстоўваць іншыя варыянты,
 			якія больш адпавядаюць меркаванаму мэтафарычнаму значэньню)</i>
 				<p style="margin: 0px 16px 0px">
 				<b>1.</b> перасоўваць, перасу́нуць, пасу́нуць
@@ -992,14 +993,14 @@
 	<article>
 		<key>name</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(для адушаўлёных)</i> імя́
+			<b>1.</b> <i class="gr">(для адушаўлёных)</i> імя́
 				<p style="margin: 0px 16px 0px">
 				<b>user name</b> імя карыстальніка
 				</p>
-			<b>2.</b> <i>(для неадушаўлёных)</i> на́зва
+			<b>2.</b> <i class="gr">(для неадушаўлёных)</i> на́зва
 				<p style="margin: 0px 16px 0px">
-				<b>computer name</b> назва кампутару<br/>
-				<b>file name</b> назва файла<br/>
+				<b>computer name</b> назва кампутару<br>
+				<b>file name</b> назва файла<br>
 				<b>group name</b> назва групы
 				</p>]]>
 		</definition>
@@ -1008,8 +1009,8 @@
 	<article>
 		<key>network</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> се́тка<br/>
-			<b>2.</b> <i>adjective</i> се́ткавы]]>
+			<b>1.</b> <i class="gr">noun</i> се́тка<br>
+			<b>2.</b> <i class="gr">adjective</i> се́ткавы]]>
 		</definition>
 	</article>
 
@@ -1026,8 +1027,8 @@
 	<article>
 		<key>offline</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>adverb</i> па-за се́цівам<br/>
-			<b>2.</b> <i>adjective</i> пазасе́ткавы <i>(не спалучаны зь сеткай)</i>,
+			<b>1.</b> <i class="gr">adverb</i> па-за се́цівам<br>
+			<b>2.</b> <i class="gr">adjective</i> пазасе́ткавы <i>(не спалучаны зь сеткай)</i>,
 			                           пазасе́ціўны <i>(не спалучаны зь сецівам)</i>]]>
 		</definition>
 	</article>
@@ -1045,8 +1046,8 @@
 	<article>
 		<key>online</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>adverb</i> у се́ціве<br/>
-			<b>2.</b> <i>adjective</i> се́ткавы <i>(спалучаны зь сеткай)</i>,
+			<b>1.</b> <i class="gr">adverb</i> у се́ціве<br>
+			<b>2.</b> <i class="gr">adjective</i> се́ткавы <i>(спалучаны зь сеткай)</i>,
 			                           се́ціўны <i>(спалучаны зь сецівам)</i>]]>
 		</definition>
 	</article>
@@ -1054,20 +1055,20 @@
 	<article>
 		<key>open</key>
 		<definition type="h"><![CDATA[
-			<b>I</b> <i>(як мэтафара)</i> адчыня́ць, адчыні́ць
+			<b>I.</b> <i>(як мэтафара)</i> адчыня́ць, адчыні́ць
 				<p style="margin: 0px 16px 0px">
-				<b>open a file</b> адчыніць файл<br/>
+				<b>open a file</b> адчыніць файл<br>
 				<b>open a window</b> адчыніць акно
 				</p>
-			<b>II</b> <i>(зрабіць даступным для іншых)</i>
+			<b>II.</b> <i>(зрабіць даступным для іншых)</i>
 				<p style="margin: 0px 16px 0px">
-				<b>1.</b> <i>verb</i> адкрыва́ць, адкры́ць<br/>
+				<b>1.</b> <i class="gr">verb</i> адкрыва́ць, адкры́ць<br>
 				</p>
 					<p style="margin: 0px 32px 0px">
 					<b>open source of program</b> адкрыць зыходны код праграмы
 					</p>
 				<p style="margin: 0px 16px 0px">
-				<b>2.</b> <i>adjective</i> адкры́ты
+				<b>2.</b> <i class="gr">adjective</i> адкры́ты
 				</p>
 					<p style="margin: 0px 32px 0px">
 					<b>open source</b> адкрыты зыходны код
@@ -1078,16 +1079,16 @@
 	<article>
 		<key>order</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> пара́дак<br/>
-			<b>2.</b> <i>verb</i> парадкава́ць, спара́дкаваць]]>
+			<b>1.</b> <i class="gr">noun</i> пара́дак<br>
+			<b>2.</b> <i class="gr">verb</i> парадкава́ць, спара́дкаваць]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>overload</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> пераладава́насьць<br/>
-			<b>2.</b> <i>verb</i> пераладоўваць, пераладава́ць]]>
+			<b>1.</b> <i class="gr">noun</i> пераладава́насьць<br>
+			<b>2.</b> <i class="gr">verb</i> пераладоўваць, пераладава́ць]]>
 		</definition>
 	</article>
 
@@ -1121,8 +1122,8 @@
 	<article>
 		<key>partition</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> разьдзе́л<br/>
-			<b>2.</b> <i>verb</i> дзялі́ць, падзялі́ць]]>
+			<b>1.</b> <i class="gr">noun</i> разьдзе́л<br>
+			<b>2.</b> <i class="gr">verb</i> дзялі́ць, падзялі́ць]]>
 		</definition>
 	</article>
 
@@ -1172,7 +1173,7 @@
 	<article>
 		<key>play</key>
 		<definition type="h"><![CDATA[
-			<b>I.</b> <i>(для узнаўленьня відэа-, аўдыёфайлаў)</i> прайграва́ць, прайгра́ць<br/>
+			<b>I.</b> <i>(для узнаўленьня відэа-, аўдыёфайлаў)</i> прайграва́ць, прайгра́ць<br>
 			<b>II.</b> <i>(для відэагульняў)</i> гуля́ць, згуля́ць]]>
 		</definition>
 	</article>
@@ -1180,7 +1181,7 @@
 	<article>
 		<key>player</key>
 		<definition type="h"><![CDATA[
-			<b>I.</b> <i>(для узнаўленьня відэа-, аўдыёфайлаў)</i> прайграва́льнік<br/>
+			<b>I.</b> <i>(для узнаўленьня відэа-, аўдыёфайлаў)</i> прайграва́льнік<br>
 			<b>II.</b> <i>(для відэагульняў)</i> гуле́ц]]>
 		</definition>
 	</article>
@@ -1199,15 +1200,15 @@
 	<article>
 		<key>port</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> порт<br/>
-			<b>2.</b> <i>verb</i> партава́ць, партава́ць <i>(перанос праграмы на іншую плятформу)</i>]]>
+			<b>1.</b> <i class="gr">noun</i> порт<br>
+			<b>2.</b> <i class="gr">verb</i> партава́ць, партава́ць <i>(перанос праграмы на іншую плятформу)</i>]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>portable</key>
 		<definition type="h"><![CDATA[
-			<b>I.</b> пераносны <i>(пераноснае апраграмаванне, якое не патрабуе ўсталявання)</i><br/>
+			<b>I.</b> пераносны <i>(пераноснае апраграмаванне, якое не патрабуе ўсталявання)</i><br>
 			<b>II.</b> партава́льны <i>(адаптаванне апраграмавання пад іншую платформу)</i>]]>
 		</definition>
 	</article>
@@ -1276,8 +1277,8 @@
 	<article>
 		<key>rate</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> часьціня<br/>
-			<b>2.</b> <i>verb</i> ацэньваць, ацаніць]]>
+			<b>1.</b> <i class="gr">noun</i> часьціня<br>
+			<b>2.</b> <i class="gr">verb</i> ацэньваць, ацаніць]]>
 		</definition>
 	</article>
 
@@ -1343,7 +1344,7 @@
 		<key>remove</key>
 		<synonym>delete</synonym>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(для выдаленьня)</i> выдаля́ць, вы́даліць<br/>
+			<b>1.</b> <i>(для выдаленьня)</i> выдаля́ць, вы́даліць<br>
 			<b>2.</b> <i>(для выманьня элемэнту са сьпісу)</i> прыбіра́ць, прыбра́ць]]>
 		</definition>
 	</article>
@@ -1356,7 +1357,7 @@
 	<article>
 		<key>repartition</key>
 		<definition type="h"><![CDATA[
-			<i>(verb)</i> дзялі́ць наноў, падзялі́ць наноў]]>
+			<i class="gr">verb</i> дзялі́ць наноў, падзялі́ць наноў]]>
 		</definition>
 	</article>
 
@@ -1370,8 +1371,8 @@
 	<article>
 		<key>report</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> справазда́ча<br/>
-			<b>2.</b> <i>verb</i> паведамля́ць, паве́даміць]]>
+			<b>1.</b> <i class="gr">noun</i> справазда́ча<br>
+			<b>2.</b> <i class="gr">verb</i> паведамля́ць, паве́даміць]]>
 		</definition>
 	</article>
 
@@ -1410,8 +1411,8 @@
 	<article>
 		<key>sample</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> узор<br/>
-			<b>2.</b> <i>adjective</i> узорны]]>
+			<b>1.</b> <i class="gr">noun</i> узор<br>
+			<b>2.</b> <i class="gr">adjective</i> узорны]]>
 		</definition>
 	</article>
 
@@ -1423,7 +1424,7 @@
 	<article>
 		<key>scan</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(апэрацыя сканэра)</i> сканава́ць, сасканава́ць<br/>
+			<b>1.</b> <i>(апэрацыя сканэра)</i> сканава́ць, сасканава́ць<br>
 			<b>2.</b> <i>(пошук у чымсьці)</i> прагляда́ць, праглядзе́ць, прагле́дзець]]>
 		</definition>
 	</article>
@@ -1441,8 +1442,8 @@
 	<article>
 		<key>sensor</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> сэнсар<br/>
-			<b>2.</b> <i>adjective</i> сэнсарны]]>
+			<b>1.</b> <i class="gr">noun</i> сэнсар<br>
+			<b>2.</b> <i class="gr">adjective</i> сэнсарны]]>
 		</definition>
 	</article>
 
@@ -1507,7 +1508,7 @@
 	<article>
 		<key>size</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(агульнаўжыванае)</i> паме́р<br/>
+			<b>1.</b> <i>(агульнаўжыванае)</i> паме́р<br>
 			<b>2.</b> <i>(для шрыфтоў)</i> паме́р]]>
 		</definition>
 	</article>
@@ -1515,8 +1516,8 @@
 	<article>
 		<key>software</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> апраграмава́ньне<br/>
-			<b>2.</b> <i>adjective</i> прагра́мны
+			<b>1.</b> <i class="gr">noun</i> апраграмава́ньне<br>
+			<b>2.</b> <i class="gr">adjective</i> прагра́мны
 			]]>
 		</definition>
 	</article>
@@ -1524,9 +1525,9 @@
 	<article>
 		<key>storage</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> сховішча<br/>
-			<b>2.</b> <i>verb</i> захоўванне<br/>
-			<b>3.</b> <i>adjective</i> захава́льны]]>
+			<b>1.</b> <i class="gr">noun</i> сховішча<br>
+			<b>2.</b> <i class="gr">verb</i> захоўванне<br>
+			<b>3.</b> <i class="gr">adjective</i> захава́льны]]>
 		</definition>
 	</article>
 
@@ -1543,7 +1544,7 @@
 	<article>
 		<key>string</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> радок <i>(калі string мае сэнс line)</i><br/>
+			<b>1.</b> радок <i>(калі string мае сэнс line)</i><br>
 			<b>2.</b> чарада́ <i>(калі спэцыфічны тэрмін)</i>]]>
 		</definition>
 	</article>
@@ -1556,8 +1557,8 @@
 	<article>
 		<key>subscript</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> падрадкоўе, падрадковы тэкст<br/>
-			<b>2.</b> <i>adjective</i> падрадковы]]>
+			<b>1.</b> <i class="gr">noun</i> падрадкоўе, падрадковы тэкст<br>
+			<b>2.</b> <i class="gr">adjective</i> падрадковы]]>
 		</definition>
 	</article>
 
@@ -1569,8 +1570,8 @@
 	<article>
 		<key>superscript</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> надрадкоўе, надрадковы тэкст<br/>
-			<b>2.</b> <i>adjective</i> надрадковы]]>
+			<b>1.</b> <i class="gr">noun</i> надрадкоўе, надрадковы тэкст<br>
+			<b>2.</b> <i class="gr">adjective</i> надрадковы]]>
 		</definition>
 	</article>
 
@@ -1622,8 +1623,8 @@
 	<article>
 		<key>tile</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> ка́фля <i>(адзінка ці зборнае)</i><br/>
-			<b>2.</b> <i>verb</i> кафлява́ць, закафлява́ць]]>
+			<b>1.</b> <i class="gr">noun</i> ка́фля <i>(адзінка ці зборнае)</i><br>
+			<b>2.</b> <i class="gr">verb</i> кафлява́ць, закафлява́ць]]>
 		</definition>
 	</article>
 
@@ -1694,16 +1695,16 @@
 	<article>
 		<key>update</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> абнаўле́ньне<br/>
-			<b>2.</b> <i>verb</i> абнаўля́ць, абнаві́ць]]>
+			<b>1.</b> <i class="gr">noun</i> абнаўле́ньне<br>
+			<b>2.</b> <i class="gr">verb</i> абнаўля́ць, абнаві́ць]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>upgrade</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> мадэрніза́цыя<br/>
-			<b>2.</b> <i>verb</i> мадэрнізава́ць]]>
+			<b>1.</b> <i class="gr">noun</i> мадэрніза́цыя<br>
+			<b>2.</b> <i class="gr">verb</i> мадэрнізава́ць]]>
 		</definition>
 	</article>
 
@@ -1720,8 +1721,8 @@
 	<article>
 		<key>user</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> карыста́льнік<br/>
-			<b>2.</b> <i>adjective</i> карыста́льніцкі]]>
+			<b>1.</b> <i class="gr">noun</i> карыста́льнік<br>
+			<b>2.</b> <i class="gr">adjective</i> карыста́льніцкі]]>
 		</definition>
 	</article>
 
@@ -1753,8 +1754,8 @@
 	<article>
 		<key>web</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> се́ціва<br/>
-			<b>2.</b> <i>adjective</i> се́ціўны]]>
+			<b>1.</b> <i class="gr">noun</i> се́ціва<br>
+			<b>2.</b> <i class="gr">adjective</i> се́ціўны]]>
 		</definition>
 	</article>
 
@@ -1796,7 +1797,7 @@
 	<article>
 		<key>zoom</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> суме́р]]>
+			<b>1.</b> <i class="gr">noun</i> суме́р]]>
 		</definition>
 	</article>
 
@@ -1806,7 +1807,7 @@
 		<key>kilo, K</key>
 		<key>K</key>
 		<key>kilo</key>
-		<definition type="h"><![CDATA[кі́ля, к <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кі́ля, к <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1814,14 +1815,14 @@
 		<key>Ki</key>
 		<key>kibi</key>
 		<key>binary kilo</key>
-		<definition type="h"><![CDATA[кі́бі, Кі <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кі́бі, Кі <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>mega, M</key>
 		<key>M</key>
 		<key>mega</key>
-		<definition type="h"><![CDATA[мэ́га, М <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[мэ́га, М <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1829,14 +1830,14 @@
 		<key>Mi</key>
 		<key>mebi</key>
 		<key>binary mega</key>
-		<definition type="h"><![CDATA[мэ́бі, Мі <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[мэ́бі, Мі <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>giga, G</key>
 		<key>G</key>
 		<key>giga</key>
-		<definition type="h"><![CDATA[гі́га, Г <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[гі́га, Г <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1844,14 +1845,14 @@
 		<key>Gi</key>
 		<key>gibi</key>
 		<key>binary giga</key>
-		<definition type="h"><![CDATA[гі́бі, Гі <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[гі́бі, Гі <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>tera, T</key>
 		<key>T</key>
 		<key>tera</key>
-		<definition type="h"><![CDATA[тэ́ра, Т <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[тэ́ра, Т <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1859,14 +1860,14 @@
 		<key>Ti</key>
 		<key>tebi</key>
 		<key>binary tera</key>
-		<definition type="h"><![CDATA[тэ́бі, Ті <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[тэ́бі, Ті <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>peta, P</key>
 		<key>P</key>
 		<key>peta</key>
-		<definition type="h"><![CDATA[пэ́та, П <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[пэ́та, П <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1874,14 +1875,14 @@
 		<key>Pi</key>
 		<key>pebi</key>
 		<key>binary peta</key>
-		<definition type="h"><![CDATA[пэ́бі, Пі <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[пэ́бі, Пі <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>exa, E</key>
 		<key>E</key>
 		<key>exa</key>
-		<definition type="h"><![CDATA[э́кза, Э <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[э́кза, Э <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1889,14 +1890,14 @@
 		<key>Ei</key>
 		<key>exbi</key>
 		<key>binary exa</key>
-		<definition type="h"><![CDATA[э́кзбі, Эі <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[э́кзбі, Эі <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>zetta, Z</key>
 		<key>Z</key>
 		<key>zetta</key>
-		<definition type="h"><![CDATA[зэ́та, З <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[зэ́та, З <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1904,14 +1905,14 @@
 		<key>Zi</key>
 		<key>zebi</key>
 		<key>binary zetta</key>
-		<definition type="h"><![CDATA[зэ́бі, Зі <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[зэ́бі, Зі <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>yotta, Y</key>
 		<key>Y</key>
 		<key>yotta</key>
-		<definition type="h"><![CDATA[ёта, Ё <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[ёта, Ё <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1919,7 +1920,7 @@
 		<key>Yi</key>
 		<key>yobi</key>
 		<key>binary yotta</key>
-		<definition type="h"><![CDATA[ёбі, Ёі <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[ёбі, Ёі <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<!-- samples -->
@@ -1928,28 +1929,28 @@
 		<key>kilobyte, kB</key>
 		<key>kB</key>
 		<key>kilobyte</key>
-		<definition type="h"><![CDATA[кіляба́йт, кБ <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кіляба́йт, кБ <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>kilobit, kbit</key>
 		<key>kbit</key>
 		<key>kilobit</key>
-		<definition type="h"><![CDATA[кілябі́т, кбіт <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кілябі́т, кбіт <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>kibibyte, KiB</key>
 		<key>KiB</key>
 		<key>kibibyte</key>
-		<definition type="h"><![CDATA[кібіба́йт, КіБ <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кібіба́йт, КіБ <i class="ex">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>kibibit, Kibit</key>
 		<key>Kibit</key>
 		<key>kibibit</key>
-		<definition type="h"><![CDATA[кібібі́т, Кібіт <i>скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кібібі́т, Кібіт <i class="ex">скар.</i>]]></definition>
 	</article>
 
 <!-- sustreča 32-33 -->
@@ -1957,8 +1958,8 @@
 	<article>
 		<key>alarm</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>noun</i> аля́рм</br>
-			<b>2.</b> <i>verb</i> алярмава́ць]]>
+			<b>1.</b> <i class="gr">noun</i> аля́рм</br>
+			<b>2.</b> <i class="gr">verb</i> алярмава́ць]]>
 		</definition>
 	</article>
 
@@ -1970,8 +1971,8 @@
 	<article>
 		<key>announcment</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i>adjective</i> абвяшча́льны</br>
-			<b>2.</b> <i>verb</i> абвяшча́ць, абвясьці́ць, абве́сьціць]]>
+			<b>1.</b> <i class="gr">adjective</i> абвяшча́льны</br>
+			<b>2.</b> <i class="gr">verb</i> абвяшча́ць, абвясьці́ць, абве́сьціць]]>
 		</definition>
 	</article>
 
@@ -2013,7 +2014,7 @@
 	<article>
 		<key>warning</key>
 		<definition type="h"><![CDATA[
-			<b>I.</b> папярэ́джаньне<br/>
+			<b>I.</b> папярэ́джаньне<br>
 			<b>II.</b> ува́га <i>агульнаўж.</i>]]>
 		</definition>
 		<!-- warning level -->
@@ -2074,7 +2075,7 @@
 	<article>
 		<key>binding</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> зьвязваньне <i>працэс.</i><br/>
+			<b>1.</b> зьвязваньне <i>працэс.</i><br>
 			<b>2.</b> зьвязак]]>
 		</definition>
 	</article>
@@ -2092,7 +2093,7 @@
 	<article>
 		<key>caret</key>
 		<definition type="h"><![CDATA[
-			<b>I.</b> <i>(знак)</i> стрэ́шка<br/>
+			<b>I.</b> <i>(знак)</i> стрэ́шка<br>
 			<b>II.</b> <i>(друкарскі тэрмін)</i> ???]]>
 		</definition>
 	</article>
@@ -2180,7 +2181,7 @@
 
 	<article>
 		<key>margin</key>
-		<definition type="h"><![CDATA[поле, палі <i>мн.</i>]]></definition>
+		<definition type="h"><![CDATA[поле, палі <i class="gr">мн.</i>]]></definition>
 	</article>
 
 	<article>
