@@ -1,0 +1,32 @@
+body
+{
+  font-family: dejavu serif;
+  font-size: 15px;
+}
+
+p {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: 0px;
+	margin-left: 0px;
+}
+
+p.ind0 { margin-left:  0px; }
+p.ind1 { margin-left: 20px; }
+p.ind2 { margin-left: 40px; }
+p.ind3 { margin-left: 60px; }
+p.ind4 { margin-left: 80px; }
+
+i {
+	color: #404040;
+	font-size=14px;
+}
+
+.gr {
+	color: green;
+	font-size: 13px;
+}
+
+.ex {
+	color: #708090;
+}
