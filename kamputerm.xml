@@ -189,7 +189,7 @@
 		<key>click</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i class="gr">noun</i> пстры́к<br>
-			<b>2.</b> <i class="gr">verb</i> пстры́каць, прсты́кнуць]]>
+			<b>2.</b> <i class="gr">verb</i> пстры́каць, прстры́кнуць]]>
 		</definition>
 	</article>
 
@@ -335,7 +335,7 @@
 
 	<article>
 		<key>cut</key>
-		<definition type="h"><![CDATA[выма́ць, вы́няць, вы́мі <i class="gr">заг. лад</i>]]></definition>
+		<definition type="h"><![CDATA[выма́ць, вы́няць, вы́мі <i class="gr">заг.</i>]]></definition>
 	</article>
 
 	<article>
@@ -359,8 +359,8 @@
 			<b>1.</b> <i class="gr">adjective</i> станда́ртны<br>
 			<b>2.</b> <i class="gr">noun</i> станда́ртны, станда́ртныя <i>(у залежнасьці ад
 			таго, што маецца на ўвазе: defaults = defaults settings — стандартныя)</i>
-				<p style="margin: 0px 16px 0px">
-				<b>standart default</b> стандартны перадвызначаны
+				<p class="ind1"><span class="ex">
+				<b>standart default</b> стандартны перадвызначаны</span>
 				</p>]]>
 		</definition>
 	</article>
@@ -397,15 +397,15 @@
 		<key>directory</key>
 		<definition type="h"><![CDATA[
 			<span style="background-color:darkgreen; color:white; font-family:sans-serif; font-size:10px;">&thinsp;fs&thinsp;</span> каталёг<br>
-				<p style="margin: 0px 16px 0px">
+				<p class="ind1">
 				<i>У графічных інтэрфэйсах вельмі часта замест слова</i>
-				<b>dictionary</b><i> выкарыстоўваюцца іншыя мэтафарычныя тэрміны
-				(напрыклад </i><b>folder</b><i>, </i><b>drawer</b> <i>і іншыя).
+				directory<i> выкарыстоўваюцца іншыя мэтафарычныя тэрміны
+				(напрыклад </i><a href="folder">folder</a><i>, </i><a href="drawer">drawer</a> <i>і іншыя).
 				Калі яны знаходзяцца ў тэхнічных тэкстах, то дзеля сыстэмнасьці
-				варта перакладаць іх як і </i><b>directory</b><i>. У выпадках
+				варта перакладаць іх як і </i>directory<i>. У выпадках
 				жа, калі яны мусяць перадаваць свой мэтафарычны сэнс, то
 				перакладаць іх трэба так, як было задумана распрацоўнікамі
-				(напрыклад, </i><b>folder</b><i> &mdash; тэчка).</i>
+				(напрыклад, </i><a href="folder">folder</a><i> &mdash; тэчка).</i>
 				</p>]]>
 		</definition>
 	</article>
@@ -437,7 +437,7 @@
 		<key>double-click</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i class="gr">noun</i> падвойны пстры́к<br>
-			<b>2.</b> <i class="gr">verb</i> двойчы прсты́кнуць]]>
+			<b>2.</b> <i class="gr">verb</i> двойчы прстры́кнуць]]>
 		</definition>
 	</article>
 
@@ -461,8 +461,8 @@
 	<article>
 		<key>drawer</key>
 		<definition type="h"><![CDATA[
-			<b>I.</b> высоўная скрыня<br>
-			<b>II.</b> <i>глядзіце</i> <b>directory</b>]]>
+			<b>1.</b> высоўная скрыня<br>
+			<b>2.</b> <i>глядзіце</i> <a href="directory">directory</a>]]>
 		</definition>
 	</article>
 
@@ -550,7 +550,7 @@
 		<definition type="h"><![CDATA[
 			<b>I.</b> сту́жка<br>
 			<b>II.</b> <i>(друк.)</i>
-				<p style="margin: 0px 16px 0px">
+				<p class="ind1">
 				<b>1.</b> <i class="gr">noun</i> пада́ча<br>
 				<b>2.</b> <i class="gr">verb</i> падава́ць
 				</p>]]>
@@ -576,7 +576,7 @@
 		<key>folder</key>
 		<definition type="h"><![CDATA[
 			<b>I.</b> тэ́чка<br>
-			<b>II.</b> <i>глядзіце</i> <b>directory</b>]]>
+			<b>II.</b> <i>глядзіце</i> <a href="directory">directory</a>]]>
 		</definition>
 	</article>
 
@@ -617,7 +617,7 @@
 	<article>
 		<key>hang up</key>
 		<synonym>disconnect</synonym>
-		<definition type="h"><![CDATA[<i>глядзіце</i> <b>disconnect</b>]]></definition>
+		<definition type="h"><![CDATA[<i>глядзіце</i> <a href="disconnect">disconnect</a>]]></definition>
 	</article>
 
 	<article>
@@ -661,7 +661,7 @@
 		<key>hyperlink</key>
 		<synonym>link</synonym>
 		<definition type="h"><![CDATA[
-			гі́пэрспасы́лка, спасы́лка <i>(у апошні час патрэбы ў назьве гіпэрспасылка
+			гі̀пэрспасы́лка, спасы́лка <i>(у апошні час патрэбы ў назьве гіпэрспасылка
 			няма, таму паўсюдна выкарыстоўваецца спасылка)</i>]]>
 		</definition>
 	</article>
@@ -670,18 +670,18 @@
 		<key>icon</key>
 		<definition type="h"><![CDATA[
 			зна́чак
-				<p style="margin: 0px 16px 0px">
-				<b>адзіночны лік:</b>
+				<p class="ind1">
+				<b class="gr">адзіночны лік:</b>
 					<i class="gr">Н:</i> зна́чак,
 					<i class="gr">Р:</i> зна́чка,
 					<i class="gr">Д:</i> зна́чку,
 					<i class="gr">В:</i> зна́чак,
 					<i class="gr">Т:</i> зна́чкам,
 					<i class="gr">М:</i> зна́чку;<br>
-				<b>множны лік:</b>
+				<b class="gr">множны лік:</b>
 					<i class="gr">Н:</i> зна́чкі,
 					<i class="gr">Р:</i> зна́чкаў,
-					<i> class="gr"Д:</i> зна́чкам,
+					<i class="gr">Д:</i> зна́чкам,
 					<i class="gr">В:</i> зна́чкі,
 					<i class="gr">Т:</i> зна́чкамі,
 					<i class="gr">М:</i> зна́чках.
@@ -978,13 +978,13 @@
 			<b>I.</b> <i>(агульна ўжываны варыянт)</i> перамяшча́ць, перамясьці́ць<br>
 			<b>II.</b> <i>(паводле кантэксту можна выкарыстоўваць іншыя варыянты,
 			якія больш адпавядаюць меркаванаму мэтафарычнаму значэньню)</i>
-				<p style="margin: 0px 16px 0px">
+				<p class="ind1">
 				<b>1.</b> перасоўваць, перасу́нуць, пасу́нуць
 				</p>
-					<p style="margin: 0px 32px 0px">
-					<b>move up</b> пасунуць уверх
+					<p class="ind2"><span class="ex">
+					<b>move up</b> пасунуць уверх</span>
 					</p>
-				<p style="margin: 0px 16px 0px">
+				<p class="ind1">
 				<b>2.</b> пераносіць, перане́сьці
 				</p>]]>
 		</definition>
@@ -993,15 +993,15 @@
 	<article>
 		<key>name</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">(для адушаўлёных)</i> імя́
-				<p style="margin: 0px 16px 0px">
-				<b>user name</b> імя карыстальніка
+			<b>1.</b> імя́ <i class="gr">адуш.</i>
+				<p class="ind1"><span class="ex">
+				<b>user name</b> імя карыстальніка</span>
 				</p>
-			<b>2.</b> <i class="gr">(для неадушаўлёных)</i> на́зва
-				<p style="margin: 0px 16px 0px">
+			<b>2.</b> на́зва <i class="gr">неадуш.</i>
+				<p class="ind1"><span class="ex">
 				<b>computer name</b> назва кампутару<br>
 				<b>file name</b> назва файла<br>
-				<b>group name</b> назва групы
+				<b>group name</b> назва групы</span>
 				</p>]]>
 		</definition>
 	</article>
@@ -1056,22 +1056,22 @@
 		<key>open</key>
 		<definition type="h"><![CDATA[
 			<b>I.</b> <i>(як мэтафара)</i> адчыня́ць, адчыні́ць
-				<p style="margin: 0px 16px 0px">
+				<p class="ind1"><span class="ex">
 				<b>open a file</b> адчыніць файл<br>
-				<b>open a window</b> адчыніць акно
+				<b>open a window</b> адчыніць акно</span>
 				</p>
 			<b>II.</b> <i>(зрабіць даступным для іншых)</i>
-				<p style="margin: 0px 16px 0px">
+				<p class="ind1">
 				<b>1.</b> <i class="gr">verb</i> адкрыва́ць, адкры́ць<br>
 				</p>
-					<p style="margin: 0px 32px 0px">
-					<b>open source of program</b> адкрыць зыходны код праграмы
+					<p class="ind2"><span class="ex">
+					<b>open source of program</b> адкрыць зыходны код праграмы</span>
 					</p>
-				<p style="margin: 0px 16px 0px">
+				<p class="ind1">
 				<b>2.</b> <i class="gr">adjective</i> адкры́ты
 				</p>
-					<p style="margin: 0px 32px 0px">
-					<b>open source</b> адкрыты зыходны код
+					<p class="ind2"><span class="ex">
+					<b>open source</b> адкрыты зыходны код</span>
 					</p>]]>
 		</definition>
 	</article>
@@ -1130,7 +1130,7 @@
 	<article>
 		<key>partitioning</key>
 		<definition type="h"><![CDATA[
-			падзе́л <i>(працэс)</i>]]>
+			<i>(працэс.)</i> падзе́л]]>
 		</definition>
 	</article>
 
@@ -1208,8 +1208,8 @@
 	<article>
 		<key>portable</key>
 		<definition type="h"><![CDATA[
-			<b>I.</b> пераносны <i>(пераноснае апраграмаванне, якое не патрабуе ўсталявання)</i><br>
-			<b>II.</b> партава́льны <i>(адаптаванне апраграмавання пад іншую платформу)</i>]]>
+			<b>I.</b> пераносны <i>(пераноснае апраграмаваньне, якое не патрабуе ўсталяваньня)</i><br>
+			<b>II.</b> партава́льны <i>(адаптаваньне апраграмаваньня пад іншую плятформу)</i>]]>
 		</definition>
 	</article>
 
@@ -1277,8 +1277,8 @@
 	<article>
 		<key>rate</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> часьціня<br>
-			<b>2.</b> <i class="gr">verb</i> ацэньваць, ацаніць]]>
+			<b>1.</b> <i class="gr">noun</i> часьціня́<br>
+			<b>2.</b> <i class="gr">verb</i> ацэ́ньваць, ацані́ць]]>
 		</definition>
 	</article>
 
@@ -1637,8 +1637,8 @@
 		<key>trash</key>
 		<definition type="h"><![CDATA[
 			сьме́цьце <i>(зьмесьціва trash can, recycle bin</i>
-				<p style="margin: 0px 16px 0px">
-				<b>move to trash</b> перамясьціць у сьметніцу
+				<p class="ind1"><span class="ex">
+				<b>move to trash</b> перамясьціць у сьметніцу</span>
 				</p>]]>
 		</definition>
 	</article>
@@ -1715,7 +1715,9 @@
 
 	<article>
 		<key>URL</key>
-		<definition type="h"><![CDATA[URL, а́драс <i>(толькі для размоўнага)</i>]]></definition>
+		<definition type="h"><![CDATA[
+			<b>1.</b> URL<br>
+			<b>2.</b> а́драс <i>(толькі для размоўнага)</i>]]></definition>
 	</article>
 
 	<article>
@@ -1807,7 +1809,7 @@
 		<key>kilo, K</key>
 		<key>K</key>
 		<key>kilo</key>
-		<definition type="h"><![CDATA[кі́ля, к <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кі́ля, к <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1815,14 +1817,14 @@
 		<key>Ki</key>
 		<key>kibi</key>
 		<key>binary kilo</key>
-		<definition type="h"><![CDATA[кі́бі, Кі <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кі́бі, Кі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>mega, M</key>
 		<key>M</key>
 		<key>mega</key>
-		<definition type="h"><![CDATA[мэ́га, М <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[мэ́га, М <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1830,14 +1832,14 @@
 		<key>Mi</key>
 		<key>mebi</key>
 		<key>binary mega</key>
-		<definition type="h"><![CDATA[мэ́бі, Мі <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[мэ́бі, Мі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>giga, G</key>
 		<key>G</key>
 		<key>giga</key>
-		<definition type="h"><![CDATA[гі́га, Г <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[гі́га, Г <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1845,14 +1847,14 @@
 		<key>Gi</key>
 		<key>gibi</key>
 		<key>binary giga</key>
-		<definition type="h"><![CDATA[гі́бі, Гі <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[гі́бі, Гі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>tera, T</key>
 		<key>T</key>
 		<key>tera</key>
-		<definition type="h"><![CDATA[тэ́ра, Т <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[тэ́ра, Т <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1860,14 +1862,14 @@
 		<key>Ti</key>
 		<key>tebi</key>
 		<key>binary tera</key>
-		<definition type="h"><![CDATA[тэ́бі, Ті <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[тэ́бі, Ті <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>peta, P</key>
 		<key>P</key>
 		<key>peta</key>
-		<definition type="h"><![CDATA[пэ́та, П <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[пэ́та, П <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1875,14 +1877,14 @@
 		<key>Pi</key>
 		<key>pebi</key>
 		<key>binary peta</key>
-		<definition type="h"><![CDATA[пэ́бі, Пі <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[пэ́бі, Пі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>exa, E</key>
 		<key>E</key>
 		<key>exa</key>
-		<definition type="h"><![CDATA[э́кза, Э <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[э́кза, Э <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1890,14 +1892,14 @@
 		<key>Ei</key>
 		<key>exbi</key>
 		<key>binary exa</key>
-		<definition type="h"><![CDATA[э́кзбі, Эі <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[э́кзбі, Эі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>zetta, Z</key>
 		<key>Z</key>
 		<key>zetta</key>
-		<definition type="h"><![CDATA[зэ́та, З <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[зэ́та, З <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1905,14 +1907,14 @@
 		<key>Zi</key>
 		<key>zebi</key>
 		<key>binary zetta</key>
-		<definition type="h"><![CDATA[зэ́бі, Зі <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[зэ́бі, Зі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>yotta, Y</key>
 		<key>Y</key>
 		<key>yotta</key>
-		<definition type="h"><![CDATA[ёта, Ё <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[ёта, Ё <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1920,7 +1922,7 @@
 		<key>Yi</key>
 		<key>yobi</key>
 		<key>binary yotta</key>
-		<definition type="h"><![CDATA[ёбі, Ёі <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[ёбі, Ёі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<!-- samples -->
@@ -1929,28 +1931,28 @@
 		<key>kilobyte, kB</key>
 		<key>kB</key>
 		<key>kilobyte</key>
-		<definition type="h"><![CDATA[кіляба́йт, кБ <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кіляба́йт, кБ <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>kilobit, kbit</key>
 		<key>kbit</key>
 		<key>kilobit</key>
-		<definition type="h"><![CDATA[кілябі́т, кбіт <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кілябі́т, кбіт <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>kibibyte, KiB</key>
 		<key>KiB</key>
 		<key>kibibyte</key>
-		<definition type="h"><![CDATA[кібіба́йт, КіБ <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кібіба́йт, КіБ <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>kibibit, Kibit</key>
 		<key>Kibit</key>
 		<key>kibibit</key>
-		<definition type="h"><![CDATA[кібібі́т, Кібіт <i class="ex">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[кібібі́т, Кібіт <i class="gr">скар.</i>]]></definition>
 	</article>
 
 <!-- sustreča 32-33 -->
@@ -2015,7 +2017,7 @@
 		<key>warning</key>
 		<definition type="h"><![CDATA[
 			<b>I.</b> папярэ́джаньне<br>
-			<b>II.</b> ува́га <i>агульнаўж.</i>]]>
+			<b>II.</b> ува́га <i>(агульнаўж.)</i>]]>
 		</definition>
 		<!-- warning level -->
 	</article>
@@ -2075,7 +2077,7 @@
 	<article>
 		<key>binding</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> зьвязваньне <i>працэс.</i><br>
+			<b>1.</b> зьвязваньне <i>(працэс.)</i><br>
 			<b>2.</b> зьвязак]]>
 		</definition>
 	</article>
