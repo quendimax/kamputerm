@@ -166,6 +166,11 @@
 	</article>
 
 	<article>
+		<key>change</key>
+		<definition type="h">зьмяня́ць, зьмяні́ць</definition>
+	</article>
+
+	<article>
 		<key>char</key>
 		<key>character</key>
 		<definition type="h">знак</definition>
@@ -563,6 +568,7 @@
 
 	<article>
 		<key>favorite</key>
+		<key>favourite</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i class="gr">adjective</i> упадаба́ны<br>
 			<b>2.</b> <i class="gr">noun</i> упадаба́нае, упадаба́ныя <i class="gr">мн. лік</i>]]>
@@ -641,7 +647,7 @@
 
 	<article>
 		<key>glyph</key>
-		<definition type="h">гліф</definition>
+		<definition type="h">ґліф</definition>
 	</article>
 
 	<article>
@@ -1423,6 +1429,11 @@
 	</article>
 
 	<article>
+		<key>replace</key>
+		<definition type="h">замяня́ць, замяні́ць</definition>
+	</article>
+
+	<article>
 		<key>report</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i class="gr">noun</i> справазда́ча<br>
@@ -1454,6 +1465,11 @@
 	<article>
 		<key>roaming</key>
 		<definition type="h">блука́ньне</definition>
+	</article>
+
+	<article>
+		<key>row</key>
+		<definition type="h">радок</definition>
 	</article>
 
 	<article>
@@ -1658,18 +1674,20 @@
 
 	<article>
 		<key>synchronization</key>
-		<key>sync</key>
 		<definition type="h">сынхраніза́цыя</definition>
 	</article>
 
 	<article>
+		<key>synchronize, sync</key>
 		<key>synchronize</key>
 		<key>sync</key>
 		<definition type="h">сынхранізава́ць, ссынхранізава́ць</definition>
 	</article>
 
 	<article>
+		<key>synchronizing, syncing</key>
 		<key>synchronizing</key>
+		<key>syncing</key>
 		<definition type="h">сынхранізава́ньне</definition>
 	</article>
 
@@ -2080,12 +2098,12 @@
 
 	<article>
 		<key>notification</key>
-		<definition type="h">undefined</definition>
+		<definition type="h">апавяшчэньне</definition>
 	</article>
 
 	<article>
 		<key>notify</key>
-		<definition type="h">undefined</definition>
+		<definition type="h">апавяшча́ць</definition>
 	</article>
 
 	<article>
