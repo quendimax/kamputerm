@@ -3,16 +3,17 @@
 <stardict>
 <info>
 	<version>2.4.2</version>
-	<bookname>Анґельска-беларускі слоўнік кампутарнай тэрміналёгіі (en-be)</bookname>
+	<bookname>Анґельска-беларускі слоўнік кампутарнай тэрміналёґіі (en-be)</bookname>
 	<author>Апантаныя літвіны :)</author>
 	<website>http://wg.kamputerm.org/</website>
-	<description>Спроба стварыць слоўнік беларускай IT тэрміналёгіі</description>
+	<description>Спроба стварыць слоўнік беларускай IT тэрміналёґіі</description>
 	<date>2012-07-13</date>
 </info>
 
 <contents>
 	<article>
 		<key>@</key>
+		<key>commercial at</key>
 		<definition type="h">сьліма́к</definition>
 	</article>
 
@@ -195,7 +196,7 @@
 
 	<article>
 		<key>clipboard</key>
-		<definition type="h">кішэ́ня</definition>
+		<definition type="h">кішэня</definition>
 	</article>
 
 	<article>
@@ -344,6 +345,13 @@
 	</article>
 
 	<article>
+		<key>database</key>
+		<key>data base</key>
+		<key>data-base</key>
+		<definition type="h">ба́за зьве́стак</definition>
+	</article>
+
+	<article>
 		<key>decode</key>
 		<definition type="h">раскадоўваць, раскадава́ць</definition>
 	</article>
@@ -470,7 +478,11 @@
 		<key>drive</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> дыскавод<br>
-			<b>2.</b> кружэ́льнік <i>(для прыладаў, дзе ўжываецца кружэлка: CD/DVD/Blueray drive)</i>]]>
+			<b>2.</b> кружэ́льнік <i>(для прыладаў, дзе ўжываецца кружэлка: CD/DVD/Blueray drive)</i><br>
+			<b>3.</b> <i>(windows drive)</i> дыск
+					<p class="ind2"><span class="ex">
+					<b>drive C</b> дыск C</span>
+					</p>]]>
 	</definition>
 	</article>
 
@@ -493,13 +505,25 @@
 	</article>
 
 	<article>
+		<key>email</key>
+		<key>e-mail</key>
+		<definition type="h">электонная пошта, эл. пошта</definition>
+	</article>
+
+	<article>
+		<key>email message</key>
+		<key>e-mail message</key>
+		<definition type="h">электонны ліст, эл. ліст</definition>
+	</article>
+
+	<article>
 		<key>encode</key>
 		<definition type="h">кадава́ць, закадава́ць</definition>
 	</article>
 
 	<article>
 		<key>encoder</key>
-		<definition type="h">кадава́ць, закадава́ць</definition>
+		<definition type="h">кадава́льнік</definition>
 	</article>
 
 	<article>
@@ -546,6 +570,11 @@
 	</article>
 
 	<article>
+		<key>feature</key>
+		<definition type="h">уласьці́васьць</definition>
+	</article>
+
+	<article>
 		<key>feed</key>
 		<definition type="h"><![CDATA[
 			<b>I.</b> сту́жка<br>
@@ -565,6 +594,12 @@
 	<article>
 		<key>file</key>
 		<definition type="h">файл</definition>
+	</article>
+
+	<article>
+		<key>filename</key>
+		<key>file name</key>
+		<definition type="h">на́зва фа́йла</definition>
 	</article>
 
 	<article>
@@ -667,6 +702,11 @@
 	</article>
 
 	<article>
+		<key>I agree</key>
+		<definition type="h">згода</definition>
+	</article>
+
+	<article>
 		<key>icon</key>
 		<definition type="h"><![CDATA[
 			зна́чак
@@ -751,13 +791,13 @@
 		<key>internet</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> інтэрнэ́т<br>
-			<b>2.</b> се́ціва <i>(у тэкстах нетэрміналягічнага характару)</i>]]>
+			<b>2.</b> се́ціва <i>(у тэкстах нетэрміналяґічнага характару)</i>]]>
 		</definition>
 	</article>
 
 	<article>
 		<key>intranet</key>
-		<definition type="h">інтранэ́т</definition>
+		<definition type="h">інтранэт</definition>
 	</article>
 
 	<article>
@@ -808,6 +848,18 @@
 	</article>
 
 	<article>
+		<key>keyboard key</key>
+		<definition type="h"><![CDATA[
+			кля́віша <i class="gr">ж.</i>, кля́віш <i class="gr">м.</i>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>label</key>
+		<definition type="h">цэтлік</definition>
+	</article>
+
+	<article>
 		<key>landscape</key>
 		<definition type="h"><![CDATA[<i>(у тыпаграфіцы)</i> гарызанта́льны]]></definition>
 	</article>
@@ -839,7 +891,7 @@
 	<article>
 		<key>local</key>
 		<definition type="h"><![CDATA[
-			<b>I.</b> <i>(у тэрміналягічным сэнсе)</i> ляка́льны<br>
+			<b>I.</b> <i>(у тэрміналяґічным сэнсе)</i> ляка́льны<br>
 			<b>II.</b> <i>(у агульнамоўным сэнсе)</i> мясцовы]]>
 		</definition>
 	</article>
@@ -866,7 +918,7 @@
 
 	<article>
 		<key>localize</key>
-		<definition type="h">лякалізава́ць</definition>
+		<definition type="h">лякалізоўваць, лякалізава́ць</definition>
 	</article>
 
 	<article>
@@ -1021,7 +1073,9 @@
 
 	<article>
 		<key>normal</key>
-		<definition type="h">звыча́йны</definition>
+		<definition type="h"><![CDATA[
+			<i class="ex">(шрыфт)</i> звыча́йны]]>
+		</definition>
 	</article>
 
 	<article>
@@ -1099,7 +1153,7 @@
 
 	<article>
 		<key>paging</key>
-		<synonym>swaping</synonym>
+		<synonym>swapping</synonym>
 		<definition type="h">падме́на</definition>
 	</article>
 
@@ -1111,7 +1165,7 @@
 
 	<article>
 		<key>panel</key>
-		<definition type="h">панэ́ль</definition>
+		<definition type="h">панэль</definition>
 	</article>
 
 	<article>
@@ -1141,7 +1195,7 @@
 
 	<article>
 		<key>perfomance</key>
-		<definition type="h">прадукцы́йнаць</definition>
+		<definition type="h">прадукцы́йнасьць</definition>
 	</article>
 
 	<article>
@@ -1151,7 +1205,7 @@
 
 	<article>
 		<key>personalize</key>
-		<definition type="h">пэрсаналізава́ць</definition>
+		<definition type="h">пэрсаналізава́ць, спэрсаналізава́ць</definition>
 	</article>
 
 	<article>
@@ -1417,6 +1471,16 @@
 	</article>
 
 	<article>
+		<key>sans serif</key>
+		<definition type="h">з ры́скамі</definition>
+	</article>
+
+	<article>
+		<key>serif</key>
+		<definition type="h">бяз ры́сак</definition>
+	</article>
+
+	<article>
 		<key>save</key>
 		<definition type="h">захоўваць, захава́ць</definition>
 	</article>
@@ -1431,12 +1495,12 @@
 
 	<article>
 		<key>scanner</key>
-		<definition type="h">сканэр</definition>
+		<definition type="h">ска́нэр</definition>
 	</article>
 
 	<article>
 		<key>screen</key>
-		<definition type="h">экран</definition>
+		<definition type="h">экра́н</definition>
 	</article>
 
 	<article>
@@ -1516,8 +1580,8 @@
 	<article>
 		<key>software</key>
 		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> апраграмава́ньне<br>
-			<b>2.</b> <i class="gr">adjective</i> прагра́мны
+			<b>1.</b> <i class="gr">noun</i> апраґрамава́ньне<br>
+			<b>2.</b> <i class="gr">adjective</i> праґра́мны
 			]]>
 		</definition>
 	</article>
@@ -1576,7 +1640,7 @@
 	</article>
 
 	<article>
-		<key>swaping</key>
+		<key>swapping</key>
 		<synonym>paging</synonym>
 		<definition type="h">падме́на</definition>
 	</article>
@@ -1613,6 +1677,11 @@
 		<key>table of contents</key>
 		<synonym>contents</synonym>
 		<definition type="h">зьме́ст</definition>
+	</article>
+
+	<article>
+		<key>tag</key>
+		<definition type="h">цэтлік</definition>
 	</article>
 
 	<article>
@@ -1714,6 +1783,11 @@
 	</article>
 
 	<article>
+		<key>uploader</key>
+		<definition type="h">пампава́льнік</definition>
+	</article>
+
+	<article>
 		<key>URL</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> URL<br>
@@ -1729,8 +1803,14 @@
 	</article>
 
 	<article>
+		<key>username</key>
+		<key>user name</key>
+		<definition type="h">імя́ карыста́льніка</definition>
+	</article>
+
+	<article>
 		<key>value</key>
-		<definition type="h">значэ́ньне</definition>
+		<definition type="h">значэньне</definition>
 	</article>
 
 	<article>
@@ -1777,7 +1857,7 @@
 	</article>
 
 	<article>
-		<key>wire</key>
+		<key>wired</key>
 		<definition type="h">дротавы</definition>
 	</article>
 
