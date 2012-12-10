@@ -32,6 +32,33 @@
 	</article>
 
 	<article>
+		<key>adjust</key>
+		<definition type="h"><![CDATA[
+			наста́віць, адрэґулява́ць<br>
+				<p class="ind1"><span class="ex">
+				<b>adjust date, time</b> наставіць дату, час<br>
+				<b>adjust brightness</b> адрэґуляваць яркасьць<br>
+				<b>adjust settings</b> наставіць налады</span>
+				</p>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>alarm</key>
+		<definition type="h"><![CDATA[<span class="un">
+			<b>1.</b> <i class="gr">noun</i> аля́рм<br>
+			<b>2.</b> <i class="gr">verb</i> алярмава́ць</span>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>alert</key>
+		<definition type="h"><![CDATA[<span class="un">
+			апаве́шчаньне, перасьцярога</span>]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>align</key>
 		<definition type="h">раўнава́ць, зраўнава́ць</definition>
 	</article>
@@ -54,6 +81,21 @@
 	<article>
 		<key>animated</key>
 		<definition type="h">анімава́ны</definition>
+	</article>
+
+	<article>
+		<key>announce</key>
+		<definition type="h"><![CDATA[<span class="un">
+			абвяшча́ць, абвясьці́ць, абве́сьціць</span>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>announcement</key>
+		<definition type="h"><![CDATA[<span class="un">
+			<b>1.</b> <i class="gr">adjective</i> абвяшча́льны</br>
+			<b>2.</b> <i class="gr">noun</i> абве́стка</span>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -130,6 +172,13 @@
 	<article>
 		<key>bold</key>
 		<definition type="h">тоўсты</definition>
+	</article>
+
+	<article>
+		<key>bug</key>
+		<definition type="h"><![CDATA[<span class="un">
+			хі́ба</span>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -446,6 +495,11 @@
 	</article>
 
 	<article>
+		<key>domain</key>
+		<definition type="h">дамэ́н</definition>
+	</article>
+
+	<article>
 		<key>double click</key>
 		<key>double-click</key>
 		<definition type="h"><![CDATA[
@@ -534,6 +588,13 @@
 	<article>
 		<key>encoding</key>
 		<definition type="h">кадава́ньне</definition>
+	</article>
+
+	<article>
+		<key>error</key>
+		<definition type="h"><![CDATA[<span class="un">
+			памы́лка</span>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -871,6 +932,11 @@
 	</article>
 
 	<article>
+		<key>laptop</key>
+		<definition type="h">лэпто́п</definition>
+	</article>
+
+	<article>
 		<key>line</key>
 		<definition type="h">радок</definition>
 	</article>
@@ -988,6 +1054,11 @@
 	</article>
 
 	<article>
+		<key>machine</key>
+		<definition type="h">машы́на</definition>
+	</article>
+
+	<article>
 		<key>manage</key>
 		<definition type="h">кірава́ць</definition>
 	</article>
@@ -1000,6 +1071,13 @@
 	<article>
 		<key>manufacturer</key>
 		<definition type="h">вытворца</definition>
+	</article>
+
+	<article>
+		<key>message</key>
+		<definition type="h"><![CDATA[<span class="un">
+			паведамле́ньне</span>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -1065,6 +1143,11 @@
 	</article>
 
 	<article>
+		<key>netbook</key>
+		<definition type="h">нэтбук</definition>
+	</article>
+
+	<article>
 		<key>network</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i class="gr">noun</i> се́тка<br>
@@ -1081,6 +1164,25 @@
 		<key>normal</key>
 		<definition type="h"><![CDATA[
 			<i class="ex">(шрыфт)</i> звыча́йны]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>notebook</key>
+		<definition type="h">но́ўтбу̀к</definition>
+	</article>
+
+	<article>
+		<key>notification</key>
+		<definition type="h"><![CDATA[<span class="un">
+			апавяшчэньне</span>]]>
+		</definition>
+	</article>
+
+	<article>
+		<key>notify</key>
+		<definition type="h"><![CDATA[<span class="un">
+			апавяшча́ць</span>]]>
 		</definition>
 	</article>
 
@@ -1340,6 +1442,11 @@
 			<b>1.</b> <i class="gr">noun</i> часьціня́<br>
 			<b>2.</b> <i class="gr">verb</i> ацэ́ньваць, ацані́ць]]>
 		</definition>
+	</article>
+
+	<article>
+		<key>receipt</key>
+		<definition type="h"><![CDATA[<span class="un">квіток</span>]]></definition>
 	</article>
 
 	<article>
@@ -1698,6 +1805,11 @@
 	</article>
 
 	<article>
+		<key>tablet</key>
+		<definition type="h">тэблет</definition>
+	</article>
+
+	<article>
 		<key>tag</key>
 		<definition type="h">цэтлік</definition>
 	</article>
@@ -1852,6 +1964,14 @@
 	</article>
 
 	<article>
+		<key>warning</key>
+		<definition type="h"><![CDATA[<span class="un">
+			<b>I.</b> папярэ́джаньне<br>
+			<b>II.</b> ува́га <i>(агульнаўж.)</i></span>]]>
+		</definition>
+	</article>
+
+	<article>
 		<key>web</key>
 		<definition type="h"><![CDATA[
 			<b>1.</b> <i class="gr">noun</i> се́ціва<br>
@@ -1922,7 +2042,7 @@
 		<key>mega, M</key>
 		<key>M</key>
 		<key>mega</key>
-		<definition type="h"><![CDATA[мэ́га, М <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[мэґа, М <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1930,14 +2050,14 @@
 		<key>Mi</key>
 		<key>mebi</key>
 		<key>binary mega</key>
-		<definition type="h"><![CDATA[мэ́бі, Мі <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[мэбі, Мі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>giga, G</key>
 		<key>G</key>
 		<key>giga</key>
-		<definition type="h"><![CDATA[гі́га, Г <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[ґі́ґа, Ґ <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1945,14 +2065,14 @@
 		<key>Gi</key>
 		<key>gibi</key>
 		<key>binary giga</key>
-		<definition type="h"><![CDATA[гі́бі, Гі <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[ґі́бі, Ґі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>tera, T</key>
 		<key>T</key>
 		<key>tera</key>
-		<definition type="h"><![CDATA[тэ́ра, Т <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[тэра, Т <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1960,14 +2080,14 @@
 		<key>Ti</key>
 		<key>tebi</key>
 		<key>binary tera</key>
-		<definition type="h"><![CDATA[тэ́бі, Ті <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[тэбі, Ті <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>peta, P</key>
 		<key>P</key>
 		<key>peta</key>
-		<definition type="h"><![CDATA[пэ́та, П <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[пэта, П <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1975,14 +2095,14 @@
 		<key>Pi</key>
 		<key>pebi</key>
 		<key>binary peta</key>
-		<definition type="h"><![CDATA[пэ́бі, Пі <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[пэбі, Пі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>exa, E</key>
 		<key>E</key>
 		<key>exa</key>
-		<definition type="h"><![CDATA[э́кза, Э <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[экза, Э <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -1990,14 +2110,14 @@
 		<key>Ei</key>
 		<key>exbi</key>
 		<key>binary exa</key>
-		<definition type="h"><![CDATA[э́кзбі, Эі <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[экзбі, Эі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
 		<key>zetta, Z</key>
 		<key>Z</key>
 		<key>zetta</key>
-		<definition type="h"><![CDATA[зэ́та, З <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[зэта, З <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -2005,7 +2125,7 @@
 		<key>Zi</key>
 		<key>zebi</key>
 		<key>binary zetta</key>
-		<definition type="h"><![CDATA[зэ́бі, Зі <i class="gr">скар.</i>]]></definition>
+		<definition type="h"><![CDATA[зэбі, Зі <i class="gr">скар.</i>]]></definition>
 	</article>
 
 	<article>
@@ -2051,98 +2171,6 @@
 		<key>Kibit</key>
 		<key>kibibit</key>
 		<definition type="h"><![CDATA[кібібі́т, Кібіт <i class="gr">скар.</i>]]></definition>
-	</article>
-
-<!-- sustreča 32-33 -->
-
-	<article>
-		<key>alarm</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> аля́рм</br>
-			<b>2.</b> <i class="gr">verb</i> алярмава́ць]]>
-		</definition>
-	</article>
-
-	<article>
-		<key>alert</key>
-		<definition type="h">апаве́шчаньне, перасьцярога</definition>
-	</article>
-
-	<article>
-		<key>announcment</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">adjective</i> абвяшча́льны</br>
-			<b>2.</b> <i class="gr">verb</i> абвяшча́ць, абвясьці́ць, абве́сьціць]]>
-		</definition>
-	</article>
-
-	<article>
-		<key>bug</key>
-		<definition type="h">хі́ба</definition>
-	</article>
-
-	<article>
-		<key>fail</key>
-		<definition type="h">undefined</definition>
-	</article>
-
-	<article>
-		<key>error</key>
-		<definition type="h">памы́лка</definition>
-	</article>
-
-	<article>
-		<key>message</key>
-		<definition type="h">паведамле́ньне</definition>
-	</article>
-
-	<article>
-		<key>notification</key>
-		<definition type="h">апавяшчэньне</definition>
-	</article>
-
-	<article>
-		<key>notify</key>
-		<definition type="h">апавяшча́ць</definition>
-	</article>
-
-	<article>
-		<key>reminder</key>
-		<definition type="h">undefined</definition>
-	</article>
-
-	<article>
-		<key>warning</key>
-		<definition type="h"><![CDATA[
-			<b>I.</b> папярэ́джаньне<br>
-			<b>II.</b> ува́га <i>(агульнаўж.)</i>]]>
-		</definition>
-		<!-- warning level -->
-	</article>
-
-	<article>
-		<key>adjust</key>
-		<definition type="h">наста́віць, адрэґулява́ць</definition>
-	</article>
-
-	<article>
-		<key>domain</key>
-		<definition type="h">дамэ́н</definition>
-	</article>
-
-	<article>
-		<key>laptop</key>
-		<definition type="h">лэ̀пто́п</definition>
-	</article>
-
-	<article>
-		<key>notebook</key>
-		<definition type="h">но́ўтбу̀к</definition>
-	</article>
-
-	<article>
-		<key>tablet</key>
-		<definition type="h">тэ́блет</definition>
 	</article>
 
 <!-- sustreča 34 -->
