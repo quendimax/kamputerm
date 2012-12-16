@@ -16,11 +16,11 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
 
     def startDocument(self):
         self.out.write('<html><head>')
-        self.out.write('<meta http-equiv="Content-Type" content="text/html;charset=utf8">')
+        self.out.write('<meta http-equiv="Content-Type" content="text/html;charset=utf8" />')
         self.out.write('<style>')
         for line in open('../css/article-style.css'):
             self.out.write(line)
-        self.out.write('</style></head><body><table border="1" cellspacing="0">')
+        self.out.write('</style></head><body><table border="1" cellspacing="0" cellpadding="4">')
         self.out.write('<tr><th>Тэрмін</th><th>Сынонім</th><th>Пераклад</th>')
 
     def endDocument(self):
