@@ -49,8 +49,10 @@
 
 	<article>
 		<key>alarm</key>
-		<definition type="h" kind="al"><![CDATA[<b>1.</b> <i>noun</i> аля́рм]]></definition>
-		<definition type="h" kind="al"><![CDATA[<b>2.</b> <i>verb</i> алярмава́ць, залярмава́ць]]></definition>
+		<definition type="h" kind="al"><![CDATA[
+			<b>1.</b> <i>noun</i> аля́рм<br>
+			<b>2.</b> <i>verb</i> алярмава́ць, залярмава́ць]]>
+		</definition>
 		<definition type="h" kind="mt">33</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
@@ -149,7 +151,7 @@
 		<definition type="h" kind="be">апазнава́ньне</definition>
 		<definition type="h" kind="by">апазнава́нне</definition>
 		<definition type="h" kind="mt">21</definition>
-		<definition type="h" kind="rm">на перагляд. памылковы сэнс</definition>
+		<definition type="h" kind="rm">на перагляд. памылковы сэнс перакладу</definition>
 	</article>
 
 	<article>
@@ -165,164 +167,221 @@
 		<definition type="h" kind="mt">21</definition>
 	</article>
 
-<!--***************************************************************************************-->
-
 	<article>
 		<key>backup</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> рэзэрвовая копія<br>
-			<b>2.</b> <i class="gr">verb</i> ствара́ць/ствары́ць рэзэрвовую копію<br>
-			<b>3.</b> <i class="gr">adjective</i> рэзэрвовы <i class="ex">(файл, сховішча)</i>]]>
+		<definition type="h" kind="be"><![CDATA[
+			<b>1.</b> <i>noun</i> рэзэрвовая копія<br>
+			<b>2.</b> <i>verb</i> ствара́ць/ствары́ць рэзэрвовую копію<br>
+			<b>3.</b> <i>adj</i> рэзэрвовы <i>(файл, сховішча)</i>]]>
 		</definition>
-	</article>
-
-	<article>
-		<key>backup server</key>
-		<definition type="h">сэ́рвер рэзэрвава́ньня</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<b>1.</b> <i>noun</i> рэзервовая копія<br>
+			<b>2.</b> <i>verb</i> ствара́ць/ствары́ць рэзервовую копію<br>
+			<b>3.</b> <i>adj</i> рэзервовы <i>(файл, сховішча)</i>]]>
+		</definition>
+		<definition type="h" kind="mt">1, 3</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+		<!-- backup server — сэ́рвер рэзэрвава́ньня -->
 	</article>
 
 	<article>
 		<key>bar</key>
-		<definition type="h">палі́ца</definition>
+		<definition type="h" kind="al">палі́ца</definition>
+		<definition type="h" kind="mt">13</definition>
 	</article>
 
 	<article>
 		<key>bit</key>
-		<definition type="h"><![CDATA[біт, біт <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[біт, біт <i>скар.</i>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>bitrate</key>
-		<definition type="h">бітрэ́йт</definition>
+		<definition type="h" kind="al">бітрэ́йт</definition>
+		<definition type="h" kind="mt">19</definition>
 	</article>
 
 	<article>
 		<key>bold</key>
-		<definition type="h">тоўсты</definition>
+		<definition type="h" kind="al">тоўсты</definition>
+		<definition type="h" kind="mt">6</definition>
 	</article>
 
 	<article>
 		<key>bug</key>
-		<definition type="h"><![CDATA[<span class="un">
-			хі́ба</span>]]>
-		</definition>
+		<definition type="h" kind="al">хі́ба</definition>
+		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>build</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> збор<br>
-			<b>2.</b> <i class="gr">verb</i> зьбіра́ць, сабра́ць]]>
+		<definition type="h" kind="be"><![CDATA[
+			<b>1.</b> <i>noun</i> збор<br>
+			<b>2.</b> <i>verb</i> зьбіра́ць, сабра́ць]]>
 		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<b>1.</b> <i>noun</i> збор<br>
+			<b>2.</b> <i>verb</i> збіра́ць, сабра́ць]]>
+		</definition>
+		<definition type="h" kind="mt">30</definition>
 	</article>
 
 	<article>
 		<key>button</key>
-		<definition type="h">кнопка</definition>
+		<definition type="h" kind="al">кнопка</definition>
+		<definition type="h" kind="mt">4</definition>
 	</article>
 
 	<article>
 		<key>byte</key>
-		<definition type="h"><![CDATA[байт, Б <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[байт, Б <i>скар.</i>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>cache</key>
-		<definition type="h">кэш</definition>
+		<definition type="h" kind="al">кэш</definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>cancel</key>
-		<definition type="h">скасава́ць</definition>
+		<definition type="h" kind="al">скасава́ць</definition>
+		<definition type="h" kind="mt">8</definition>
 	</article>
 
 	<article>
 		<key>catalogue</key>
-		<definition type="h">каталёг</definition>
+		<definition type="h" kind="be">каталёґ</definition>
+		<definition type="h" kind="by">каталог</definition>
+		<definition type="h" kind="mt">2, 3</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>change</key>
-		<definition type="h">зьмяня́ць, зьмяні́ць</definition>
+		<definition type="h" kind="be">зьмяня́ць, зьмяні́ць</definition>
+		<definition type="h" kind="by">змяня́ць, змяні́ць</definition>
+		<definition type="h" kind="mt">23</definition>
 	</article>
 
 	<article>
 		<key>char</key>
 		<key>character</key>
-		<definition type="h">знак</definition>
+		<definition type="h" kind="al">знак</definition>
+		<definition type="h" kind="mt">21</definition>
 	</article>
 
 	<article>
 		<key>charset</key>
-		<definition type="h">знаказбор</definition>
+		<definition type="h" kind="al">знаказбор</definition>
+		<definition type="h" kind="mt">21</definition>
 	</article>
 
 	<article>
 		<key>checkbox</key>
-		<definition type="h">поле пту́шкі</definition>
+		<definition type="h" kind="al">поле пту́шкі</definition>
+		<definition type="h" kind="mt">17, 18</definition>
 	</article>
 
 	<article>
 		<key>checkmark</key>
-		<definition type="h">пту́шка</definition>
+		<definition type="h" kind="al">пту́шка</definition>
+		<definition type="h" kind="mt">17, 18</definition>
 	</article>
 
 	<article>
 		<key>click</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> пстры́к<br>
-			<b>2.</b> <i class="gr">verb</i> пстры́каць, прстры́кнуць]]>
+		<definition type="h" kind="al"><![CDATA[
+			<b>1.</b> <i>noun</i> пстры́к<br>
+			<b>2.</b> <i>verb</i> пстры́каць, прстры́кнуць]]>
 		</definition>
+		<definition type="h" kind="mt">4, 13</definition>
 	</article>
 
 	<article>
 		<key>clipboard</key>
-		<definition type="h">кішэня</definition>
+		<definition type="h" kind="al">кішэня</definition>
+		<definition type="h" kind="mt">13</definition>
 	</article>
 
 	<article>
 		<key>close</key>
-		<definition type="h"><![CDATA[
-			<b>I.</b> <i>(для файлаў)</i> зачыня́ць, зачыні́ць
-				<p class="ind1">
-				<span class="ex">
-				<b>close a file</b> зачыніць файл<br>
-				<b>close a window</b> зачыніць акно</span>
-				</p>
-			<b>II.</b> <i>(зрабіць недаступным для іншых)</i>
-				<p class="ind1">
-				<b>1.</b> <i class="gr">verb</i> закрыва́ць, закры́ць<br>
-				<b>2.</b> <i class="gr">adjective</i> закры́ты
-				</p>]]>
+		<definition type="h" kind="al"><![CDATA[<b>I.</b> зачыня́ць, зачыні́ць <i>(файл, акно)</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[
+			<b>II.</b> <i>(зрабіць недаступным для іншых)</i><br>
+				<b>1.</b> <i>verb</i> закрыва́ць, закры́ць<br>
+				<b>2.</b> <i>adj</i> закры́ты]]>
 		</definition>
+		<definition type="h" kind="mt">2, 3</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>codec</key>
-		<definition type="h">кодэк</definition>
+		<definition type="h" kind="al">кодэк</definition>
+		<definition type="h" kind="mt">16</definition>
 	</article>
 
 	<article>
 		<key>column</key>
-		<definition type="h">слупок</definition>
+		<definition type="h" kind="al">слупок</definition>
+		<definition type="h" kind="mt">21</definition>
 	</article>
 
 	<article>
 		<key>command</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> зага́д<br>
-			<b>2.</b> <i class="gr">adjective</i> зага́дны]]>
+		<definition type="h" kind="al"><![CDATA[
+			<b>1.</b> <i>noun</i> зага́д<br>
+			<b>2.</b> <i>adj</i> зага́дны]]>
 		</definition>
+		<definition type="h" kind="mt">14</definition>
 	</article>
 
 	<article>
 		<key>command line</key>
-		<definition type="h">зага́дны радок</definition>
+		<definition type="h" kind="al">зага́дны радок</definition>
+		<definition type="h" kind="mt">14</definition>
 	</article>
 
 	<article>
 		<key>complete</key>
-		<definition type="h">сканча́ць, скончыць</definition>
+		<definition type="h" kind="al">сканча́ць, скончыць</definition>
+		<definition type="h" kind="mt">14</definition>
+	</article>
+
+<!-- **************************************************************************** -->
+
+	<article>
+		<key>connect</key>
+		<definition type="h" kind="al"><![CDATA[
+			<b>1.</b> злучыць (раўназначныя абʼекты)<br>
+			<b>2.</b> далучыць]]>
+		</definition>
+		<definition type="h" kind="mt">16, 20</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>connecting</key>
+		<definition type="h" kind="be"><![CDATA[<i>(працэс)</i> злучэньне]]></definition>
+		<definition type="h" kind="by"><![CDATA[<i>(працэс)</i> злучэнне]]></definition>
+		<definition type="h" kind="mt">16, 20</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>connection</key>
+		<definition type="h"><![CDATA[<i>noun</i> злучэньне]]></definition>
+		<definition type="h" kind="mt">16, 20</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>connector</key>
+		<definition type="h">злуча́льнік</definition>
 	</article>
 
 	<article>
@@ -339,29 +398,6 @@
 		<key>contents</key>
 		<synonym>table of contents</synonym>
 		<definition type="h">зьмест</definition>
-	</article>
-
-	<article>
-		<key>connect</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i>(пры раўназначным злучэньні)</i> злучыць<br>
-			<b>2.</b> <i>(пры нераўназначным злучэньні)</i> далучыць<br>]]>
-		</definition>
-	</article>
-
-	<article>
-		<key>connecting</key>
-		<definition type="h"><![CDATA[<i>(працэс)</i> злучэньне]]></definition>
-	</article>
-
-	<article>
-		<key>connection</key>
-		<definition type="h"><![CDATA[<i class="gr">noun</i> злучэньне]]></definition>
-	</article>
-
-	<article>
-		<key>connector</key>
-		<definition type="h">злуча́льнік</definition>
 	</article>
 
 	<article>
