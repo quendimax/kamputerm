@@ -14,131 +14,158 @@
 	<article>
 		<key>@</key>
 		<key>commercial at</key>
-		<definition type="h">сьліма́к</definition>
+		<definition type="h" kind="be">сьліма́к</definition>
+		<definition type="h" kind="by">сліма́к</definition>
+		<definition type="h" kind="mt">17</definition>
 	</article>
 
 	<article>
 		<key>add-in</key>
 		<key>addin</key>
 		<synonym>add-on</synonym>
-		<definition type="h">дада́так</definition>
+		<definition type="h" kind="al">дада́так</definition>
+		<definition type="h" kind="mt">30</definition>
 	</article>
 
 	<article>
 		<key>add-on</key>
 		<key>addon</key>
 		<synonym>add-in</synonym>
-		<definition type="h">дада́так</definition>
+		<definition type="h" kind="al">дада́так</definition>
+		<definition type="h" kind="mt">18</definition>
 	</article>
 
 	<article>
 		<key>adjust</key>
-		<definition type="h"><![CDATA[
-			наста́віць, адрэґулява́ць<br>
-				<p class="ind1"><span class="ex">
-				<b>adjust date, time</b> наставіць дату, час<br>
-				<b>adjust brightness</b> адрэґуляваць яркасьць<br>
-				<b>adjust settings</b> наставіць налады</span>
-				</p>]]>
-		</definition>
+		<definition type="h" kind="be">наста́віць, адрэґулява́ць</definition>
+		<definition type="h" kind="by">наста́віць, адрэгулява́ць</definition>
+		<definition type="h" kind="mt">33</definition>
+		<!--
+			<i>adjust date, time</i> — наставіць дату, час<br>
+			<i>adjust brightness</i> — адрэґуляваць яркасьць<br>
+			<i>adjust settings</i> — наставіць налады
+		-->
 	</article>
 
 	<article>
 		<key>alarm</key>
-		<definition type="h"><![CDATA[<span class="un">
-			<b>1.</b> <i class="gr">noun</i> аля́рм<br>
-			<b>2.</b> <i class="gr">verb</i> алярмава́ць</span>]]>
-		</definition>
+		<definition type="h" kind="al"><![CDATA[<b>1.</b> <i>noun</i> аля́рм]]></definition>
+		<definition type="h" kind="al"><![CDATA[<b>2.</b> <i>verb</i> алярмава́ць, залярмава́ць]]></definition>
+		<definition type="h" kind="mt">33</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>alert</key>
-		<definition type="h"><![CDATA[<span class="un">
-			апаве́шчаньне, перасьцярога</span>]]>
-		</definition>
+		<definition type="h" kind="be">апаве́шчаньне, перасьцярога</definition>
+		<definition type="h" kind="by">апаве́шчанне, перасцярога</definition>
+		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>align</key>
-		<definition type="h">раўнава́ць, зраўнава́ць</definition>
+		<definition type="h" kind="al">раўнава́ць, зраўнава́ць</definition>
+		<definition type="h" kind="mt">12</definition>
 	</article>
 
 	<article>
 		<key>align left</key>
-		<definition type="h">раўнава́ць зьлева, зраўнава́ць зьлева</definition>
+		<definition type="h" kind="be">раўнава́ць зьлева, зраўнава́ць зьлева</definition>
+		<definition type="h" kind="by">раўнава́ць злева, зраўнава́ць злева</definition>
+		<definition type="h" kind="mt">12</definition>
 	</article>
 
 	<article>
 		<key>align right</key>
-		<definition type="h">раўнава́ць справа, зраўнава́ць справа</definition>
+		<definition type="h" kind="al">раўнава́ць справа, зраўнава́ць справа</definition>
+		<definition type="h" kind="mt">12</definition>
 	</article>
 
 	<article>
 		<key>animate</key>
-		<definition type="h">анімава́ць, занімава́ць</definition>
+		<definition type="h" kind="al">анімава́ць, занімава́ць</definition>
+		<definition type="h" kind="mt">28</definition>
 	</article>
 
 	<article>
 		<key>animated</key>
-		<definition type="h">анімава́ны</definition>
+		<definition type="h" kind="al">анімава́ны</definition>
+		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>announce</key>
-		<definition type="h"><![CDATA[<span class="un">
-			абвяшча́ць, абвясьці́ць, абве́сьціць</span>]]>
-		</definition>
+		<definition type="h" kind="be">абвяшча́ць; абвясьці́ць, абве́сьціць</definition>
+		<definition type="h" kind="by">абвяшча́ць; абвясці́ць, абве́сціць</definition>
+		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>announcement</key>
-		<definition type="h"><![CDATA[<span class="un">
-			<b>1.</b> <i class="gr">adjective</i> абвяшча́льны</br>
-			<b>2.</b> <i class="gr">noun</i> абве́стка</span>]]>
-		</definition>
+		<definition type="h" kind="al"><![CDATA[<b>1.</b> <i>adj</ir> абвяшча́льны]]></definition>
+		<definition type="h" kind="al"><![CDATA[<b>2.</b> <i>noun</i> абве́стка]]></definition>
+		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>antivirus</key>
-		<definition type="h">антыві́рус</definition>
+		<definition type="h" kind="al">антыві́рус</definition>
+		<definition type="h" kind="mt">16</definition>
 	</article>
 
 	<article>
 		<key>application</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="ex">(карыстальніцкая)</i> прагра́ма]]>
-		</definition>
+		<definition type="h" kind="be"><![CDATA[<b>1.</b> <i>(карыстальніцкая)</i> праґра́ма]]></definition>
+		<definition type="h" kind="by"><![CDATA[<b>1.</b> <i>(карыстальніцкая)</i> прагра́ма]]></definition>
+		<definition type="h" kind="mt">5</definition>
 	</article>
 
 	<article>
 		<key>argument</key>
-		<definition type="h">арґумэ́нт</definition>
+		<definition type="h" kind="be">арґумэ́нт</definition>
+		<definition type="h" kind="by">аргуме́нт</definition>
+		<definition type="h" kind="mt">5</definition>
 	</article>
 
 	<article>
 		<key>ascending</key>
-		<definition type="h">наўпросты</definition>
+		<definition type="h" kind="al">наўпросты</definition>
+		<definition type="h" kind="mt">9</definition>
 	</article>
 
 	<article>
 		<key>authenticate</key>
-		<definition type="h">апазнава́ць, апазна́ць</definition>
+		<definition type="h" kind="al">апазнава́ць, апазна́ць</definition>
+		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="rm">на перагляд. памылковы сэнс</definition>
 	</article>
 
 	<article>
 		<key>authentication</key>
-		<definition type="h">апазнава́ньне</definition>
-	</article>
-
-	<article>
-		<key>authorize</key>
-		<definition type="h">упаўнава́жваць, упаўнава́жыць</definition>
+		<definition type="h" kind="be">апазнава́ньне</definition>
+		<definition type="h" kind="by">апазнава́нне</definition>
+		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="rm">на перагляд. памылковы сэнс</definition>
 	</article>
 
 	<article>
 		<key>authorization</key>
-		<definition type="h">упаўнава́жаньне</definition>
+		<definition type="h" kind="be">упаўнава́жаньне</definition>
+		<definition type="h" kind="by">упаўнава́жанне</definition>
+		<definition type="h" kind="mt">21</definition>
 	</article>
+
+	<article>
+		<key>authorize</key>
+		<definition type="h" kind="al">упаўнава́жваць, упаўнава́жыць</definition>
+		<definition type="h" kind="mt">21</definition>
+	</article>
+
+<!--***************************************************************************************-->
 
 	<article>
 		<key>backup</key>
