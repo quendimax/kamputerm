@@ -11,7 +11,11 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
         self.text = ''
         self.keys = []
         self.synonyms = []
-        self.definition = ''
+        self.beDefinition = ''
+        self.byDefinition = ''
+        self.mtDefinition = ''
+        self.rmDefinition = ''
+        self.kind = ''
         self.out = open('dictionary.html', 'w', encoding='utf8')
 
     def startDocument(self):
@@ -21,11 +25,17 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
         for line in open('../css/article-style.css'):
             self.out.write(line)
         self.out.write('</style></head><body><table border="1" cellspacing="0" cellpadding="4">')
-        self.out.write('<tr><th>Тэрмін</th><th>Сынонім</th><th>Пераклад</th>')
+        self.out.write('<tr><th>Тэрмін</th><th>Сынонім</th><th>Пераклад (школьны правапіс)</th>')
+        self.out.write('<th>Пераклад (класічны правапіс)</th><th>Сустрэчы</th><th>Каметар</th>')
 
     def endDocument(self):
         self.out.write('</table></body></html>')
 
+    def startElement(self, name, attrs):
+        if name != 'definition':
+            return
+        self.kind = attrs.getValue('kind')
+        
     def endElement(self, name):
         if name == 'article':
             #TODO start
@@ -40,21 +50,41 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
                     self.out.write('<br>')
             else:
                 self.out.write('-')
-            self.out.write('</td><td>')
-            self.out.write(self.definition)
-            self.out.write('</tr>')
+            self.out.write('</td>\n<td>')
+            self.out.write(self.byDefinition)
+            self.out.write('</td>\n<td>')
+            self.out.write(self.beDefinition)
+            self.out.write('</td>\n<td>')
+            self.out.write(self.mtDefinition)
+            self.out.write('</td>\n<td>')
+            self.out.write(self.rmDefinition)
+            self.out.write('</tr>\n')
             #TODO end
             self.key = ''
             self.keys = []
             self.synonym = ''
             self.synonyms = []
-            self.definition = ''
+            self.beDefinition = ''
+            self.byDefinition = ''
+            self.mtDefinition = ''
+            self.rmDefinition = ''
         elif name == 'key':
             self.keys.append(self.text.strip(' \n\t'))
         elif name == 'synonym':
             self.synonyms.append(self.text.strip(' \n\t'))
         elif name == 'definition':
-            self.definition = self.text.strip(' \n\t')
+            definition = self.text.strip(' \n\t')
+            if self.kind == 'be':
+                self.beDefinition = definition
+            if self.kind == 'by':
+                self.byDefinition = definition
+            if self.kind == 'mt':
+                self.mtDefinition = definition
+            if self.kind == 'rm':
+                self.rmDefinition = definition
+            if self.kind == 'al':
+                self.beDefinition = definition
+                self.byDefinition = definition
         self.text = ''
 
     def characters(self, chars):
