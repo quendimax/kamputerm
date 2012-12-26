@@ -1,17 +1,20 @@
 #!/usr/bin/env python3
 
+import argparse
 import sys
 import xml.sax
 import xml.sax.handler
 
 
 class KamputermSaxHandler(xml.sax.handler.ContentHandler):
-    def __init__(self):
+
+    def __init__(self, output, no_header):
         xml.sax.ContentHandler.__init__(self)
         self.text = ''
         self.reset()
         self.kind = ''
-        self.out = open('dictionary.html', 'w', encoding='utf8')
+        self.out = output
+        self.no_header = no_header
 
     def reset(self):
         self.keys = []
@@ -22,18 +25,22 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
         self.rmDefinition = '−'
 
     def startDocument(self):
-        self.out.write('<html><head>')
-        self.out.write('<meta http-equiv="Content-Type" content="text/html;charset=utf8" />')
-        #self.out.write('<style>')
-        #for line in open('../css/article-style.css'):
-        #    self.out.write(line)
-        #self.out.write('</style>')
-        self.out.write('</head><body><table border="1" cellspacing="0" cellpadding="4">')
+        if self.no_header == False:
+            self.out.write('<html><head>')
+            self.out.write('<meta http-equiv="Content-Type" content="text/html;charset=utf8" />')
+            #self.out.write('<style>')
+            #for line in open('../css/article-style.css'):
+            #    self.out.write(line)
+            #self.out.write('</style>')
+            self.out.write('</head><body>')
+        self.out.write('<table border="1" cellspacing="0" cellpadding="4">')
         self.out.write('<tr><th>Тэрмін</th><th>Сынонім</th><th>Пераклад (школьны правапіс)</th>')
         self.out.write('<th>Пераклад (класічны правапіс)</th><th>Сустрэчы</th><th>Каметар</th>')
 
     def endDocument(self):
-        self.out.write('</table></body></html>')
+        self.out.write('</table>')
+        if self.no_header == False:
+            self.out.write('</body></html>')
 
     def startElement(self, name, attrs):
         if name != 'definition':
@@ -90,8 +97,25 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
     def characters(self, chars):
         self.text += chars
 
+def parseArguments():
+    parser = argparse.ArgumentParser(description='Convert a stardict textual file to an html table')
+    parser.add_argument('input', metavar='FILENAME', help='input file name. If - then reads stdin')
+    parser.add_argument('-o', '--output', default='-', metavar='FILENAME', help='output file name. If it don\'t enumerate then writes to stdout')
+    parser.add_argument('--no-header', action='store_true', help='write without general html-tags (like html, head, body)')
+    args = parser.parse_args()
+    if args.input == '-':
+        args.input = sys.stdin
+    else:
+        args.input = open(args.input, 'r', encoding='utf8')
+    if args.output == '-':
+        args.output = sys.stdout
+    else:
+        args.output = open(args.output, 'w', encoding='utf8')
+    return args
+
 def main():
-    xml.sax.parse(open('../src/kamputerm.xml', encoding='utf8'), KamputermSaxHandler())
+    args = parseArguments()
+    xml.sax.parse(args.input, KamputermSaxHandler(args.output, args.no_header))
 
 if __name__ == '__main__':
     main()
