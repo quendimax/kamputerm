@@ -309,11 +309,11 @@
 
 	<article>
 		<key>close</key>
-		<definition type="h" kind="al"><![CDATA[<b>I.</b> зачыня́ць, зачыні́ць <i>(файл, акно)</i>]]></definition>
 		<definition type="h" kind="al"><![CDATA[
+			<b>I.</b> зачыня́ць, зачыні́ць <i>(файл, акно)</i><br>
 			<b>II.</b> <i>(зрабіць недаступным для іншых)</i><br>
-				<b>1.</b> <i>verb</i> закрыва́ць, закры́ць<br>
-				<b>2.</b> <i>adj</i> закры́ты]]>
+			    <b>1.</b> <i>verb</i> закрыва́ць, закры́ць<br>
+			    <b>2.</b> <i>adj</i> закры́ты]]>
 		</definition>
 		<definition type="h" kind="mt">2, 3</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
