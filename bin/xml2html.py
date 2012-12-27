@@ -9,7 +9,7 @@ import xml.sax.handler
 class KamputermSaxHandler(xml.sax.handler.ContentHandler):
 
     def __init__(self, output, no_header):
-        xml.sax.ContentHandler.__init__(self)
+        xml.sax.handler.ContentHandler.__init__(self)
         self.text = ''
         self.reset()
         self.kind = ''
