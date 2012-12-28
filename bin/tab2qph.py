@@ -29,7 +29,7 @@ def main():
     for line in args.input:
         index = line.find('\t')
         if (index == -1):
-            print("invalid string: ", line)
+            print('invalid string: ', line, file=sys.stderr)
         key = html.escape(line[:index])
         definition = line[index+1:].replace('\\n', ' ').replace('\\t', '')
         out.write('<phrase>\n')
