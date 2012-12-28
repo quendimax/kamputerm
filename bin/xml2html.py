@@ -99,7 +99,7 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
 
 def parseArguments():
     parser = argparse.ArgumentParser(description='Convert a stardict textual file to an html table')
-    parser.add_argument('input', metavar='FILENAME', help='input file name. If - then reads stdin')
+    parser.add_argument('input', metavar='FILENAME', nargs='?', default='-', help='input file name. If missing then reads stdin')
     parser.add_argument('-o', '--output', default='-', metavar='FILENAME', help='output file name. If it don\'t enumerate then writes to stdout')
     parser.add_argument('--no-header', action='store_true', help='write without general html-tags (like html, head, body)')
     args = parser.parse_args()
