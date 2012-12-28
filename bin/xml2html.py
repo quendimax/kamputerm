@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import argparse
+import html
 import sys
 import xml.sax
 import xml.sax.handler
@@ -54,9 +55,9 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
         if name == 'article':
             #TODO start
             self.out.write('<tr><td>')
-            #for key in self.keys:
-            self.out.write(self.keys[0])
-            self.out.write('<br>')
+            for key in self.keys:
+                self.out.write(key)
+                self.out.write('<br>')
             self.out.write('</td><td>')
             if len(self.synonyms) > 0:
                 for synonym in self.synonyms:
@@ -76,7 +77,7 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
             #TODO end
             self.reset()
         elif name == 'key':
-            self.keys.append(self.text.strip(' \n\t'))
+            self.keys.append(html.escape(self.text.strip(' \n\t')))
         elif name == 'synonym':
             self.synonyms.append(self.text.strip(' \n\t'))
         elif name == 'definition':
