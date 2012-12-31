@@ -1,10 +1,26 @@
 #!/usr/bin/env python3
 
 import argparse
+import collections
 import html.parser
 import sys
 import xml.sax
 import xml.sax.handler
+
+
+class ListInfo:
+
+    def __init__(self):
+        self.type = '1'
+        self.isFirstItem = True
+        self.curNum = 1
+
+    def currentNumber(self):
+        if self.type == '1':
+            return str(self.curNum)
+        else:
+            romnumbs = ('I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII', 'XIII')
+            return romnumbs[self.curNum - 1]
 
 
 class HtmlParser(html.parser.HTMLParser):
@@ -12,13 +28,30 @@ class HtmlParser(html.parser.HTMLParser):
     def __init__(self, output):
         html.parser.HTMLParser.__init__(self)
         self.out = output
+        self.stack = []
 
     def handle_starttag(self, tag, attrs):
         if tag == 'br':
             self.out.write(';\\n')
+        elif tag == 'ol':
+            self.stack.append(ListInfo())
+            if len(attrs) > 0 and attrs[0][1] == 'I':
+                self.stack[-1].type = 'I'
+        elif tag == 'li':
+            linf = self.stack[-1]
+            if linf.isFirstItem:
+                linf.isFirstItem = False
+            else:
+                self.out.write('\\n')
+            for i in range(len(self.stack) - 1):
+                self.out.write('\\t')
+            self.out.write(linf.currentNumber())
+            self.out.write('. ')
+            linf.curNum += 1
 
     def handle_endtag(self, tag):
-        pass
+        if tag == 'ol':
+            self.stack.pop()
 
     def handle_data(self, data):
         data = data.replace('\t', '')
