@@ -75,3 +75,46 @@ htlm-сьпісаў `lo` з рымскімі лічбамі. Для гэтага
 
 Гэта камэнтар у якім пазначаюцца розныя заўвагі, у тым ліку пазнака таго, 
 што тэрмін яшчэ не канчаткова вызначаны.
+
+Некалькі тыповых прыкладаў артыкулаў
+------------------------------------
+
+~~~{.xml}
+<article>
+	<key>localized</key>
+	<definition type="h" kind="be">лякалізава́ны</definition>
+	<definition type="h" kind="by">лакалізава́ны</definition>
+	<definition type="h" kind="mt">18</definition>
+</article>
+~~~
+
+~~~{.xml}
+<article>
+	<key>log in</key>
+	<synonym>log on</synonym>
+	<synonym>sign in</synonym>
+	<definition type="h" kind="be">уваходзіць, увайсьці́</definition>
+	<definition type="h" kind="by">уваходзіць, увайсці́</definition>
+	<definition type="h" kind="mt">22</definition>
+</article>
+~~~
+
+~~~{.xml}
+<article>
+	<key>close</key>
+	<definition type="h" kind="al"><![CDATA[
+		<ol type="I">
+		<li>зачыня́ць, зачыні́ць <i>(файл, акно)</i></li>
+		<li> <i>(зрабіць недаступным для іншых)</i>
+			<ol>
+		    <li><em>verb</em> закрыва́ць, закры́ць</li>
+		    <li><em>adj.</em> закры́ты</li>
+			</ol>
+		</li>
+		</ol>]]>
+	</definition>
+	<definition type="h" kind="mt">2, 3</definition>
+	<definition type="h" kind="rm">на перагляд</definition>
+</article>
+~~~
+
