@@ -132,19 +132,16 @@ htlm-сьпісаў `lo` з рымскімі лічбамі. Для гэтага
 Прыклады выкарыстаньня скрыптоў:
 
 ~~~{.bash}
-quendi@quendi-desktop:~/Develop/Workspace/kamputerm$ cd bin/
-quendi@quendi-desktop:~/Develop/Workspace/kamputerm/bin$ ls -l
-усяго 16
--rwxrwxr-x 1 quendi quendi 1432 Снж 30 23:02 tab2qph.py
--rwxr-xr-x 1 quendi quendi 4465 Снж 30 14:40 xml2html.py
--rwxrwxr-x 1 quendi quendi 2947 Стд  1 17:28 xml2tab.py
-quendi@quendi-desktop:~/Develop/Workspace/kamputerm/bin$ ./xml2html.py ../src/kamputerm.xml -o kamputerm.html
-quendi@quendi-desktop:~/Develop/Workspace/kamputerm/bin$ ls
+~/Develop/Workspace/kamputerm$ cd bin/
+~/Develop/Workspace/kamputerm/bin$ ls -l
+tab2qph.py xml2html.py xml2tab.py
+~/Develop/Workspace/kamputerm/bin$ ./xml2html.py ../src/kamputerm.xml -o kamputerm.html
+~/Develop/Workspace/kamputerm/bin$ ls
 kamputerm.html  tab2qph.py  xml2html.py  xml2tab.py
-quendi@quendi-desktop:~/Develop/Workspace/kamputerm/bin$ ./xml2tab.py --orthography=classic -o kamputerm.txt ../src/kamputerm.xml 
-quendi@quendi-desktop:~/Develop/Workspace/kamputerm/bin$ ls
+~/Develop/Workspace/kamputerm/bin$ ./xml2tab.py --orthography=classic -o kamputerm.txt ../src/kamputerm.xml 
+~/Develop/Workspace/kamputerm/bin$ ls
 kamputerm.html  kamputerm.txt  tab2qph.py  xml2html.py  xml2tab.py
-quendi@quendi-desktop:~/Develop/Workspace/kamputerm/bin$ head kamputerm.txt 
+~/Develop/Workspace/kamputerm/bin$ head kamputerm.txt 
 @	сьліма́к
 add-in	дада́так
 add-on	дада́так
@@ -155,9 +152,9 @@ align	раўнава́ць, зраўнава́ць
 align left	раўнава́ць зьлева, зраўнава́ць зьлева
 align right	раўнава́ць справа, зраўнава́ць справа
 animate	анімава́ць, занімава́ць
-quendi@quendi-desktop:~/Develop/Workspace/kamputerm/bin$ cat kamputerm.txt | ./tab2qph.py > kamputerm.qph
-quendi@quendi-desktop:~/Develop/Workspace/kamputerm/bin$ ls
+~/Develop/Workspace/kamputerm/bin$ cat kamputerm.txt | ./tab2qph.py > kamputerm.qph
+~/Develop/Workspace/kamputerm/bin$ ls
 kamputerm.html  kamputerm.qph  kamputerm.txt  tab2qph.py  xml2html.py  xml2tab.py
-quendi@quendi-desktop:~/Develop/Workspace/kamputerm/bin$ 
+~/Develop/Workspace/kamputerm/bin$ 
 ~~~
 
