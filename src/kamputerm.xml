@@ -1469,336 +1469,455 @@
 
 	<article>
 		<key>name</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> імя́ <i class="gr">адуш.</i>
-				<p class="ind1"><span class="ex">
-				<b>user name</b> імя карыстальніка</span>
-				</p>
-			<b>2.</b> на́зва <i class="gr">неадуш.</i>
-				<p class="ind1"><span class="ex">
-				<b>computer name</b> назва кампутару<br>
-				<b>file name</b> назва файла<br>
-				<b>group name</b> назва групы</span>
-				</p>]]>
+		<definition type="h" kind="al"><![CDATA[
+			<ol type="I">
+			<li>імя́ <em>адуш.</em></li>
+			<li>на́зва <em>неадуш.</em></li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="mt">8</definition>
+		<!--
+			<b>user name</b> імя карыстальніка</span>
+			<b>computer name</b> назва кампутару<br>
+			<b>file name</b> назва файла<br>
+			<b>group name</b> назва групы</span>
+			filename
+		-->
 	</article>
 
 	<article>
 		<key>netbook</key>
-		<definition type="h">нэтбук</definition>
+		<definition type="h" kind="al">нэтбук</definition>
+		<definition type="h" kind="mt">33</definition>
 	</article>
 
 	<article>
 		<key>network</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> се́тка<br>
-			<b>2.</b> <i class="gr">adjective</i> се́ткавы]]>
+		<definition type="h" kind="al"><![CDATA[
+			<ol>
+			<li><em>noun</em> се́тка</li>
+			<li><em>adj.</em> се́ткавы</li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="mt">10</definition>
 	</article>
 
 	<article>
 		<key>newsfeed</key>
-		<definition type="h">наві́нная сту́жка</definition>
+		<definition type="h" kind="al">наві́нная сту́жка</definition>
+		<definition type="h" kind="mt">25</definition>
 	</article>
 
 	<article>
 		<key>normal</key>
-		<definition type="h"><![CDATA[
-			<i class="ex">(шрыфт)</i> звыча́йны]]>
-		</definition>
+		<definition type="h" kind="al"><![CDATA[звыча́йны <i>(шрыфт)</i>]]></definition>
+		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="rm">а што на конт не шрыфтоў?</definition>
 	</article>
 
 	<article>
 		<key>notebook</key>
-		<definition type="h">но́ўтбу̀к</definition>
+		<definition type="h" kind="al">но́ўтбу̀к</definition>
+		<definition type="h" kind="mt">33</definition>
 	</article>
 
 	<article>
 		<key>notification</key>
-		<definition type="h"><![CDATA[<span class="un">
-			апавяшчэньне</span>]]>
-		</definition>
+		<definition type="h" type="be">апавяшчэньне</definition>
+		<definition type="h" type="by">апавяшчэнне</definition>
+		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>notify</key>
-		<definition type="h"><![CDATA[<span class="un">
-			апавяшча́ць</span>]]>
-		</definition>
+		<definition type="h" kind="al">апавяшча́ць</definition>
+		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>offline</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">adverb</i> па-за се́цівам<br>
-			<b>2.</b> <i class="gr">adjective</i> пазасе́ткавы <i>(не спалучаны зь сеткай)</i>,
-			                           пазасе́ціўны <i>(не спалучаны зь сецівам)</i>]]>
+		<definition type="h" kind="be"><![CDATA[
+			<ol>
+			<li><em>adv.</em> па-за се́цівам</li>
+			<li><em>adj.</em> пазасе́ткавы <i>(не спалучаны зь сеткай)</i>, пазасе́ціўны <i>(не спалучаны зь сецівам)</i></li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol>
+			<li><em>adv.</em> па-за се́цівам</li>
+			<li><em>adj.</em> пазасе́ткавы <i>(не спалучаны з сеткай)</i>, пазасе́ціўны <i>(не спалучаны з сецівам)</i></li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="mt">11</definition>
 	</article>
 
 	<article>
 		<key>offload</key>
-		<definition type="h">выладоўваць, вы́ладаваць</definition>
+		<definition type="h" kind="al">выладоўваць, вы́ладаваць</definition>
+		<definition type="h" kind="mt">17</definition>
 	</article>
 
 	<article>
 		<key>ok</key>
-		<definition type="h">добра</definition>
+		<definition type="h" kind="al">добра</definition>
+		<definition type="h" kind="mt">8</definition>
 	</article>
 
 	<article>
 		<key>online</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">adverb</i> у се́ціве<br>
-			<b>2.</b> <i class="gr">adjective</i> се́ткавы <i>(спалучаны зь сеткай)</i>,
-			                           се́ціўны <i>(спалучаны зь сецівам)</i>]]>
+		<definition type="h" kind="be"><![CDATA[
+			<ol>
+			<li><em>adv.</em> у се́ціве<li>
+			<li><em>adj.</em> се́ткавы <i>(спалучаны зь сеткай)</i>, се́ціўны <i>(спалучаны зь сецівам)</i></li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="mt">11</definition>
 	</article>
 
 	<article>
 		<key>open</key>
-		<definition type="h"><![CDATA[
-			<b>I.</b> <i>(як мэтафара)</i> адчыня́ць, адчыні́ць
-				<p class="ind1"><span class="ex">
+		<definition type="h" kind="al"><![CDATA[
+			<ol type="I">
+			<li><i>(як мэтафара)</i> адчыня́ць, адчыні́ць</li>
+			<li><i>(зрабіць даступным для іншых)</li>
+				<ol>
+				<li><em>verb</em> адкрыва́ць, адкры́ць</li>
+				<li><em>adj.</em> адкры́ты</li>
+				</ol>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="mt">2, 3</definition>
+		<!--
 				<b>open a file</b> адчыніць файл<br>
 				<b>open a window</b> адчыніць акно</span>
-				</p>
-			<b>II.</b> <i>(зрабіць даступным для іншых)</i>
-				<p class="ind1">
-				<b>1.</b> <i class="gr">verb</i> адкрыва́ць, адкры́ць<br>
-				</p>
-					<p class="ind2"><span class="ex">
-					<b>open source of program</b> адкрыць зыходны код праграмы</span>
-					</p>
-				<p class="ind1">
-				<b>2.</b> <i class="gr">adjective</i> адкры́ты
-				</p>
-					<p class="ind2"><span class="ex">
-					<b>open source</b> адкрыты зыходны код</span>
-					</p>]]>
-		</definition>
+				<b>open source</b> адкрыты зыходны код</span>
+		-->
 	</article>
 
 	<article>
 		<key>order</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> пара́дак<br>
-			<b>2.</b> <i class="gr">verb</i> парадкава́ць, спара́дкаваць]]>
+		<definition type="h" kind="al"><![CDATA[
+			<ol>
+			<li><em>noun</em> пара́дак</li>
+			<li><em>verb</em> парадкава́ць, спара́дкаваць</li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="mt">12</definition>
 	</article>
 
 	<article>
 		<key>overload</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> пераладава́насьць<br>
-			<b>2.</b> <i class="gr">verb</i> пераладоўваць, пераладава́ць]]>
+		<definition type="h" kind="be"><![CDATA[
+			<ol>
+			<li><em>noun</em> пераладава́насьць</li>
+			<li><em>verb</em> пераладоўваць, пераладава́ць</li>
+			</li>]]>
 		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol>
+			<li><em>noun</em> пераладава́насць</li>
+			<li><em>verb</em> пераладоўваць, пераладава́ць</li>
+			</li>]]>
+		</definition>
+		<definition type="h" kind="mt">17</definition>
 	</article>
 
 	<article>
 		<key>page</key>
-		<definition type="h">старонка, бачы́на</definition>
-	</article>
-
-	<article>
-		<key>paging</key>
-		<synonym>swapping</synonym>
-		<definition type="h">падме́на</definition>
+		<definition type="h" kind="al">старонка, бачы́на</definition>
+		<definition type="h" kind="mt">18</definition>
 	</article>
 
 	<article>
 		<key>pagefile</key>
 		<synonym>swapfile</synonym>
-		<definition type="h">пэйдж-файл</definition>
+		<definition type="h" kind="al">пэйдж-файл</definition>
+		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>paging</key>
+		<synonym>swapping</synonym>
+		<definition type="h" kind="al">падме́на</definition>
+		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>panel</key>
-		<definition type="h">панэль</definition>
+		<definition type="h" kind="al">панэль</definition>
+		<definition type="h" kind="mt">13</definition>
 	</article>
 
 	<article>
 		<key>parameter</key>
-		<definition type="h">пара́мэтр, пара́мэтар</definition>
+		<definition type="h" kind="al">пара́мэтр, пара́мэтар</definition>
+		<definition type="h" kind="mt">5</definition>
 	</article>
 
 	<article>
 		<key>partition</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> разьдзе́л<br>
-			<b>2.</b> <i class="gr">verb</i> дзялі́ць, падзялі́ць]]>
+		<definition type="h" kind="be"><![CDATA[
+			<ol>
+			<li><em>noun</em> разьдзе́л</li>
+			<li><em>verb</em> дзялі́ць, падзялі́ць</li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol>
+			<li><em>noun</em> раздзе́л</li>
+			<li><em>verb</em> дзялі́ць, падзялі́ць</li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="mt">5, 6</definition>
 	</article>
 
 	<article>
 		<key>partitioning</key>
-		<definition type="h"><![CDATA[
-			<i>(працэс.)</i> падзе́л]]>
-		</definition>
+		<definition type="h" kind="al"><![CDATA[<i>(працэс.)</i> падзе́л]]></definition>
+		<definition type="h" kind="mt">6</definition>
 	</article>
 
 	<article>
 		<key>paste</key>
-		<definition type="h">устаўля́ць, уста́віць</definition>
+		<definition type="h" kind="al">устаўля́ць, уста́віць</definition>
+		<definition type="h" kind="mt">11</definition>
 	</article>
 
 	<article>
 		<key>perfomance</key>
-		<definition type="h">прадукцы́йнасьць</definition>
+		<definition type="h" kind="be">прадукцы́йнасьць</definition>
+		<definition type="h" kind="by">прадукцы́йнасць</definition>
+		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="rm">а што на конт perfoRmance?</definition>
 	</article>
 
 	<article>
 		<key>personal</key>
-		<definition type="h">пэрсана́льны</definition>
-	</article>
-
-	<article>
-		<key>personalize</key>
-		<definition type="h">пэрсаналізава́ць, спэрсаналізава́ць</definition>
+		<definition type="h" kind="be">пэрсана́льны</definition>
+		<definition type="h" kind="by">персана́льны</definition>
+		<definition type="h" kind="mt">16</definition>
 	</article>
 
 	<article>
 		<key>personalization</key>
-		<definition type="h">пэрсаналіза́цыя</definition>
+		<definition type="h" kind="be">пэрсаналіза́цыя</definition>
+		<definition type="h" kind="by">персаналіза́цыя</definition>
+		<definition type="h" kind="mt">16</definition>
+	</article>
+
+	<article>
+		<key>personalize</key>
+		<definition type="h" kind="be">пэрсаналізава́ць, спэрсаналізава́ць</definition>
+		<definition type="h" kind="by">персаналізава́ць, сперсаналізава́ць</definition>
+		<definition type="h" kind="mt">16</definition>
 	</article>
 
 	<article>
 		<key>picture</key>
 		<synonym>image</synonym>
-		<definition type="h">відары́с</definition>
+		<definition type="h" kind="al">відары́с</definition>
+		<definition type="h" kind="mt">15</definition>
 	</article>
 
 	<article>
 		<key>pixel</key>
-		<definition type="h">пі́ксэль</definition>
+		<definition type="h" kind="be">пі́ксэль</definition>
+		<definition type="h" kind="by">пі́ксель</definition>
+		<definition type="h" kind="mt">14</definition>
 	</article>
 
 	<article>
 		<key>play</key>
-		<definition type="h"><![CDATA[
-			<b>I.</b> <i>(для узнаўленьня відэа-, аўдыёфайлаў)</i> прайграва́ць, прайгра́ць<br>
-			<b>II.</b> <i>(для відэагульняў)</i> гуля́ць, згуля́ць]]>
+		<definition type="h" kind="be"><![CDATA[
+			<ol type="I">
+			<li><i>(для узнаўленьня відэа-, аўдыёфайлаў)</i> прайграва́ць, прайгра́ць</li>
+			<li><i>(для відэагульняў)</i> гуля́ць, згуля́ць</li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol type="I">
+			<li><i>(для узнаўлення відэа-, аўдыёфайлаў)</i> прайграва́ць, прайгра́ць</li>
+			<li><i>(для відэагульняў)</i> гуля́ць, згуля́ць</li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="mt">19</definition>
 	</article>
 
 	<article>
 		<key>player</key>
-		<definition type="h"><![CDATA[
-			<b>I.</b> <i>(для узнаўленьня відэа-, аўдыёфайлаў)</i> прайграва́льнік<br>
-			<b>II.</b> <i>(для відэагульняў)</i> гуле́ц]]>
+		<definition type="h" kind="be"><![CDATA[
+			<ol type="I">
+			<li><i>(для узнаўленьня відэа-, аўдыёфайлаў)</i> прайграва́льнік</li>
+			<li><i>(для відэагульняў)</i> гуле́ц</li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol type="I">
+			<li><i>(для узнаўлення відэа-, аўдыёфайлаў)</i> прайграва́льнік</li>
+			<li><i>(для відэагульняў)</i> гуле́ц</li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="mt">19</definition>
 	</article>
 
 	<article>
 		<key>plugin</key>
 		<key>plug-in</key>
-		<definition type="h">убудова</definition>
+		<definition type="h" kind="al">убудова</definition>
+		<definition type="h" kind="mt">18</definition>
 	</article>
 
 	<article>
 		<key>pointer</key>
-		<definition type="h">указа́льнік</definition>
+		<definition type="h" kind="al">указа́льнік</definition>
+		<definition type="h" kind="mt">27, 29</definition>
 	</article>
 
 	<article>
 		<key>port</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> порт<br>
-			<b>2.</b> <i class="gr">verb</i> партава́ць, партава́ць <i>(перанос праграмы на іншую плятформу)</i>]]>
+		<definition type="h" kind="be"><![CDATA[
+			<ol>
+			<li><em>noun</em> порт</li>
+			<li><em>verb</em> партава́ць, спартава́ць <i>(перанос праграмы на іншую плятформу)</i></li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol>
+			<li><em>noun</em> порт</li>
+			<li><em>verb</em> партава́ць, спартава́ць <i>(перанос праграмы на іншую платформу)</i></li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="mt">24</definition>
 	</article>
 
 	<article>
 		<key>portable</key>
-		<definition type="h"><![CDATA[
-			<b>I.</b> пераносны <i>(пераноснае апраграмаваньне, якое не патрабуе ўсталяваньня)</i><br>
-			<b>II.</b> партава́льны <i>(адаптаваньне апраграмаваньня пад іншую плятформу)</i>]]>
+		<definition type="h" kind="be"><![CDATA[
+			<ol type="I">
+			<li>пераносны <i>(пераноснае апраграмаваньне, якое не патрабуе ўсталяваньня)</i></li>
+			<li>партава́льны <i>(адаптаваньне апраграмаваньня пад іншую плятформу)</i></li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol type="I">
+			<li>пераносны <i>(пераноснае апраграмаванне, якое не патрабуе ўсталявання)</i></li>
+			<li>партава́льны <i>(адаптаванне апраграмавання пад іншую платформу)</i></li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="mt">24</definition>
 	</article>
 
 	<article>
+		<key>portage, porting</key>
 		<key>portage</key>
-		<definition type="h">партава́ньне</definition>
-	</article>
-
-	<article>
 		<key>porting</key>
-		<definition type="h">партава́ньне</definition>
+		<definition type="h" kind="be">партава́ньне</definition>
+		<definition type="h" kind="by">партава́ньне</definition>
+		<definition type="h" kind="mt">24</definition>
 	</article>
 
 	<article>
 		<key>portrait</key>
-		<definition type="h"><![CDATA[<i>(у тыпаграфіцы)</i> вэртыка́льны]]></definition>
+		<definition type="h" kind="be"><![CDATA[<i>(у тыпаграфіцы)</i> вэртыка́льны]]></definition>
+		<definition type="h" kind="by"><![CDATA[<i>(у тыпаграфіцы)</i> вертыка́льны]]></definition>
+		<definition type="h" kind="mt">24</definition>
 	</article>
 
 	<article>
 		<key>preferences</key>
 		<synonym>settings</synonym>
-		<definition type="h">нала́ды</definition>
+		<definition type="h" kind="al">нала́ды</definition>
+		<definition type="h" kind="mt">5</definition>
 	</article>
 
 	<article>
 		<key>press</key>
-		<definition type="h">ці́снуць, наці́снуць</definition>
-	</article>
-
-	<article>
-		<key>protocol</key>
-		<definition type="h">пратакол</definition>
+		<definition type="h" kind="al">ці́снуць, наці́снуць</definition>
+		<definition type="h" kind="mt">4</definition>
 	</article>
 
 	<article>
 		<key>print</key>
-		<definition type="h">друкава́ць, надрукава́ць</definition>
+		<definition type="h" kind="al">друкава́ць, надрукава́ць</definition>
+		<definition type="h" kind="mt">4</definition>
 	</article>
 
 	<article>
 		<key>printer</key>
-		<definition type="h">друка́рка</definition>
-	</article>
-
-	<article>
-		<key>provider</key>
-		<definition type="h">права́йдэр</definition>
+		<definition type="h" kind="al">друка́рка</definition>
+		<definition type="h" kind="mt">3, 4</definition>
 	</article>
 
 	<article>
 		<key>proportional</key>
-		<definition type="h">суме́рны</definition>
+		<definition type="h" kind="al">суме́рны</definition>
+		<definition type="h" kind="mt">6, 7, 8</definition>
+	</article>
+
+	<article>
+		<key>protocol</key>
+		<definition type="h" kind="al">пратакол</definition>
+		<definition type="h" kind="mt">31</definition>
+	</article>
+
+	<article>
+		<key>provider</key>
+		<definition type="h" kind="al">права́йдэр</definition>
+		<definition type="h" kind="mt">15</definition>
 	</article>
 
 	<article>
 		<key>publish</key>
-		<definition type="h">выдава́ць, вы́даць</definition>
+		<definition type="h" kind="al">выдава́ць, вы́даць</definition>
+		<definition type="h" kind="mt">30</definition>
 	</article>
 
 	<article>
 		<key>publisher</key>
-		<definition type="h">выдаве́ц</definition>
+		<definition type="h" kind="al">выдаве́ц</definition>
+		<definition type="h" kind="mt">30</definition>
 	</article>
 
 	<article>
 		<key>rate</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> <i class="gr">noun</i> часьціня́<br>
-			<b>2.</b> <i class="gr">verb</i> ацэ́ньваць, ацані́ць]]>
+		<definition type="h" kind="be"><![CDATA[
+			<ol type="I">
+			<li><em>noun</em> часьціня́</li>
+			<li><em>verb</em> ацэ́ньваць, ацані́ць</li>
+			</ol>]]>
 		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol type="I">
+			<li><em>noun</em> часціня́</li>
+			<li><em>verb</em> ацэ́ньваць, ацані́ць</li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="mt">19</definition>
 	</article>
 
 	<article>
 		<key>receipt</key>
-		<definition type="h"><![CDATA[<span class="un">квіток</span>]]></definition>
+		<definition type="h" kind="al">квіток</definition>
+		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>recover</key>
 		<synonym>restore</synonym>
-		<definition type="h">аднаўля́ць, аднаві́ць</definition>
+		<definition type="h" kind="al">аднаўля́ць, аднаві́ць</definition>
+		<definition type="h" kind="mt">25</definition>
 	</article>
 
 	<article>
 		<key>recovery</key>
-		<definition type="h">аднаўле́ньне</definition>
+		<definition type="h" kind="be">аднаўле́ньне</definition>
+		<definition type="h" kind="by">аднаўле́нне</definition>
+		<definition type="h" kind="mt">25</definition>
 	</article>
 
 	<article>
