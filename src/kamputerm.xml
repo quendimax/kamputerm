@@ -20,6 +20,13 @@
 	</article>
 
 	<article>
+		<key>account</key>
+		<definition type="h" kind="al">рахунак, конт</definition>
+		<definition type="h" kind="mt">13</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>add-in</key>
 		<key>addin</key>
 		<synonym>add-on</synonym>
@@ -87,6 +94,14 @@
 	</article>
 
 	<article>
+		<key>allocation</key>
+		<definition type="h" kind="be">выдзяле́ньне</definition>
+		<definition type="h" kind="by">выдзяле́нне</definition>
+		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>animate</key>
 		<definition type="h" kind="al">анімава́ць, занімава́ць</definition>
 		<definition type="h" kind="mt">28</definition>
@@ -97,6 +112,13 @@
 		<definition type="h" kind="al">анімава́ны</definition>
 		<definition type="h" kind="mt">28</definition>
 		<definition type="h" kind="rm">на перагляд. занімаваны? магчыма варта дадаць закончанае трываньне</definition>
+	</article>
+
+	<article>
+		<key>anycast</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -126,10 +148,25 @@
 	</article>
 
 	<article>
+		<key>applet</key>
+		<definition type="h" kind="be">мініпраґра́ма</definition>
+		<definition type="h" kind="by">мініпрагра́ма</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>application</key>
 		<definition type="h" kind="be"><![CDATA[<i>(карыстальніцкая)</i> праґра́ма]]></definition>
 		<definition type="h" kind="by"><![CDATA[<i>(карыстальніцкая)</i> прагра́ма]]></definition>
 		<definition type="h" kind="mt">5</definition>
+	</article>
+
+	<article>
+		<key>area</key>
+		<definition type="h" kind="al">пляцоўка, ме́йсца, прастора</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -143,6 +180,23 @@
 		<key>ascending</key>
 		<definition type="h" kind="al">наўпросты</definition>
 		<definition type="h" kind="mt">9</definition>
+	</article>
+
+	<article>
+		<key>attach</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="rm">
+			на перагляд. Выказаны канцэпт, які варта было б абдумаць: далучыць замацаваць за attach, 
+			а аднаму са значэнняў connect прывязаць той жа дзеяслоў з іншай прыстаўкай (верагодна, ёй будзе пры-)
+		</definition>
+	</article>
+
+	<article>
+		<key>audio</key>
+		<definition type="h" kind="al">а́ўдыё</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -195,9 +249,42 @@
 	</article>
 
 	<article>
+		<key>balloon</key>
+		<definition type="h" kind="be">падка́зьнік</definition>
+		<definition type="h" kind="by">падка́знік</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>bar</key>
 		<definition type="h" kind="al">палі́ца</definition>
 		<definition type="h" kind="mt">13</definition>
+	</article>
+
+	<article>
+		<key>bidirectional</key>
+		<definition type="h" kind="al">двухкіру́нкавы</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>binding</key>
+		<definition type="h" kind="be"><![CDATA[
+			<ol>
+			<li>зьвязваньне <i>(працэс.)</i></li>
+			<li>зьвязак</li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol>
+			<li>зьвя́званне <i>(працэс.)</i></li>
+			<li>зьвя́зак</li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -220,6 +307,27 @@
 	</article>
 
 	<article>
+		<key>broadcast</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>browse</key>
+		<definition type="h" kind="al">агляда́ць, агле́дзець</definition>
+		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>browser</key>
+		<definition type="h" kind="al">агляда́льнік</definition>
+		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>bug</key>
 		<definition type="h" kind="al">хі́ба</definition>
 		<definition type="h" kind="mt">32</definition>
@@ -229,10 +337,10 @@
 	<article>
 		<key>build</key>
 		<definition type="h" kind="be"><![CDATA[
-			<lo>
+			<ol>
 			<li><em>noun</em> збор</li>
 			<li><em>verb</em> зьбіра́ць, сабра́ць</li>
-			</lo>]]>
+			</ol>]]>
 		</definition>
 		<definition type="h" kind="by"><![CDATA[
 			<ol>
@@ -262,9 +370,35 @@
 	</article>
 
 	<article>
+		<key>call</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>callout</key>
+		<definition type="h" kind="al">вы́наска</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>cancel</key>
 		<definition type="h" kind="al">скасава́ць</definition>
 		<definition type="h" kind="mt">8</definition>
+	</article>
+
+	<article>
+		<key>caret</key>
+		<definition type="h" kind="al"><![CDATA[
+			<ol type="I">
+			<li><i>(знак)</i> стрэ́шка</li>
+			<li><i>(друкарскі тэрмін)</i> ???</li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -462,6 +596,13 @@
 	</article>
 
 	<article>
+		<key>cookie</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>copy</key>
 		<definition type="h" kind="al"><![CDATA[
 			<ol>
@@ -649,6 +790,13 @@
 	</article>
 
 	<article>
+		<key>dock</key>
+		<definition type="h" kind="al">стыкава́ць, прыстыкава́ць</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>domain</key>
 		<definition type="h" kind="al">дамэ́н</definition>
 		<definition type="h" kind="mt">33</definition>
@@ -699,6 +847,22 @@
 	</article>
 
 	<article>
+		<key>drop-down list</key>
+		<definition type="h" kind="be">выпадны́ сьпіс</definition>
+		<definition type="h" kind="by">выпадны́ спіс</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>drop-down menu</key>
+		<definition type="h" kind="be">выпадное мэню́</definition>
+		<definition type="h" kind="by">выпадное меню́</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>dump</key>
 		<definition type="h" kind="al">адбі́так</definition>
 		<definition type="h" kind="mt">15</definition>
@@ -743,6 +907,13 @@
 	</article>
 
 	<article>
+		<key>emoticon</key>
+		<definition type="h" kind="al">эматыкон</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>encode</key>
 		<definition type="h" kind="al">кадава́ць, закадава́ць</definition>
 		<definition type="h" kind="mt">16</definition>
@@ -765,6 +936,7 @@
 		<key>error</key>
 		<definition type="h" kind="al">памы́лка</definition>
 		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -802,6 +974,20 @@
 		<key>expired</key>
 		<definition type="h" kind="al">пратэрмінава́ны</definition>
 		<definition type="h" kind="mt">29</definition>
+	</article>
+
+	<article>
+		<key>face down</key>
+		<definition type="h" kind="al">друкава́ным уні́з</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>fail</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -866,6 +1052,15 @@
 	</article>
 
 	<article>
+		<key>floating point number</key>
+		<key>float</key>
+		<definition type="h" kind="be">лік зь нефіксава́наю коскай</definition>
+		<definition type="h" kind="by">лік з нефіксава́наю коскай</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>folder</key>
 		<definition type="h" kind="be">каталёґ</definition>
 		<definition type="h" kind="by">каталог</definition>
@@ -888,6 +1083,13 @@
 	</article>
 
 	<article>
+		<key>foreground color</key>
+		<definition type="h" kind="al">колер абʼе́кта</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>format</key>
 		<definition type="h" kind="al"><![CDATA[
 			<ol>
@@ -899,9 +1101,24 @@
 	</article>
 
 	<article>
+		<key>gadget</key>
+		<definition type="h" kind="be">ґа́джэт</definition>
+		<definition type="h" kind="by">га́джэт</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>game</key>
 		<definition type="h" kind="al">гульня́</definition>
 		<definition type="h" kind="mt">19</definition>
+	</article>
+
+	<article>
+		<key>geocast</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -909,6 +1126,14 @@
 		<definition type="h" kind="be">ґліф</definition>
 		<definition type="h" kind="by">гліф</definition>
 		<definition type="h" kind="mt">21</definition>
+	</article>
+
+	<article>
+		<key>grave accent</key>
+		<definition type="h" kind="be">ґра́віс</definition>
+		<definition type="h" kind="by">гра́віс</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -947,6 +1172,22 @@
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">12</definition>
+	</article>
+
+	<article>
+		<key>hibernate</key>
+		<definition type="h" kind="be">быць у гібэрна́цыі</definition>
+		<definition type="h" kind="by">быць у гіберна́цыі</definition>
+		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>hibernation</key>
+		<definition type="h" kind="be">гібэрна́цыя</definition>
+		<definition type="h" kind="by">гіберна́цыя</definition>
+		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1036,6 +1277,14 @@
 	</article>
 
 	<article>
+		<key>identity</key>
+		<definition type="h" kind="be">асабовасьць</definition>
+		<definition type="h" kind="by">асабовасць</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>image</key>
 		<synonym>picture</synonym>
 		<definition type="h" kind="al"><![CDATA[
@@ -1053,6 +1302,20 @@
 		<definition type="h" kind="al">выяўле́нчы</definition>
 		<definition type="h" kind="mt">15</definition>
 		<definition type="h" kind="rm">трэʼ дадаткова разгледзець аднакаранёвыя image як дзеяслоў і imaging як прыметнік</definition>
+	</article>
+
+	<article>
+		<key>indent</key>
+		<definition type="h" kind="al">адступа́ць, адступі́ць</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>indentation</key>
+		<definition type="h" kind="al">водступ</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1155,10 +1418,31 @@
 	</article>
 
 	<article>
+		<key>item</key>
+		<definition type="h" kind="al">рэч, скла́днік</definition>
+		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>jack</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>journal</key>
 		<definition type="h" kind="be">дзёньнік</definition>
 		<definition type="h" kind="by">дзённік</definition>
 		<definition type="h" kind="mt">31</definition>
+	</article>
+
+	<article>
+		<key>justify</key>
+		<definition type="h" kind="al">вы́раўняць па баках</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1209,6 +1493,13 @@
 		<key>laptop</key>
 		<definition type="h" kind="al">лэптоп</definition>
 		<definition type="h" kind="mt">33</definition>
+	</article>
+
+	<article>
+		<key>lauch</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1364,9 +1655,30 @@
 	</article>
 
 	<article>
+		<key>login</key>
+		<definition type="h" kind="al">імя карыстальніка, рахунак, конт</definition>
+		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>loopback</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>lose</key>
 		<definition type="h" kind="al">прагуля́ць</definition>
 		<definition type="h" kind="mt">19</definition>
+	</article>
+
+	<article>
+		<key>lowercase</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1391,6 +1703,13 @@
 		<key>manufacturer</key>
 		<definition type="h" kina="al">вытворца</definition>
 		<definition type="h" kind="mt">30</definition>
+	</article>
+
+	<article>
+		<key>margin</key>
+		<definition type="h" kind="al"><![CDATA[поле, палі <em>мн.</em>]]></definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1468,6 +1787,21 @@
 	</article>
 
 	<article>
+		<key>multicast</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>mute</key>
+		<definition type="h" kind="be">сьці́шыць</definition>
+		<definition type="h" kind="by">сці́шыць</definition>
+		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>name</key>
 		<definition type="h" kind="al"><![CDATA[
 			<ol type="I">
@@ -1509,6 +1843,13 @@
 	</article>
 
 	<article>
+		<key>nonunicast</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>normal</key>
 		<definition type="h" kind="al"><![CDATA[звыча́йны <i>(шрыфт)</i>]]></definition>
 		<definition type="h" kind="mt">6</definition>
@@ -1523,8 +1864,8 @@
 
 	<article>
 		<key>notification</key>
-		<definition type="h" type="be">апавяшчэньне</definition>
-		<definition type="h" type="by">апавяшчэнне</definition>
+		<definition type="h" kind="be">апавяшчэньне</definition>
+		<definition type="h" kind="by">апавяшчэнне</definition>
 		<definition type="h" kind="mt">32</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
@@ -1597,6 +1938,13 @@
 	</article>
 
 	<article>
+		<key>option</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">5</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>order</key>
 		<definition type="h" kind="al"><![CDATA[
 			<ol>
@@ -1639,6 +1987,13 @@
 	</article>
 
 	<article>
+		<key>pair</key>
+		<definition type="h" kind="al">спа́рваць, спа́рыць</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>paging</key>
 		<synonym>swapping</synonym>
 		<definition type="h" kind="al">падме́на</definition>
@@ -1647,9 +2002,23 @@
 	</article>
 
 	<article>
+		<key>pane</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">13</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>panel</key>
 		<definition type="h" kind="al">панэль</definition>
 		<definition type="h" kind="mt">13</definition>
+	</article>
+
+	<article>
+		<key>paper jam</key>
+		<definition type="h" kind="al">заціска́льнік папе́ры</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1731,6 +2100,13 @@
 	</article>
 
 	<article>
+		<key>placeholder</key>
+		<definition type="h" kind="al">запаўняльнік</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>play</key>
 		<definition type="h" kind="be"><![CDATA[
 			<ol type="I">
@@ -1765,6 +2141,13 @@
 	</article>
 
 	<article>
+		<key>plug</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>plugin</key>
 		<key>plug-in</key>
 		<definition type="h" kind="al">убудова</definition>
@@ -1775,6 +2158,20 @@
 		<key>pointer</key>
 		<definition type="h" kind="al">указа́льнік</definition>
 		<definition type="h" kind="mt">27, 29</definition>
+	</article>
+
+	<article>
+		<key>pop up</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>pop-up window</key>
+		<definition type="h" kind="al">выплыўное акно</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1847,6 +2244,13 @@
 	</article>
 
 	<article>
+		<key>print area</key>
+		<definition type="h" kind="al">плошча дру́ку, поле дру́ку</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>printer</key>
 		<definition type="h" kind="al">друка́рка</definition>
 		<definition type="h" kind="mt">3, 4</definition>
@@ -1871,6 +2275,13 @@
 	</article>
 
 	<article>
+		<key>proxy</key>
+		<definition type="h" kind="al">проксі, пасярэднік</definition>
+		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>publish</key>
 		<definition type="h" kind="al">выдава́ць, вы́даць</definition>
 		<definition type="h" kind="mt">30</definition>
@@ -1880,6 +2291,13 @@
 		<key>publisher</key>
 		<definition type="h" kind="al">выдаве́ц</definition>
 		<definition type="h" kind="mt">30</definition>
+	</article>
+
+	<article>
+		<key>range</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="rm">на перагляд. варта пакруціць разам з zone</definition>
 	</article>
 
 	<article>
@@ -1897,6 +2315,21 @@
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">19</definition>
+	</article>
+
+	<article>
+		<key>raw data</key>
+		<definition type="h" kind="be">сырыя, перашасныя, неапрацаваныя зьвесткі</definition>
+		<definition type="h" kind="by">сырыя, перашасныя, неапрацаваныя звесткі</definition>
+		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>reader</key>
+		<definition type="h" kind="al">чыта́льнік</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1971,6 +2404,13 @@
 		<key>reload</key>
 		<definition type="h" kind="al">перазаладоўваць, перазаладава́ць</definition>
 		<definition type="h" kind="mt">17</definition>
+	</article>
+
+	<article>
+		<key>reminder</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -2081,6 +2521,13 @@
 	</article>
 
 	<article>
+		<key>run</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>sample</key>
 		<definition type="h" kind="al"><![CDATA[
 			<ol>
@@ -2166,6 +2613,35 @@
 	</article>
 
 	<article>
+		<key>share</key>
+		<definition type="h" kind="al">абагуліваць</definition>
+		<definition type="h" kind="mt">22, 23</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>shared</key>
+		<definition type="h" kind="al">абагулeны</definition>
+		<definition type="h" kind="mt">22, 23</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>sharer</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">22, 23</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>sharing</key>
+		<definition type="h" kind="be">абагульваньне</definition>
+		<definition type="h" kind="by">абагульванне</definition>
+		<definition type="h" kind="mt">22, 23</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>sheet</key>
 		<definition type="h" kind="al">а́ркуш</definition>
 		<definition type="h" kind="mt">23</definition>
@@ -2243,6 +2719,13 @@
 	</article>
 
 	<article>
+		<key>slot</key>
+		<definition type="h" kind="al">слот</definition>
+		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>software</key>
 		<definition type="h" kind="be"><![CDATA[
 			<ol>
@@ -2257,6 +2740,28 @@
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">9, 1</definition>
+	</article>
+
+	<article>
+		<key>sound card</key>
+		<definition type="h" kind="al">гу́кавая ка́рта</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>start</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>statement</key>
+		<definition type="h" kind="be">апэра́тар</definition>
+		<definition type="h" kind="by">апера́тар</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -2354,6 +2859,13 @@
 	</article>
 
 	<article>
+		<key>switch</key>
+		<definition type="h" kind="al">сўітч</definition>
+		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="rm">на перагляд. англіцызм, трэба вызначыцца з напісаннем – на асобнае абмеркаванне.</definition>
+	</article>
+
+	<article>
 		<key>symbol</key>
 		<definition type="h" kind="be">сы́мбаль</definition>
 		<definition type="h" kind="by">сі́мвал</definition>
@@ -2386,6 +2898,13 @@
 	</article>
 
 	<article>
+		<key>tab</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">23, 24</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>table of contents</key>
 		<synonym>contents</synonym>
 		<definition type="h" kind="be">зьме́ст</definition>
@@ -2413,6 +2932,13 @@
 	</article>
 
 	<article>
+		<key>thumbnail</key>
+		<definition type="h" kind="al">абразок, мініяцюра</definition>
+		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>tile</key>
 		<definition type="h" kind="al"><![CDATA[
 			<ol>
@@ -2425,9 +2951,26 @@
 	</article>
 
 	<article>
+		<key>timezone</key>
+		<key>time zone</key>
+		<definition type="h" kind="al">часавая зона</definition>
+		<definition type="h" kind="mt">27</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>trackball</key>
 		<definition type="h" kind="al">трэкбол</definition>
 		<definition type="h" kind="mt">28</definition>
+	</article>
+
+	<article>
+		<key>transfer, transmit</key>
+		<key>transfer</key>
+		<key>transmit</key>
+		<definition type="h" kind="al">перада́ць, перане́сьці</definition>
+		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -2474,6 +3017,13 @@
 		<key>undo</key>
 		<definition type="h" kind="al">адрабля́ць, адрабі́ць</definition>
 		<definition type="h" kind="mt">10</definition>
+	</article>
+
+	<article>
+		<key>unicast</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -2529,10 +3079,16 @@
 
 	<article>
 		<key>upgrade</key>
-		<definition type="h" kind="al"><![CDATA[
+		<definition type="h" kind="be"><![CDATA[
 			<ol>
 			<li><em>noun</em> мадэрніза́цыя</li>
 			<li><em>verb</em> мадэрнізава́ць, змадэрнізава́ць</li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol>
+			<li><em>noun</em> мадэрніза́цыя</li>
+			<li><em>verb</em> мадэрнізава́ць</li>
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">20</definition>
@@ -2548,6 +3104,13 @@
 		<key>uploader</key>
 		<definition type="h" kind="al">пампава́льнік</definition>
 		<definition type="h" kind="mt">18</definition>
+	</article>
+
+	<article>
+		<key>uppercase</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -2601,8 +3164,15 @@
 	</article>
 
 	<article>
+		<key>video card</key>
+		<definition type="h" kind="al">ві̀дэака́рта</definition>
+		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>view</key>
-		<definition type="h" kind="al">прагляда́ць <em>незак. тр.</em>, прагле́дзець, праглядзе́ць</definition>
+		<definition type="h" kind="al"><![CDATA[прагляда́ць <em>незак. тр.</em>, прагле́дзець, праглядзе́ць]]></definition>
 		<definition type="h" kind="mt">25</definition>
 	</article>
 
@@ -2694,13 +3264,29 @@
 		<definition type="h" kind="mt">20</definition>
 	</article>
 
+	<article>
+		<key>zoom in</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
+		<key>zoom out</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
 <!-- prefixes and samples-->
 
 	<article>
 		<key>kilo, K</key>
 		<key>K</key>
 		<key>kilo</key>
-		<definition type="h"><![CDATA[кі́ля, к <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="be"><![CDATA[кі́ля, к <em>скар.</em>]]></definition>
+		<definition type="h" kind="by"><![CDATA[кі́ла, к <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
@@ -2708,14 +3294,17 @@
 		<key>Ki</key>
 		<key>kibi</key>
 		<key>binary kilo</key>
-		<definition type="h"><![CDATA[кі́бі, Кі <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[кі́бі, Кі <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>mega, M</key>
 		<key>M</key>
 		<key>mega</key>
-		<definition type="h"><![CDATA[мэґа, М <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="be"><![CDATA[мэґа, М <em>скар.</em>]]></definition>
+		<definition type="h" kind="by"><![CDATA[ме́га, М <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
@@ -2723,14 +3312,18 @@
 		<key>Mi</key>
 		<key>mebi</key>
 		<key>binary mega</key>
-		<definition type="h"><![CDATA[мэбі, Мі <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="be"><![CDATA[мэбі, Мі <em>скар.</em>]]></definition>
+		<definition type="h" kind="by"><![CDATA[ме́бі, Мі <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>giga, G</key>
 		<key>G</key>
 		<key>giga</key>
-		<definition type="h"><![CDATA[ґі́ґа, Ґ <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="be"><![CDATA[ґі́ґа, Ґ <em>скар.</em>]]></definition>
+		<definition type="h" kind="by"><![CDATA[гі́га, Г <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
@@ -2738,14 +3331,17 @@
 		<key>Gi</key>
 		<key>gibi</key>
 		<key>binary giga</key>
-		<definition type="h"><![CDATA[ґі́бі, Ґі <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="be"><![CDATA[ґі́бі, Ґі <em>скар.</em>]]></definition>
+		<definition type="h" kind="by"><![CDATA[гі́бі, Гі <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>tera, T</key>
 		<key>T</key>
 		<key>tera</key>
-		<definition type="h"><![CDATA[тэра, Т <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[тэра, Т <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
@@ -2753,14 +3349,16 @@
 		<key>Ti</key>
 		<key>tebi</key>
 		<key>binary tera</key>
-		<definition type="h"><![CDATA[тэбі, Ті <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[тэбі, Ті <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>peta, P</key>
 		<key>P</key>
 		<key>peta</key>
-		<definition type="h"><![CDATA[пэта, П <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[пэта, П <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
@@ -2768,14 +3366,16 @@
 		<key>Pi</key>
 		<key>pebi</key>
 		<key>binary peta</key>
-		<definition type="h"><![CDATA[пэбі, Пі <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[пэбі, Пі <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>exa, E</key>
 		<key>E</key>
 		<key>exa</key>
-		<definition type="h"><![CDATA[экза, Э <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[экза, Э <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
@@ -2783,14 +3383,16 @@
 		<key>Ei</key>
 		<key>exbi</key>
 		<key>binary exa</key>
-		<definition type="h"><![CDATA[экзбі, Эі <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[экзбі, Эі <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>zetta, Z</key>
 		<key>Z</key>
 		<key>zetta</key>
-		<definition type="h"><![CDATA[зэта, З <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[зэта, З <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
@@ -2798,14 +3400,16 @@
 		<key>Zi</key>
 		<key>zebi</key>
 		<key>binary zetta</key>
-		<definition type="h"><![CDATA[зэбі, Зі <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[зэбі, Зі <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>yotta, Y</key>
 		<key>Y</key>
 		<key>yotta</key>
-		<definition type="h"><![CDATA[ёта, Ё <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[ёта, Ё <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
@@ -2813,7 +3417,8 @@
 		<key>Yi</key>
 		<key>yobi</key>
 		<key>binary yotta</key>
-		<definition type="h"><![CDATA[ёбі, Ёі <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[ёбі, Ёі <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<!-- samples -->
@@ -2822,217 +3427,34 @@
 		<key>kilobyte, kB</key>
 		<key>kB</key>
 		<key>kilobyte</key>
-		<definition type="h"><![CDATA[кіляба́йт, кБ <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="be"><![CDATA[кіляба́йт, кБ <em>скар.</em>]]></definition>
+		<definition type="h" kind="by"><![CDATA[кілаба́йт, кБ <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>kilobit, kbit</key>
 		<key>kbit</key>
 		<key>kilobit</key>
-		<definition type="h"><![CDATA[кілябі́т, кбіт <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="be"><![CDATA[кілябі́т, кбіт <em>скар.</em>]]></definition>
+		<definition type="h" kind="by"><![CDATA[кілабі́т, кбіт <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>kibibyte, KiB</key>
 		<key>KiB</key>
 		<key>kibibyte</key>
-		<definition type="h"><![CDATA[кібіба́йт, КіБ <i class="gr">скар.</i>]]></definition>
+		<definition type="h" kind="al"><![CDATA[кібіба́йт, КіБ <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 
 	<article>
 		<key>kibibit, Kibit</key>
 		<key>Kibit</key>
 		<key>kibibit</key>
-		<definition type="h"><![CDATA[кібібі́т, Кібіт <i class="gr">скар.</i>]]></definition>
-	</article>
-
-<!-- sustreča 34 -->
-
-	<article>
-		<key>allocation</key>
-		<definition type="h">выдзяле́ньне</definition>
-	</article>
-
-	<article>
-		<key>applet</key>
-		<definition type="h">мініпрагра́ма</definition>
-	</article>
-
-	<article>
-		<key>area</key>
-		<definition type="h">пляцоўка, ме́йсца, прастора</definition>
-	</article>
-
-	<article>
-		<key>audio</key>
-		<definition type="h">а́ўдыё</definition>
-	</article>
-
-	<article>
-		<key>balloon</key>
-		<definition type="h">падка́зьнік</definition>
-	</article>
-
-	<article>
-		<key>binding</key>
-		<definition type="h"><![CDATA[
-			<b>1.</b> зьвязваньне <i>(працэс.)</i><br>
-			<b>2.</b> зьвязак]]>
-		</definition>
-	</article>
-
-	<article>
-		<key>bidirectional</key>
-		<definition type="h">двухкіру́нкавы</definition>
-	</article>
-
-	<article>
-		<key>callout</key>
-		<definition type="h">вы́наска</definition>
-	</article>
-
-	<article>
-		<key>caret</key>
-		<definition type="h"><![CDATA[
-			<b>I.</b> <i>(знак)</i> стрэ́шка<br>
-			<b>II.</b> <i>(друкарскі тэрмін)</i> ???]]>
-		</definition>
-	</article>
-
-	<article>
-		<key>dock</key>
-		<definition type="h">стыкава́ць, прыстыкава́ць</definition>
-	</article>
-
-	<article>
-		<key>drop-down list</key>
-		<definition type="h">выпадны́ сьпіс</definition>
-	</article>
-
-	<article>
-		<key>drop-down menu</key>
-		<definition type="h">выпадное мэню́</definition>
-	</article>
-
-	<article>
-		<key>early-launch boot driver</key>
-		<definition type="h">дра́йвэр заладава́ньня ра́ньняга за́пуску</definition>
-	</article>
-
-	<article>
-		<key>emoticon</key>
-		<definition type="h">эматыкон</definition>
-	</article>
-
-	<article>
-		<key>face down</key>
-		<definition type="h">друкава́ным уні́з</definition>
-	</article>
-
-	<article>
-		<key>floating point number</key>
-		<key>float</key>
-		<definition type="h">лік зь нефіксава́наю коскай</definition>
-	</article>
-
-	<article>
-		<key>foreground color</key>
-		<definition type="h">колер аб’е́кта</definition>
-	</article>
-
-	<article>
-		<key>gadget</key>
-		<definition type="h">ґа́джэт</definition>
-	</article>
-
-	<article>
-		<key>grave accent</key>
-		<definition type="h">ґра́віс</definition>
-	</article>
-
-	<article>
-		<key>hibernate</key>
-		<definition type="h">быць у гібэрнацыі</definition>
-	</article>
-
-	<article>
-		<key>hibernation</key>
-		<definition type="h">гібэрна́цыя</definition>
-	</article>
-
-	<article>
-		<key>identity</key>
-		<definition type="h">асабовасьць</definition>
-	</article>
-
-	<article>
-		<key>indent</key>
-		<definition type="h">адступа́ць, адступі́ць</definition>
-	</article>
-
-	<article>
-		<key>indentation</key>
-		<definition type="h">водступ</definition>
-	</article>
-
-	<article>
-		<key>justify</key>
-		<definition type="h">вы́раўняць па баках</definition>
-	</article>
-
-	<article>
-		<key>margin</key>
-		<definition type="h"><![CDATA[поле, палі <i class="gr">мн.</i>]]></definition>
-	</article>
-
-	<article>
-		<key>mute</key>
-		<definition type="h">сьці́шыць</definition>
-	</article>
-
-	<article>
-		<key>pair</key>
-		<definition type="h">спа́рваць, спа́рыць</definition>
-	</article>
-
-	<article>
-		<key>paper jam</key>
-		<definition type="h">заціска́льнік папе́ры</definition>
-	</article>
-
-	<article>
-		<key>placeholder</key>
-		<definition type="h">запаўняльнік</definition>
-	</article>
-
-	<article>
-		<key>pop-up window</key>
-		<definition type="h">выплыўное акно</definition>
-	</article>
-
-	<article>
-		<key>print area</key>
-		<definition type="h">плошча дру́ку, поле дру́ку</definition>
-	</article>
-
-	<article>
-		<key>reader</key>
-		<definition type="h">чыта́льнік</definition>
-	</article>
-
-	<article>
-		<key>sound card</key>
-		<definition type="h">гу́кавая ка́рта</definition>
-	</article>
-
-	<article>
-		<key>statement</key>
-		<definition type="h">апэра́тар</definition>
-	</article>
-
-	<article>
-		<key>video card</key>
-		<definition type="h">ві̀дэака́рта</definition>
+		<definition type="h" kind="al"><![CDATA[кібібі́т, Кібіт <em>скар.</em>]]></definition>
+		<definition type="h" kind="mt">29</definition>
 	</article>
 </contents>
 </stardict>
