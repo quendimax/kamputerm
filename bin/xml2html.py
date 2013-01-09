@@ -82,6 +82,7 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
             self.synonyms.append(self.text.strip(' \n\t'))
         elif name == 'definition':
             definition = self.text.strip(' \n\t')
+            definition = definition.replace('<em>', '<em style="color: green;">')
             if self.kind == 'be':
                 self.beDefinition = definition
             if self.kind == 'by':
