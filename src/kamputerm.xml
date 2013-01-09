@@ -1167,7 +1167,7 @@
 		<key>help</key>
 		<definition type="h" kind="al"><![CDATA[
 			<ol>
-			<li><em>noun</em> дапамога<li>
+			<li><em>noun</em> дапамога</li>
 			<li><em>verb</em> дапамага́ць, дапамагчы́</li>
 			</ol>]]>
 		</definition>
@@ -2735,7 +2735,7 @@
 		</definition>
 		<definition type="h" kind="by"><![CDATA[
 			<ol>
-			<li><em>noun</em> апраграмава́ньне</li>
+			<li><em>noun</em> апраграмава́нне</li>
 			<li><em>adj.</em> прагра́мны</li>
 			</ol>]]>
 		</definition>
@@ -2875,7 +2875,7 @@
 	<article>
 		<key>synchronization</key>
 		<definition type="h" kind="be">сынхраніза́цыя</definition>
-		<definition type="h" kind="be">сінхраніза́цыя</definition>
+		<definition type="h" kind="by">сінхраніза́цыя</definition>
 		<definition type="h" kind="mt">24</definition>
 	</article>
 
@@ -2884,7 +2884,7 @@
 		<key>synchronize</key>
 		<key>sync</key>
 		<definition type="h" kind="be">сынхранізава́ць, ссынхранізава́ць</definition>
-		<definition type="h" kind="be">сінхранізава́ць, ссінхранізава́ць</definition>
+		<definition type="h" kind="by">сінхранізава́ць, ссінхранізава́ць</definition>
 		<definition type="h" kind="mt">24</definition>
 	</article>
 
@@ -2968,7 +2968,8 @@
 		<key>transfer, transmit</key>
 		<key>transfer</key>
 		<key>transmit</key>
-		<definition type="h" kind="al">перада́ць, перане́сьці</definition>
+		<definition type="h" kind="be">перада́ць, перане́сьці</definition>
+		<definition type="h" kind="by">перада́ць, перане́сці</definition>
 		<definition type="h" kind="mt">25</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
