@@ -54,7 +54,10 @@ class KamputermSaxHandler(xml.sax.handler.ContentHandler):
     def endElement(self, name):
         if name == 'article':
             #TODO start
-            self.out.write('<tr><td>')
+            if 'на перагляд' in self.rmDefinition.lower():
+                self.out.write('<tr bgcolor="yellow"><td>')
+            else:
+                self.out.write('<tr><td>')
             for key in self.keys:
                 self.out.write(key)
                 self.out.write('<br>')
