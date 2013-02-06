@@ -12,6 +12,7 @@
 
 <contents>
 	<article>
+		<key>@, commercial at</key>
 		<key>@</key>
 		<key>commercial at</key>
 		<definition type="h" kind="be">сьліма́к</definition>
@@ -68,8 +69,8 @@
 
 	<article>
 		<key>alert</key>
-		<definition type="h" kind="be">апаве́шчаньне, перасьцярога</definition>
-		<definition type="h" kind="by">апаве́шчанне, перасцярога</definition>
+		<definition type="h" kind="be">апавяшчэньне, перасьцярога</definition>
+		<definition type="h" kind="by">апавяшчэнне, перасцярога</definition>
 		<definition type="h" kind="mt">32</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
@@ -91,6 +92,13 @@
 		<key>align right</key>
 		<definition type="h" kind="al">раўнава́ць справа, зраўнава́ць справа</definition>
 		<definition type="h" kind="mt">12</definition>
+	</article>
+
+	<article>
+		<key>allocate</key>
+		<definition type="h" kind="al">выдзяля́ць, вы́дзеліць</definition>
+		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -193,6 +201,16 @@
 	</article>
 
 	<article>
+		<key>attachment</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="rm">
+			на перагляд. Выказаны канцэпт, які варта было б абдумаць: далучыць замацаваць за attach, 
+			а аднаму са значэнняў connect прывязаць той жа дзеяслоў з іншай прыстаўкай (верагодна, ёй будзе пры-)
+		</definition>
+	</article>
+
+	<article>
 		<key>audio</key>
 		<definition type="h" kind="al">а́ўдыё</definition>
 		<definition type="h" kind="mt">34</definition>
@@ -273,14 +291,14 @@
 		<key>binding</key>
 		<definition type="h" kind="be"><![CDATA[
 			<ol>
-			<li>зьвязваньне <i>(працэс.)</i></li>
-			<li>зьвязак</li>
+			<li>зьвя́званьне <i>(працэс.)</i></li>
+			<li>зьвя́зак</li>
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="by"><![CDATA[
 			<ol>
-			<li>зьвя́званне <i>(працэс.)</i></li>
-			<li>зьвя́зак</li>
+			<li>звя́званне <i>(працэс.)</i></li>
+			<li>звя́зак</li>
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">34</definition>
@@ -308,7 +326,8 @@
 
 	<article>
 		<key>broadcast</key>
-		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="by">трансьляваць</definition>
+		<definition type="h" kind="be">трансляваць</definition>
 		<definition type="h" kind="mt">30</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
@@ -560,7 +579,7 @@
 	<article>
 		<key>content</key>
 		<definition type="h" kind="be">зьме́сьціва</definition>
-		<definition type="h" kind="by">зме́сьціва</definition>
+		<definition type="h" kind="by">зме́сціва</definition>
 		<definition type="h" kind="mt">12</definition>
 	</article>
 
@@ -673,6 +692,7 @@
 			«даныя» успрымаецца як русізм (больш па-беларуску – «дадзеныя», а не «даныя»).
 			Мінус «данняў» — працэсуальнасць, (цьмянае) падабенства з прыметнікам.
 		</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -798,7 +818,8 @@
 
 	<article>
 		<key>domain</key>
-		<definition type="h" kind="al">дамэ́н</definition>
+		<definition type="h" kind="be">дамэ́н</definition>
+		<definition type="h" kind="by">даме́н</definition>
 		<definition type="h" kind="mt">33</definition>
 	</article>
 
@@ -818,12 +839,14 @@
 		<key>download</key>
 		<definition type="h" kind="al">пампава́ць, спампава́ць</definition>
 		<definition type="h" kind="mt">7, 8</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>downloader</key>
 		<definition type="h" kind="al">пампава́льнік</definition>
 		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -991,6 +1014,13 @@
 	</article>
 
 	<article>
+		<key>failure</key>
+		<definition type="h" kind="al">−</definition>
+		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>favorite</key>
 		<key>favourite</key>
 		<definition type="h" kind="al"><![CDATA[
@@ -1145,7 +1175,18 @@
 	<article>
 		<key>hang up</key>
 		<synonym>disconnect</synonym>
-		<definition type="h" kind="al"><![CDATA[<i>глядзіце</i> <a href="disconnect">disconnect</a>]]></definition>
+		<definition type="h" kind="be"><![CDATA[
+			<ol>
+			<li><i>(пры раўназначным злучэньні)</i> разлучы́ць</li>
+			<li><i>(пры нераўназначным злучэньні)</i> адлучы́ць</li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol>
+			<li><i>(пры раўназначным злучэнні)</i> разлучы́ць</li>
+			<li><i>(пры нераўназначным злучэнні)</i> адлучы́ць</li>
+			</ol>]]>
+		</definition>
 		<definition type="h" kind="mt">18</definition>
 	</article>
 
@@ -1161,6 +1202,7 @@
 		<definition type="h" kind="be">абсталява́ньне</definition>
 		<definition type="h" kind="by">абсталява́нне</definition>
 		<definition type="h" kind="mt">9</definition>
+		<definition type="h" kind="rm">на перагляд. прыметнік</definition>
 	</article>
 
 	<article>
@@ -1213,6 +1255,7 @@
 		<key>hub</key>
 		<definition type="h" kind="al">габ</definition>
 		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1412,8 +1455,7 @@
 
 	<article>
 		<key>italic</key>
-		<definition type="h" kind="be">курсы́ў</definition>
-		<definition type="h" kind="by">курсі́ў</definition>
+		<definition type="h" kind="al">курсі́ў</definition>
 		<definition type="h" kind="mt">6</definition>
 	</article>
 
@@ -1458,7 +1500,7 @@
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">4</definition>
-		<definition type="h" kind="rm">разгледжаны ня ўсе сэнсы</definition>
+		<definition type="h" kind="rm">на перагляд. разглядаліся ня ўсе сэнсы</definition>
 	</article>
 
 	<article>
@@ -1496,7 +1538,7 @@
 	</article>
 
 	<article>
-		<key>lauch</key>
+		<key>launch</key>
 		<definition type="h" kind="al">−</definition>
 		<definition type="h" kind="mt">24</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
@@ -1530,12 +1572,14 @@
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>loader</key>
 		<definition type="h" kind="al">ладава́льнік</definition>
 		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1564,8 +1608,8 @@
 
 	<article>
 		<key>locality</key>
-		<definition type="h" kind="be"><![CDATA[мясцовасьць <i>(агульна моўнае)</i>]]></definition>
-		<definition type="h" kind="by"><![CDATA[мясцовасць <i>(агульна моўнае)</i>]]></definition>
+		<definition type="h" kind="be"><![CDATA[мясцовасьць <i>(агульнамоўнае)</i>]]></definition>
+		<definition type="h" kind="by"><![CDATA[мясцовасць <i>(агульнамоўнае)</i>]]></definition>
 		<definition type="h" kind="mt">18</definition>
 	</article>
 
@@ -1585,9 +1629,10 @@
 
 	<article>
 		<key>localize</key>
-		<definition type="h" kind="be">лякалізоўваць, лякалізава́ць</definition>
-		<definition type="h" kind="by">лакалізоўваць, лакалізава́ць</definition>
+		<definition type="h" kind="be">лякалізава́ць</definition>
+		<definition type="h" kind="by">лакалізава́ць</definition>
 		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="rm">на перагляд. закончанае трываньне?</definition>
 	</article>
 
 	<article>
@@ -1725,6 +1770,7 @@
 		<definition type="h" kind="be">мэтазьве́сткі</definition>
 		<definition type="h" kind="by">метазве́сткі</definition>
 		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1766,14 +1812,14 @@
 		<key>move</key>
 		<definition type="h" kind="be"><![CDATA[
 			<ol type="I">
-			<li><i>(агульна ўжываны варыянт)</i> перамяшча́ць, перамясьці́ць</li>
+			<li><i>(агульнаўжываны варыянт)</i> перамяшча́ць, перамясьці́ць</li>
 			<li><i>паводле кантэксту можна выкарыстоўваць іншыя варыянты, 
 				якія больш адпавядаюць меркаванаму мэтафарычнаму значэньню</i></li>
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="by"><![CDATA[
 			<ol type="I">
-			<li><i>(агульна ўжываны варыянт)</i> перамяшча́ць, перамясці́ць</li>
+			<li><i>(агульнаўжываны варыянт)</i> перамяшча́ць, перамясці́ць</li>
 			<li><i>паводле кантэксту можна выкарыстоўваць іншыя варыянты, 
 				якія больш адпавядаюць меркаванаму метафарычнаму значэнню</i></li>
 			</ol>]]>
@@ -1827,6 +1873,7 @@
 
 	<article>
 		<key>network</key>
+		<key>net</key>
 		<definition type="h" kind="al"><![CDATA[
 			<ol>
 			<li><em>noun</em> се́тка</li>
@@ -1881,14 +1928,14 @@
 		<key>offline</key>
 		<definition type="h" kind="be"><![CDATA[
 			<ol>
-			<li><em>adv.</em> па-за се́цівам</li>
-			<li><em>adj.</em> пазасе́ткавы <i>(не спалучаны зь сеткай)</i>, пазасе́ціўны <i>(не спалучаны зь сецівам)</i></li>
+			<li><em>adv.</em> па-за се́ткай, па-за се́цівам</li>
+			<li><em>adj.</em> пазасе́ткавы <i>(ня злучаны зь сеткай)</i>, пазасе́ціўны <i>(ня злучаны зь сецівам)</i></li>
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="by"><![CDATA[
 			<ol>
-			<li><em>adv.</em> па-за се́цівам</li>
-			<li><em>adj.</em> пазасе́ткавы <i>(не спалучаны з сеткай)</i>, пазасе́ціўны <i>(не спалучаны з сецівам)</i></li>
+			<li><em>adv.</em> па-за се́ткай, па-за се́цівам</li>
+			<li><em>adj.</em> пазасе́ткавы <i>(не злучаны з сеткай)</i>, пазасе́ціўны <i>(не злучаны з сецівам)</i></li>
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">11</definition>
@@ -1898,6 +1945,7 @@
 		<key>offload</key>
 		<definition type="h" kind="al">выладоўваць, вы́ладаваць</definition>
 		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1910,8 +1958,14 @@
 		<key>online</key>
 		<definition type="h" kind="be"><![CDATA[
 			<ol>
-			<li><em>adv.</em> у се́ціве<li>
-			<li><em>adj.</em> се́ткавы <i>(спалучаны зь сеткай)</i>, се́ціўны <i>(спалучаны зь сецівам)</i></li>
+			<li><em>adv.</em> у се́тцы, у се́ціве</li>
+			<li><em>adj.</em> се́ткавы <i>(злучаны зь сеткай)</i>, се́ціўны <i>(злучаны зь сецівам)</i></li>
+			</ol>]]>
+		</definition>
+		<definition type="h" kind="by"><![CDATA[
+			<ol>
+			<li><em>adv.</em> у се́тцы, у се́ціве</li>
+			<li><em>adj.</em> се́ткавы <i>(злучаны з сеткай)</i>, се́ціўны <i>(злучаны з сецівам)</i></li>
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">11</definition>
@@ -1970,6 +2024,7 @@
 			</li>]]>
 		</definition>
 		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -1981,7 +2036,7 @@
 	<article>
 		<key>pagefile</key>
 		<synonym>swapfile</synonym>
-		<definition type="h" kind="al">пэйдж-файл</definition>
+		<definition type="h" kind="al">пэйдж-файл, файл падме́ны</definition>
 		<definition type="h" kind="mt">16</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
@@ -2023,7 +2078,8 @@
 
 	<article>
 		<key>parameter</key>
-		<definition type="h" kind="al">пара́мэтр, пара́мэтар</definition>
+		<definition type="h" kind="be">пара́метр</definition>
+		<definition type="h" kind="by">пара́мэтар</definition>
 		<definition type="h" kind="mt">5</definition>
 	</article>
 
@@ -2057,11 +2113,11 @@
 	</article>
 
 	<article>
+		<key>performance</key>
 		<key>perfomance</key>
 		<definition type="h" kind="be">прадукцы́йнасьць</definition>
 		<definition type="h" kind="by">прадукцы́йнасць</definition>
 		<definition type="h" kind="mt">18</definition>
-		<definition type="h" kind="rm">а што на конт perfoRmance?</definition>
 	</article>
 
 	<article>
@@ -2083,6 +2139,7 @@
 		<definition type="h" kind="be">пэрсаналізава́ць, спэрсаналізава́ць</definition>
 		<definition type="h" kind="by">персаналізава́ць, сперсаналізава́ць</definition>
 		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="rm">на перагляд. што на конт варыянта з скончаным трываньнем?</definition>
 	</article>
 
 	<article>
@@ -2213,7 +2270,7 @@
 		<key>portage</key>
 		<key>porting</key>
 		<definition type="h" kind="be">партава́ньне</definition>
-		<definition type="h" kind="by">партава́ньне</definition>
+		<definition type="h" kind="by">партава́нне</definition>
 		<definition type="h" kind="mt">24</definition>
 	</article>
 
@@ -2270,7 +2327,8 @@
 
 	<article>
 		<key>provider</key>
-		<definition type="h" kind="al">права́йдэр</definition>
+		<definition type="h" kind="be">права́йдэр</definition>
+		<definition type="h" kind="by">права́йдар</definition>
 		<definition type="h" kind="mt">15</definition>
 	</article>
 
@@ -2404,6 +2462,7 @@
 		<key>reload</key>
 		<definition type="h" kind="al">перазаладоўваць, перазаладава́ць</definition>
 		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -2417,6 +2476,7 @@
 		<key>remote</key>
 		<definition type="h" kind="al">адле́глы</definition>
 		<definition type="h" kind="mt">нідзе не пазначана. трэба пераслухоўваць :(. Пэўна 18</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -2540,9 +2600,9 @@
 
 	<article>
 		<key>sans serif</key>
-		<definition type="h" kind="al">з ры́скамі</definition>
+		<definition type="h" kind="be"><![CDATA[бяз ры́сак< (<i>пра шрыфт</i>)]]></definition>
+		<definition type="h" kind="by"><![CDATA[без ры́сак< (<i>пра шрыфт</i>)]]></definition>
 		<definition type="h" kind="mt">6</definition>
-		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -2561,7 +2621,7 @@
 		</definition>
 		<definition type="h" kind="by"><![CDATA[
 			<ol>
-			<li><i>(апэрацыя сканэра)</i> сканава́ць, сасканава́ць</li>
+			<li><i>(апэрацыя сканара)</i> сканава́ць, сасканава́ць</li>
 			<li><i>(пошук у чымсці)</i> прагляда́ць <em>незак. тр.</em>, праглядзе́ць, прагле́дзець</li>
 			</ol>]]>
 		</definition>
@@ -2570,7 +2630,8 @@
 
 	<article>
 		<key>scanner</key>
-		<definition type="h" kind="al">ска́нэр</definition>
+		<definition type="h" kind="be">ска́нэр</definition>
+		<definition type="h" kind="by">ска́нер</definition>
 		<definition type="h" kind="mt">4</definition>
 	</article>
 
@@ -2593,15 +2654,14 @@
 
 	<article>
 		<key>serif</key>
-		<definition type="h" kind="al">бяз ры́сак</definition>
+		<definition type="h" kind="al"><![CDATA[з ры́скамі (<i>пра шрыфт</i>)]]></definition>
 		<definition type="h" kind="mt">6</definition>
-		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>server</key>
 		<definition type="h" kind="be">сэ́рвэр</definition>
-		<definition type="h" kind="be">се́рвер</definition>
+		<definition type="h" kind="by">се́рвер</definition>
 		<definition type="h" kind="mt">23</definition>
 	</article>
 
@@ -2614,7 +2674,7 @@
 
 	<article>
 		<key>share</key>
-		<definition type="h" kind="al">абагуліваць</definition>
+		<definition type="h" kind="al">абагу́льваць</definition>
 		<definition type="h" kind="mt">22, 23</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
@@ -2744,7 +2804,7 @@
 
 	<article>
 		<key>sound card</key>
-		<definition type="h" kind="al">гу́кавая ка́рта</definition>
+		<definition type="h" kind="al">гукава́я ка́рта</definition>
 		<definition type="h" kind="mt">34</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
@@ -2965,9 +3025,17 @@
 	</article>
 
 	<article>
-		<key>transfer, transmit</key>
 		<key>transfer</key>
+		<synonym>transmit</synonym>
+		<definition type="h" kind="be">перада́ць, перане́сьці</definition>
+		<definition type="h" kind="by">перада́ць, перане́сці</definition>
+		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
+	</article>
+
+	<article>
 		<key>transmit</key>
+		<synonym>transfer</synonym>
 		<definition type="h" kind="be">перада́ць, перане́сьці</definition>
 		<definition type="h" kind="by">перада́ць, перане́сці</definition>
 		<definition type="h" kind="mt">25</definition>
@@ -3089,22 +3157,25 @@
 		<definition type="h" kind="by"><![CDATA[
 			<ol>
 			<li><em>noun</em> мадэрніза́цыя</li>
-			<li><em>verb</em> мадэрнізава́ць</li>
+			<li><em>verb</em> мадэрнізава́ць, змадэрнізава́ць</li>
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="rm">на перагляд. змадэрнізаваць?</definition>
 	</article>
 
 	<article>
 		<key>upload</key>
 		<definition type="h" kind="al">запампоўваць, запампава́ць</definition>
 		<definition type="h" kind="mt">7, 8</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>uploader</key>
 		<definition type="h" kind="al">пампава́льнік</definition>
 		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
@@ -3188,13 +3259,13 @@
 		<definition type="h" kind="be"><![CDATA[
 			<ol type="I">
 			<li>папярэ́джаньне</li>
-			<li>ува́га <i>(агульна ўжыванае)</i></li>
+			<li>ува́га <i>(агульнаўжыванае)</i></li>
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="by"><![CDATA[
 			<ol type="I">
 			<li>папярэ́джанне</li>
-			<li>ува́га <i>(агульна ўжыванае)</i></li>
+			<li>ува́га <i>(агульнаўжыванае)</i></li>
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">32</definition>
@@ -3263,6 +3334,7 @@
 			</ol>]]>
 		</definition>
 		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
