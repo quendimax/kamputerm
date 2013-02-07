@@ -17,13 +17,13 @@
 		<key>commercial at</key>
 		<definition type="h" kind="be">сьліма́к</definition>
 		<definition type="h" kind="by">сліма́к</definition>
-		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>]]></definition>
 	</article>
 
 	<article>
 		<key>account</key>
 		<definition type="h" kind="al">рахунак, конт</definition>
-		<definition type="h" kind="mt">13</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-13">13</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -32,7 +32,7 @@
 		<key>addin</key>
 		<synonym>add-on</synonym>
 		<definition type="h" kind="al">дада́так</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
@@ -40,14 +40,14 @@
 		<key>addon</key>
 		<synonym>add-in</synonym>
 		<definition type="h" kind="al">дада́так</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>adjust</key>
 		<definition type="h" kind="be">наста́віць, адрэґулява́ць</definition>
 		<definition type="h" kind="by">наста́віць, адрэгулява́ць</definition>
-		<definition type="h" kind="mt">33</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-33">33</a>]]></definition>
 		<!--
 			<i>adjust date, time</i> — наставіць дату, час<br>
 			<i>adjust brightness</i> — адрэґуляваць яркасьць<br>
@@ -63,7 +63,7 @@
 			<li><em>verb</em> алярмава́ць, залярмава́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">33</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-33">33</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -71,33 +71,33 @@
 		<key>alert</key>
 		<definition type="h" kind="be">апавяшчэньне, перасьцярога</definition>
 		<definition type="h" kind="by">апавяшчэнне, перасцярога</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>align</key>
 		<definition type="h" kind="al">раўнава́ць, зраўнава́ць</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
 		<key>align left</key>
 		<definition type="h" kind="be">раўнава́ць зьлева, зраўнава́ць зьлева</definition>
 		<definition type="h" kind="by">раўнава́ць злева, зраўнава́ць злева</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
 		<key>align right</key>
 		<definition type="h" kind="al">раўнава́ць справа, зраўнава́ць справа</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
 		<key>allocate</key>
 		<definition type="h" kind="al">выдзяля́ць, вы́дзеліць</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -105,27 +105,27 @@
 		<key>allocation</key>
 		<definition type="h" kind="be">выдзяле́ньне</definition>
 		<definition type="h" kind="by">выдзяле́нне</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>animate</key>
 		<definition type="h" kind="al">анімава́ць, занімава́ць</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 	</article>
 
 	<article>
 		<key>animated</key>
 		<definition type="h" kind="al">анімава́ны</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд. занімаваны? магчыма варта дадаць закончанае трываньне</definition>
 	</article>
 
 	<article>
 		<key>anycast</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -133,7 +133,7 @@
 		<key>announce</key>
 		<definition type="h" kind="be">абвяшча́ць; абвясьці́ць, абве́сьціць</definition>
 		<definition type="h" kind="by">абвяшча́ць; абвясці́ць, абве́сціць</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -145,21 +145,21 @@
 			<li><em>noun</em> абве́стка</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>antivirus</key>
 		<definition type="h" kind="al">антыві́рус</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>applet</key>
 		<definition type="h" kind="be">мініпраґра́ма</definition>
 		<definition type="h" kind="by">мініпрагра́ма</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -167,13 +167,13 @@
 		<key>application</key>
 		<definition type="h" kind="be"><![CDATA[<i>(карыстальніцкая)</i> праґра́ма]]></definition>
 		<definition type="h" kind="by"><![CDATA[<i>(карыстальніцкая)</i> прагра́ма]]></definition>
-		<definition type="h" kind="mt">5</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-05">5</a>]]></definition>
 	</article>
 
 	<article>
 		<key>area</key>
 		<definition type="h" kind="al">пляцоўка, ме́йсца, прастора</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -181,19 +181,19 @@
 		<key>argument</key>
 		<definition type="h" kind="be">арґумэ́нт</definition>
 		<definition type="h" kind="by">аргуме́нт</definition>
-		<definition type="h" kind="mt">5</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-05">5</a>]]></definition>
 	</article>
 
 	<article>
 		<key>ascending</key>
 		<definition type="h" kind="al">наўпросты</definition>
-		<definition type="h" kind="mt">9</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-09">9</a>]]></definition>
 	</article>
 
 	<article>
 		<key>attach</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-31">31</a>]]></definition>
 		<definition type="h" kind="rm">
 			на перагляд. Выказаны канцэпт, які варта было б абдумаць: далучыць замацаваць за attach, 
 			а аднаму са значэнняў connect прывязаць той жа дзеяслоў з іншай прыстаўкай (верагодна, ёй будзе пры-)
@@ -203,7 +203,7 @@
 	<article>
 		<key>attachment</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-31">31</a>]]></definition>
 		<definition type="h" kind="rm">
 			на перагляд. Выказаны канцэпт, які варта было б абдумаць: далучыць замацаваць за attach, 
 			а аднаму са значэнняў connect прывязаць той жа дзеяслоў з іншай прыстаўкай (верагодна, ёй будзе пры-)
@@ -213,14 +213,14 @@
 	<article>
 		<key>audio</key>
 		<definition type="h" kind="al">а́ўдыё</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>authenticate</key>
 		<definition type="h" kind="al">апазнава́ць, апазна́ць</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд. памылковы сэнс</definition>
 	</article>
 
@@ -228,7 +228,7 @@
 		<key>authentication</key>
 		<definition type="h" kind="be">апазнава́ньне</definition>
 		<definition type="h" kind="by">апазнава́нне</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд. памылковы сэнс перакладу</definition>
 	</article>
 
@@ -236,13 +236,13 @@
 		<key>authorization</key>
 		<definition type="h" kind="be">упаўнава́жаньне</definition>
 		<definition type="h" kind="by">упаўнава́жанне</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
 		<key>authorize</key>
 		<definition type="h" kind="al">упаўнава́жваць, упаўнава́жыць</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
@@ -261,7 +261,10 @@
 			<li><em>adj.</em> рэзервовы <i>(файл, сховішча)</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">1, 3</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-01">1</a>
+			<a href="http://wg.kamputerm.org/meetings/sustreca-03">3</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 		<!-- backup server — сэ́рвер рэзэрвава́ньня -->
 	</article>
@@ -270,20 +273,20 @@
 		<key>balloon</key>
 		<definition type="h" kind="be">падка́зьнік</definition>
 		<definition type="h" kind="by">падка́знік</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>bar</key>
 		<definition type="h" kind="al">палі́ца</definition>
-		<definition type="h" kind="mt">13</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-13">13</a>]]></definition>
 	</article>
 
 	<article>
 		<key>bidirectional</key>
 		<definition type="h" kind="al">двухкіру́нкавы</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -301,26 +304,26 @@
 			<li>звя́зак</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>bit</key>
 		<definition type="h" kind="al"><![CDATA[біт, біт <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
 		<key>bitrate</key>
 		<definition type="h" kind="al">бітрэ́йт</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
 		<key>bold</key>
 		<definition type="h" kind="al">тоўсты</definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 		<definition type="h" kind="rm">не тлусты - бо гэта толькі семантычная калька з рускай мовы</definition>
 	</article>
 
@@ -328,28 +331,28 @@
 		<key>broadcast</key>
 		<definition type="h" kind="by">трансьляваць</definition>
 		<definition type="h" kind="be">трансляваць</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>browse</key>
 		<definition type="h" kind="al">агляда́ць, агле́дзець</definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>browser</key>
 		<definition type="h" kind="al">агляда́льнік</definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>bug</key>
 		<definition type="h" kind="al">хі́ба</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -367,45 +370,45 @@
 			<li><em>verb</em> збіра́ць, сабра́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>button</key>
 		<definition type="h" kind="al">кнопка</definition>
-		<definition type="h" kind="mt">4</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]></definition>
 	</article>
 
 	<article>
 		<key>byte</key>
 		<definition type="h" kind="al"><![CDATA[байт, Б <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
 		<key>cache</key>
 		<definition type="h" kind="al">кэш</definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
 		<key>call</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>callout</key>
 		<definition type="h" kind="al">вы́наска</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>cancel</key>
 		<definition type="h" kind="al">скасава́ць</definition>
-		<definition type="h" kind="mt">8</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]></definition>
 	</article>
 
 	<article>
@@ -416,7 +419,7 @@
 			<li><i>(друкарскі тэрмін)</i> ???</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -424,7 +427,10 @@
 		<key>catalogue</key>
 		<definition type="h" kind="be">каталёґ</definition>
 		<definition type="h" kind="by">каталог</definition>
-		<definition type="h" kind="mt">2, 3</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-03">3</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд.  folder, directory, drawer, catalogue і ўсе іншыя словы, якія азначаюць падобныя абʼекты, перакладаюцца як каталог</definition>
 	</article>
 
@@ -432,32 +438,38 @@
 		<key>change</key>
 		<definition type="h" kind="be">зьмяня́ць, зьмяні́ць</definition>
 		<definition type="h" kind="by">змяня́ць, змяні́ць</definition>
-		<definition type="h" kind="mt">23</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]></definition>
 	</article>
 
 	<article>
 		<key>char</key>
 		<key>character</key>
 		<definition type="h" kind="al">знак</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
 		<key>charset</key>
 		<definition type="h" kind="al">знаказбор</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
 		<key>checkbox</key>
 		<definition type="h" kind="al">поле пту́шкі</definition>
-		<definition type="h" kind="mt">17, 18</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>checkmark</key>
 		<definition type="h" kind="al">пту́шка</definition>
-		<definition type="h" kind="mt">17, 18</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -468,13 +480,16 @@
 			<li><em>verb</em> пстры́каць, пстры́кнуць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">4, 13</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-13">13</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>clipboard</key>
 		<definition type="h" kind="al">кішэня</definition>
-		<definition type="h" kind="mt">13</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-13">13</a>]]></definition>
 	</article>
 
 	<article>
@@ -490,20 +505,23 @@
 			</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">2, 3</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-03">3</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>codec</key>
 		<definition type="h" kind="al">кодэк</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>column</key>
 		<definition type="h" kind="al">слупок</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
@@ -514,19 +532,19 @@
 			<li><em>adj.</em> зага́дны</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 	</article>
 
 	<article>
 		<key>command line</key>
 		<definition type="h" kind="al">зага́дны радок</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 	</article>
 
 	<article>
 		<key>complete</key>
 		<definition type="h" kind="al">сканча́ць, скончыць</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
@@ -543,7 +561,10 @@
 			<li>далуча́ць, далучы́ць <i>(пры нераўназначным злучэнні)</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">16, 20</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -551,7 +572,10 @@
 		<key>connecting</key>
 		<definition type="h" kind="be"><![CDATA[<i>(працэс)</i> злучэньне]]></definition>
 		<definition type="h" kind="by"><![CDATA[<i>(працэс)</i> злучэнне]]></definition>
-		<definition type="h" kind="mt">16, 20</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -559,28 +583,34 @@
 		<key>connection</key>
 		<definition type="h" kind="be"><![CDATA[<em>noun</em> злучэньне]]></definition>
 		<definition type="h" kind="by"><![CDATA[<em>noun</em> злучэнне]]></definition>
-		<definition type="h" kind="mt">16, 20</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>connector</key>
 		<definition type="h" kind="al">злуча́льнік</definition>
-		<definition type="h" kind="mt">16, 20</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>console</key>
 		<definition type="h" kind="al">кансоль</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 	</article>
 
 	<article>
 		<key>content</key>
 		<definition type="h" kind="be">зьме́сьціва</definition>
 		<definition type="h" kind="by">зме́сціва</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
@@ -588,7 +618,7 @@
 		<synonym>table of contents</synonym>
 		<definition type="h" kind="be">зьмест</definition>
 		<definition type="h" kind="by">змест</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
@@ -605,19 +635,19 @@
 			<li><em>verb</em> кірава́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 	</article>
 
 	<article>
 		<key>controller</key>
 		<definition type="h" kind="al">кантролер</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 	</article>
 
 	<article>
 		<key>cookie</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -629,7 +659,7 @@
 			<li><em>verb</em> капіява́ць, скапіява́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">2</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>]]></definition>
 		<definition type="h" kind="rm">
 			Не капіраваць, бо ў такой форме засваення мае суфікс -іра-, які
 			шырока прызнаны за небеларускі і рэкамендаваны да выціскання з
@@ -641,51 +671,51 @@
 	<article>
 		<key>create</key>
 		<definition type="h" kind="al">ствара́ць, ствары́ць</definition>
-		<definition type="h" kind="mt">2</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>]]></definition>
 	</article>
 
 	<article>
 		<key>current</key>
 		<definition type="h" kind="al">дзе́йны</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 		<definition type="h" kind="rm">На перагляд. Трэба скласці спалучэнні і запытаць у астатніх</definition>
 	</article>
 
 	<article>
 		<key>cursor</key>
 		<definition type="h" kind="al">курсор</definition>
-		<definition type="h" kind="mt">27</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-27">27</a>]]></definition>
 	</article>
 
 	<article>
 		<key>custom</key>
 		<definition type="h" kind="al">дапасава́ны</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 	</article>
 
 	<article>
 		<key>customize</key>
 		<definition type="h" kind="al">дапасава́ць</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 	</article>
 
 	<article>
 		<key>customizable</key>
 		<definition type="h" kind="al">дапасава́льны</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 	</article>
 
 	<article>
 		<key>cut</key>
 		<definition type="h" kind="al"><![CDATA[выма́ць, вы́няць, вы́мі <em>заг. л.</em>]]></definition>
-		<definition type="h" kind="mt">11</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-11">11</a>]]></definition>
 	</article>
 
 	<article>
 		<key>data</key>
 		<definition type="h" kind="be">зьве́сткі</definition>
 		<definition type="h" kind="by">зве́сткі</definition>
-		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-01">1</a>]]></definition>
 		<definition type="h" kind="rm">
 			Мінусы «даных» і «дадзеных» — гэта субстанцыяваныя дзеепрыметнікі;
 			узятыя з руска-беларускага слоўніка (колішняя асабістая пазіцыя Падлужнага);
@@ -701,19 +731,19 @@
 		<key>data-base</key>
 		<definition type="h" kind="be">ба́за зьве́стак</definition>
 		<definition type="h" kind="by">ба́за зве́стак</definition>
-		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-01">1</a>]]></definition>
 	</article>
 
 	<article>
 		<key>decode</key>
 		<definition type="h" kind="al">раскадоўваць, раскадава́ць</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>decoder</key>
 		<definition type="h" kind="al">раскадава́льнік</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
@@ -724,7 +754,15 @@
 			<li><em>noun</em> станда́ртны, станда́ртныя</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">5, 6, 8, 9, 10, 17, 20</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-05">5</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-09">9</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-10">10</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]>
+		</definition>
 		<definition type="h" kind="rm">(у залежнасьці ад таго, што маецца на ўвазе: defaults = defaults settings — стандартныя)</definition>
 
 		<!-- standart default − стандартны перадвызначаны -->
@@ -734,25 +772,28 @@
 		<key>delete</key>
 		<synonym>remove</synonym>
 		<definition type="h" kind="al">выдаля́ць, вы́даліць</definition>
-		<definition type="h" kind="mt">2</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>]]></definition>
 	</article>
 
 	<article>
 		<key>descending</key>
 		<definition type="h" kind="al">адваротны</definition>
-		<definition type="h" kind="mt">9</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-09">9</a>]]></definition>
 	</article>
 
 	<article>
 		<key>desktop</key>
 		<definition type="h" kind="al">стальні́ца</definition>
-		<definition type="h" kind="mt">11</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-11">11</a>]]></definition>
 	</article>
 
 	<article>
 		<key>device</key>
 		<definition type="h" kind="al">прыла́да</definition>
-		<definition type="h" kind="mt">3, 4</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-03">3</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -760,14 +801,17 @@
 		<key>dial-up</key>
 		<key>dial up</key>
 		<definition type="h" kind="al">тэлефонны</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 	</article>
 
 	<article>
 		<key>directory</key>
 		<definition type="h" kind="be">каталёґ</definition>
 		<definition type="h" kind="by">каталог</definition>
-		<definition type="h" kind="mt">2, 3</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-03">3</a>]]>
+		</definition>
 		<definition type="h" kind="rm">
 			 folder, directory, drawer, catalogue і ўсе іншыя словы, якія
 			 азначаюць падобныя аб'екты, перакладаюцца як каталог
@@ -783,7 +827,10 @@
 			<li><i>(іншыя носьбіты)</i> дыск</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">5, 6</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-05">5</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -800,19 +847,22 @@
 			<li><i>(пры нераўназначным злучэнні)</i> адлучы́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">16, 20</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>display</key>
 		<definition type="h" kind="al">дысплэ́й</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>dock</key>
 		<definition type="h" kind="al">стыкава́ць, прыстыкава́ць</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -820,7 +870,7 @@
 		<key>domain</key>
 		<definition type="h" kind="be">дамэ́н</definition>
 		<definition type="h" kind="by">даме́н</definition>
-		<definition type="h" kind="mt">33</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-33">33</a>]]></definition>
 	</article>
 
 	<article>
@@ -832,20 +882,23 @@
 			<li><em>verb</em> двойчы прстры́кнуць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">13</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-13">13</a>]]></definition>
 	</article>
 
 	<article>
 		<key>download</key>
 		<definition type="h" kind="al">пампава́ць, спампава́ць</definition>
-		<definition type="h" kind="mt">7, 8</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-07">7</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>downloader</key>
 		<definition type="h" kind="al">пампава́льнік</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -854,7 +907,7 @@
 		<key>drag &amp; drop</key>
 		<key>drag and drop</key>
 		<definition type="h" kind="al">перацягну́ць</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 	</article>
 
 	<article>
@@ -866,14 +919,19 @@
 			<li><i>(windows drive)</i> дыск</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">5, 6, 7, 8</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-05">5</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-07">7</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>drop-down list</key>
 		<definition type="h" kind="be">выпадны́ сьпіс</definition>
 		<definition type="h" kind="by">выпадны́ спіс</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -881,14 +939,14 @@
 		<key>drop-down menu</key>
 		<definition type="h" kind="be">выпадное мэню́</definition>
 		<definition type="h" kind="by">выпадное меню́</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>dump</key>
 		<definition type="h" kind="al">адбі́так</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 	</article>
 
 	<article>
@@ -905,118 +963,121 @@
 			<li><i>(зрабіць шаблённыя змены ў віртуальным абʼекце)</i> змяня́ць, змяні́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">2, 4</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>edition</key>
 		<definition type="h" kind="be">выда́ньне</definition>
 		<definition type="h" kind="by">выда́нне</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>email</key>
 		<key>e-mail</key>
 		<definition type="h" kind="al">электронная пошта, эл. пошта</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>email message</key>
 		<key>e-mail message</key>
 		<definition type="h" kind="al">электронны ліст, эл. ліст</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>emoticon</key>
 		<definition type="h" kind="al">эматыкон</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>encode</key>
 		<definition type="h" kind="al">кадава́ць, закадава́ць</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>encoder</key>
 		<definition type="h" kind="al">кадава́льнік</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>encoding</key>
 		<definition type="h" kind="be">кадава́ньне</definition>
 		<definition type="h" kind="by">кадава́нне</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
 		<key>error</key>
 		<definition type="h" kind="al">памы́лка</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>executable</key>
 		<definition type="h" kind="al">выконвальны</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
 		<key>execute</key>
 		<definition type="h" kind="al">выконваць, вы́канаць</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
 		<key>exist</key>
 		<definition type="h" kind="al">існава́ць</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 	</article>
 
 	<article>
 		<key>existing</key>
 		<definition type="h" kind="al">і́сны</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 	</article>
 
 	<article>
 		<key>expire</key>
 		<definition type="h" kind="be">канчаецца тэрмін дзеяньня</definition>
 		<definition type="h" kind="by">канчаецца тэрмін дзеяння</definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
 		<key>expired</key>
 		<definition type="h" kind="al">пратэрмінава́ны</definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
 		<key>face down</key>
 		<definition type="h" kind="al">друкава́ным уні́з</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>fail</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>failure</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1029,14 +1090,17 @@
 			<li><em>noun</em> упадаба́нае, упадаба́ныя <em>мн. лік</em></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">23</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]></definition>
 	</article>
 
 	<article>
 		<key>feature</key>
 		<definition type="h" kind="be">уласьці́васьць</definition>
 		<definition type="h" kind="by">уласці́васць</definition>
-		<definition type="h" kind="mt">18, 19</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1053,32 +1117,32 @@
 			</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 	</article>
 
 	<article>
 		<key>feeder</key>
 		<definition type="h" kind="al"><![CDATA[падава́льнік <i>(друк.)</i>]]></definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 	</article>
 
 	<article>
 		<key>file</key>
 		<definition type="h" kind="al">файл</definition>
-		<definition type="h" kind="mt">2</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>]]></definition>
 	</article>
 
 	<article>
 		<key>filename</key>
 		<key>file name</key>
 		<definition type="h" kind="al">на́зва фа́йла</definition>
-		<definition type="h" kind="mt">8</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]></definition>
 	</article>
 
 	<article>
 		<key>firewall</key>
 		<definition type="h" kind="al">заслона</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 	</article>
 
 	<article>
@@ -1086,7 +1150,7 @@
 		<key>float</key>
 		<definition type="h" kind="be">лік зь нефіксава́наю коскай</definition>
 		<definition type="h" kind="by">лік з нефіксава́наю коскай</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1094,14 +1158,17 @@
 		<key>folder</key>
 		<definition type="h" kind="be">каталёґ</definition>
 		<definition type="h" kind="by">каталог</definition>
-		<definition type="h" kind="mt">2, 3</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-03">3</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд.  folder, directory, drawer, catalogue і ўсе іншыя словы, якія азначаюць падобныя абʼекты, перакладаюцца як каталог</definition>
 	</article>
 
 	<article>
 		<key>font</key>
 		<definition type="h" kind="al">шрыфт</definition>
-		<definition type="h" kind="mt">2</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>]]></definition>
 	</article>
 
 	<article>
@@ -1109,13 +1176,13 @@
 		<synonym>typeface</synonym>
 		<definition type="h" kind="be">ґарніту́ра</definition>
 		<definition type="h" kind="by">гарніту́ра</definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>foreground color</key>
 		<definition type="h" kind="al">колер абʼе́кта</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1127,27 +1194,27 @@
 			<li><em>verb</em> фарматава́ць, адфарматава́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 	</article>
 
 	<article>
 		<key>gadget</key>
 		<definition type="h" kind="be">ґа́джэт</definition>
 		<definition type="h" kind="by">га́джэт</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>game</key>
 		<definition type="h" kind="al">гульня́</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
 		<key>geocast</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1155,21 +1222,21 @@
 		<key>glyph</key>
 		<definition type="h" kind="be">ґліф</definition>
 		<definition type="h" kind="by">гліф</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
 		<key>grave accent</key>
 		<definition type="h" kind="be">ґра́віс</definition>
 		<definition type="h" kind="by">гра́віс</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>hang</key>
 		<definition type="h" kind="al">завіса́ць, заві́снуць</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
@@ -1187,21 +1254,21 @@
 			<li><i>(пры нераўназначным злучэнні)</i> адлучы́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>hard disk</key>
 		<definition type="h" kind="be">цьвёрды дыск</definition>
 		<definition type="h" kind="by">цвёрды дыск</definition>
-		<definition type="h" kind="mt">27</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-27">27</a>]]></definition>
 	</article>
 
 	<article>
 		<key>hardware</key>
 		<definition type="h" kind="be">абсталява́ньне</definition>
 		<definition type="h" kind="by">абсталява́нне</definition>
-		<definition type="h" kind="mt">9</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-09">9</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд. прыметнік</definition>
 	</article>
 
@@ -1213,14 +1280,14 @@
 			<li><em>verb</em> дапамага́ць, дапамагчы́</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
 		<key>hibernate</key>
 		<definition type="h" kind="be">быць у гібэрна́цыі</definition>
 		<definition type="h" kind="by">быць у гіберна́цыі</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1228,7 +1295,7 @@
 		<key>hibernation</key>
 		<definition type="h" kind="be">гібэрна́цыя</definition>
 		<definition type="h" kind="by">гіберна́цыя</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1240,7 +1307,7 @@
 			<li><em>adj.</em> пачатковы</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
@@ -1248,13 +1315,13 @@
 		<key>hotkey</key>
 		<definition type="h" kind="be">гара́чая кля́віша, гара́чы кля́віш</definition>
 		<definition type="h" kind="by">гара́чая кла́віша, гара́чы кла́віш</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
 		<key>hub</key>
 		<definition type="h" kind="al">габ</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1263,7 +1330,7 @@
 		<synonym>link</synonym>
 		<definition type="h" kind="be">гі̀пэрспасы́лка, спасы́лка</definition>
 		<definition type="h" kind="by">гі̀перспасы́лка, спасы́лка</definition>
-		<definition type="h" kind="mt">23</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]></definition>
 		<definition type="h" kind="rm">
 			(у апошні час патрэбы ў назьве гіпэрспасылка
 			няма, таму паўсюдна выкарыстоўваецца спасылка)
@@ -1273,7 +1340,7 @@
 	<article>
 		<key>I agree</key>
 		<definition type="h" kind="al">згода</definition>
-		<definition type="h" kind="mt">8</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]></definition>
 	</article>
 
 	<article>
@@ -1296,7 +1363,10 @@
 					<em>М:</em> зна́чках.
 				</p>]]>
 		</definition>
-		<definition type="h" kind="mt">9, 10</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-09">9</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-10">10</a>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -1304,26 +1374,26 @@
 		<key>ID</key>
 		<synonym>identifier</synonym>
 		<definition type="h" kind="al">id, ID</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>identification</key>
 		<definition type="h" kind="al">ідэнтыфіка́цыя</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>identifier</key>
 		<definition type="h" kind="al">ідэнтыфіка́тар</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>identity</key>
 		<definition type="h" kind="be">асабовасьць</definition>
 		<definition type="h" kind="by">асабовасць</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1336,41 +1406,41 @@
 			<li><em>verb</em> выяўля́ць, вы́явіць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 		<definition type="h" kind="rm">трэʼ дадаткова разгледзець аднакаранёвыя image як дзеяслоў і imaging як прыметнік</definition>
 	</article>
 
 	<article>
 		<key>imaging</key>
 		<definition type="h" kind="al">выяўле́нчы</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 		<definition type="h" kind="rm">трэʼ дадаткова разгледзець аднакаранёвыя image як дзеяслоў і imaging як прыметнік</definition>
 	</article>
 
 	<article>
 		<key>indent</key>
 		<definition type="h" kind="al">адступа́ць, адступі́ць</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>indentation</key>
 		<definition type="h" kind="al">водступ</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>information</key>
 		<definition type="h" kind="al">інфарма́цыя</definition>
-		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-01">1</a>]]></definition>
 	</article>
 
 	<article>
 		<key>install</key>
 		<definition type="h" kind="al">усталява́ць</definition>
-		<definition type="h" kind="mt">7</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-07">7</a>]]></definition>
 	</article>
 
 	<article>
@@ -1378,7 +1448,7 @@
 		<synonym>installing</synonym>
 		<definition type="h" kind="be">усталява́ньне</definition>
 		<definition type="h" kind="by">усталява́нне</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 	</article>
 
 	<article>
@@ -1386,13 +1456,13 @@
 		<synonym>installation</synonym>
 		<definition type="h" kind="be">усталёўваньне</definition>
 		<definition type="h" kind="by">усталёўванне</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 	</article>
 
 	<article>
 		<key>installer</key>
 		<definition type="h" kind="al">усталёўнік</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 	</article>
 
 	<article>
@@ -1409,67 +1479,74 @@
 			<li>се́ціва <i>(у тэкстах нетэрміналагічнага характару)</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">10</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-10">10</a>]]></definition>
 	</article>
 
 	<article>
 		<key>intranet</key>
 		<definition type="h" king="al">інтранэт</definition>
-		<definition type="h" kind="mt">10</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-10">10</a>]]></definition>
 	</article>
 
 	<article>
 		<key>inverse</key>
 		<definition type="h" kind="be">інвэрсі́йны</definition>
 		<definition type="h" kind="by">інверсі́йны</definition>
-		<definition type="h" kind="mt">17, 20</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>inversion</key>
 		<definition type="h" kind="be">інвэ́рсія</definition>
 		<definition type="h" kind="by">інве́рсія</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
 		<key>invert</key>
 		<definition type="h" kind="be">інвэртава́ць, зынвэртава́ць</definition>
 		<definition type="h" kind="by">інвертава́ць, зынвертава́ць</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
 		<key>invertable</key>
 		<definition type="h" kind="be">інвэртава́льны</definition>
 		<definition type="h" kind="by">інвертава́льны</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
 		<key>inverted</key>
 		<definition type="h" kind="be">інвэртава́ны</definition>
 		<definition type="h" kind="by">інвертава́ны</definition>
-		<definition type="h" kind="mt">12, 17, 20</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>italic</key>
 		<definition type="h" kind="al">курсі́ў</definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>item</key>
 		<definition type="h" kind="al">рэч, скла́днік</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>jack</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1477,13 +1554,13 @@
 		<key>journal</key>
 		<definition type="h" kind="be">дзёньнік</definition>
 		<definition type="h" kind="by">дзённік</definition>
-		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-31">31</a>]]></definition>
 	</article>
 
 	<article>
 		<key>justify</key>
 		<definition type="h" kind="al">вы́раўняць па баках</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1499,7 +1576,7 @@
 			<li><i>(keyboard key)</i> кла́віша <em>ж.</em>, кла́віш <em>м.</em></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">4</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд. разглядаліся ня ўсе сэнсы</definition>
 	</article>
 
@@ -1507,20 +1584,20 @@
 		<key>keyboard</key>
 		<definition type="h" kind="be">клявіяту́ра</definition>
 		<definition type="h" kind="by">клавіяту́ра</definition>
-		<definition type="h" kind="mt">4</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]></definition>
 	</article>
 
 	<article>
 		<key>keyboard key</key>
 		<definition type="h" kind="be"><![CDATA[кля́віша <em>ж.</em>, кля́віш <em>м.</em>]]></definition>
 		<definition type="h" kind="by"><![CDATA[кла́віша <em>ж.</em>, кла́віш <em>м.</em>]]></definition>
-		<definition type="h" kind="mt">4</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]></definition>
 	</article>
 
 	<article>
 		<key>label</key>
 		<definition type="h" kind="al">цэтлік</definition>
-		<definition type="h" kind="mt">9</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-09">9</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1528,33 +1605,36 @@
 		<key>landscape</key>
 		<definition type="h" kind="be"><![CDATA[<i>(у тыпаґрафіцы)</i> гарызанта́льны]]></definition>
 		<definition type="h" kind="by"><![CDATA[<i>(у тыпаграфіцы)</i> гарызанта́льны]]></definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
 		<key>laptop</key>
 		<definition type="h" kind="al">лэптоп</definition>
-		<definition type="h" kind="mt">33</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-33">33</a>]]></definition>
 	</article>
 
 	<article>
 		<key>launch</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>line</key>
 		<definition type="h" kind="al">радок</definition>
-		<definition type="h" kind="mt">22, 23</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>link</key>
 		<synonym>hyperlink</synonym>
 		<definition type="h" kind="al">спасы́лка</definition>
-		<definition type="h" kind="mt">23</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]></definition>
 	</article>
 
 	<article>
@@ -1571,14 +1651,14 @@
 			<li><em>verb</em> ладава́ць, заладава́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>loader</key>
 		<definition type="h" kind="al">ладава́льнік</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1596,42 +1676,42 @@
 			<li><i>(у агульнамоўным сэнсе)</i> мясцовы</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>locale</key>
 		<definition type="h" kind="be">ляка́ль</definition>
 		<definition type="h" kind="by">лака́ль</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>locality</key>
 		<definition type="h" kind="be"><![CDATA[мясцовасьць <i>(агульнамоўнае)</i>]]></definition>
 		<definition type="h" kind="by"><![CDATA[мясцовасць <i>(агульнамоўнае)</i>]]></definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>localizable</key>
 		<definition type="h" kind="be">лякалізава́льны</definition>
 		<definition type="h" kind="by">лакалізава́льны</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>localization</key>
 		<definition type="h" kind="be">лякаліза́цыя</definition>
 		<definition type="h" kind="by">лакаліза́цыя</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>localize</key>
 		<definition type="h" kind="be">лякалізава́ць</definition>
 		<definition type="h" kind="by">лакалізава́ць</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд. закончанае трываньне?</definition>
 	</article>
 
@@ -1639,13 +1719,13 @@
 		<key>localized</key>
 		<definition type="h" kind="be">лякалізава́ны</definition>
 		<definition type="h" kind="by">лакалізава́ны</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>log</key>
 		<definition type="h" kind="al">хроніка</definition>
-		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-31">31</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1655,7 +1735,7 @@
 		<synonym>sign in</synonym>
 		<definition type="h" kind="be">уваходзіць, увайсьці́</definition>
 		<definition type="h" kind="by">уваходзіць, увайсці́</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 	</article>
 
 	<article>
@@ -1665,7 +1745,7 @@
 		<synonym>sign off</synonym>
 		<definition type="h" kind="be">выходзіць, вы́йсьці</definition>
 		<definition type="h" kind="by">выходзіць, вы́йсці</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 	</article>
 
 	<article>
@@ -1674,7 +1754,7 @@
 		<synonym>sign in</synonym>
 		<definition type="h" kind="be">уваходзіць, увайсьці́</definition>
 		<definition type="h" kind="by">уваходзіць, увайсці́</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 	</article>
 
 	<article>
@@ -1684,76 +1764,76 @@
 		<synonym>log off</synonym>
 		<definition type="h" kind="be">выходзіць, вы́йсьці</definition>
 		<definition type="h" kind="by">выходзіць, вы́йсці</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 	</article>
 
 	<article>
 		<key>logging in</key>
 		<definition type="h" kind="al">уваход</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 	</article>
 
 	<article>
 		<key>logging out</key>
 		<definition type="h" kind="al">вы́хад</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 	</article>
 
 	<article>
 		<key>login</key>
 		<definition type="h" kind="al">імя карыстальніка, рахунак, конт</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>loopback</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>lose</key>
 		<definition type="h" kind="al">прагуля́ць</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
 		<key>lowercase</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-31">31</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>machine</key>
 		<definition type="h" kind="al">машы́на</definition>
-		<definition type="h" kind="mt">33</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-33">33</a>]]></definition>
 	</article>
 
 	<article>
 		<key>manage</key>
 		<definition type="h" kind="al">кірава́ць</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 	</article>
 
 	<article>
 		<key>manager</key>
 		<definition type="h" kind="al">кіраўні́к</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 	</article>
 
 	<article>
 		<key>manufacturer</key>
 		<definition type="h" kina="al">вытворца</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>margin</key>
 		<definition type="h" kind="al"><![CDATA[поле, палі <em>мн.</em>]]></definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1761,7 +1841,7 @@
 		<key>message</key>
 		<definition type="h" kind="be">паведамле́ньне</definition>
 		<definition type="h" kind="by">паведамле́нне</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1769,7 +1849,7 @@
 		<key>metadata</key>
 		<definition type="h" kind="be">мэтазьве́сткі</definition>
 		<definition type="h" kind="by">метазве́сткі</definition>
-		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-01">1</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1787,25 +1867,28 @@
 			<li><i>(праграма)</i> назіральнік</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>monospace</key>
 		<definition type="h" kind="al">роўнашырокі</definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>mount</key>
 		<definition type="h" kind="al">прымацоўваць, прымацава́ць</definition>
-		<definition type="h" kind="mt">7, 8</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-07">7</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>mouse</key>
 		<definition type="h" kind="al">мыш</definition>
-		<definition type="h" kind="mt">4</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]></definition>
 	</article>
 
 	<article>
@@ -1824,7 +1907,11 @@
 				якія больш адпавядаюць меркаванаму метафарычнаму значэнню</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">2, 3, 4</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-03">3</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]>
+		</definition>
 		<!--
 				1. перасоўваць, перасу́нуць, пасу́нуць
 					move up - пасунуць уверх</span>
@@ -1835,7 +1922,7 @@
 	<article>
 		<key>multicast</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1843,7 +1930,7 @@
 		<key>mute</key>
 		<definition type="h" kind="be">сьці́шыць</definition>
 		<definition type="h" kind="by">сці́шыць</definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1855,7 +1942,7 @@
 			<li>на́зва <em>неадуш.</em></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">8</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]></definition>
 		<!--
 			<b>user name</b> імя карыстальніка</span>
 			<b>computer name</b> назва кампутару<br>
@@ -1868,7 +1955,7 @@
 	<article>
 		<key>netbook</key>
 		<definition type="h" kind="al">нэтбук</definition>
-		<definition type="h" kind="mt">33</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-33">33</a>]]></definition>
 	</article>
 
 	<article>
@@ -1880,47 +1967,47 @@
 			<li><em>adj.</em> се́ткавы</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">10</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-10">10</a>]]></definition>
 	</article>
 
 	<article>
 		<key>newsfeed</key>
 		<definition type="h" kind="al">наві́нная сту́жка</definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 	</article>
 
 	<article>
 		<key>nonunicast</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>normal</key>
 		<definition type="h" kind="al"><![CDATA[звыча́йны <i>(шрыфт)</i>]]></definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 		<definition type="h" kind="rm">а што на конт не шрыфтоў?</definition>
 	</article>
 
 	<article>
 		<key>notebook</key>
 		<definition type="h" kind="al">но́ўтбу̀к</definition>
-		<definition type="h" kind="mt">33</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-33">33</a>]]></definition>
 	</article>
 
 	<article>
 		<key>notification</key>
 		<definition type="h" kind="be">апавяшчэньне</definition>
 		<definition type="h" kind="by">апавяшчэнне</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>notify</key>
 		<definition type="h" kind="al">апавяшча́ць</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -1938,20 +2025,20 @@
 			<li><em>adj.</em> пазасе́ткавы <i>(не злучаны з сеткай)</i>, пазасе́ціўны <i>(не злучаны з сецівам)</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">11</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-11">11</a>]]></definition>
 	</article>
 
 	<article>
 		<key>offload</key>
 		<definition type="h" kind="al">выладоўваць, вы́ладаваць</definition>
-		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>ok</key>
 		<definition type="h" kind="al">добра</definition>
-		<definition type="h" kind="mt">8</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]></definition>
 	</article>
 
 	<article>
@@ -1968,7 +2055,7 @@
 			<li><em>adj.</em> се́ткавы <i>(злучаны з сеткай)</i>, се́ціўны <i>(злучаны з сецівам)</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">11</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-11">11</a>]]></definition>
 	</article>
 
 	<article>
@@ -1983,7 +2070,10 @@
 				</ol>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">2, 3</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-03">3</a>]]>
+		</definition>
 		<!--
 				<b>open a file</b> адчыніць файл<br>
 				<b>open a window</b> адчыніць акно</span>
@@ -1994,7 +2084,7 @@
 	<article>
 		<key>option</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">5</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-05">5</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2006,7 +2096,7 @@
 			<li><em>verb</em> парадкава́ць, спара́дкаваць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
@@ -2023,28 +2113,28 @@
 			<li><em>verb</em> пераладоўваць, пераладава́ць</li>
 			</li>]]>
 		</definition>
-		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>page</key>
 		<definition type="h" kind="al">старонка, бачы́на</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>pagefile</key>
 		<synonym>swapfile</synonym>
 		<definition type="h" kind="al">пэйдж-файл, файл падме́ны</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>pair</key>
 		<definition type="h" kind="al">спа́рваць, спа́рыць</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2052,27 +2142,27 @@
 		<key>paging</key>
 		<synonym>swapping</synonym>
 		<definition type="h" kind="al">падме́на</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>pane</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">13</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-13">13</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>panel</key>
 		<definition type="h" kind="al">панэль</definition>
-		<definition type="h" kind="mt">13</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-13">13</a>]]></definition>
 	</article>
 
 	<article>
 		<key>paper jam</key>
 		<definition type="h" kind="al">заціска́льнік папе́ры</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2080,7 +2170,7 @@
 		<key>parameter</key>
 		<definition type="h" kind="be">пара́метр</definition>
 		<definition type="h" kind="by">пара́мэтар</definition>
-		<definition type="h" kind="mt">5</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-05">5</a>]]></definition>
 	</article>
 
 	<article>
@@ -2097,19 +2187,22 @@
 			<li><em>verb</em> дзялі́ць, падзялі́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">5, 6</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-05">5</a>
+			<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>partitioning</key>
 		<definition type="h" kind="al"><![CDATA[<i>(працэс.)</i> падзе́л]]></definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>paste</key>
 		<definition type="h" kind="al">устаўля́ць, уста́віць</definition>
-		<definition type="h" kind="mt">11</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-11">11</a>]]></definition>
 	</article>
 
 	<article>
@@ -2117,28 +2210,28 @@
 		<key>perfomance</key>
 		<definition type="h" kind="be">прадукцы́йнасьць</definition>
 		<definition type="h" kind="by">прадукцы́йнасць</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>personal</key>
 		<definition type="h" kind="be">пэрсана́льны</definition>
 		<definition type="h" kind="by">персана́льны</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>personalization</key>
 		<definition type="h" kind="be">пэрсаналіза́цыя</definition>
 		<definition type="h" kind="by">персаналіза́цыя</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>personalize</key>
 		<definition type="h" kind="be">пэрсаналізава́ць, спэрсаналізава́ць</definition>
 		<definition type="h" kind="by">персаналізава́ць, сперсаналізава́ць</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд. што на конт варыянта з скончаным трываньнем?</definition>
 	</article>
 
@@ -2146,20 +2239,20 @@
 		<key>picture</key>
 		<synonym>image</synonym>
 		<definition type="h" kind="al">відары́с</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 	</article>
 
 	<article>
 		<key>pixel</key>
 		<definition type="h" kind="be">пі́ксэль</definition>
 		<definition type="h" kind="by">пі́ксель</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 	</article>
 
 	<article>
 		<key>placeholder</key>
 		<definition type="h" kind="al">запаўняльнік</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2177,7 +2270,7 @@
 			<li><i>(для відэагульняў)</i> гуля́ць, згуля́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
@@ -2194,13 +2287,13 @@
 			<li><i>(для відэагульняў)</i> гуле́ц</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
 		<key>plug</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2208,26 +2301,29 @@
 		<key>plugin</key>
 		<key>plug-in</key>
 		<definition type="h" kind="al">убудова</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 	</article>
 
 	<article>
 		<key>pointer</key>
 		<definition type="h" kind="al">указа́льнік</definition>
-		<definition type="h" kind="mt">27, 29</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-27">27</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>pop up</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>pop-up window</key>
 		<definition type="h" kind="al">выплыўное акно</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2245,7 +2341,7 @@
 			<li><em>verb</em> партава́ць, спартава́ць <i>(перанос праграмы на іншую платформу)</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
@@ -2262,7 +2358,7 @@
 			<li>партава́льны <i>(адаптаванне апраграмавання пад іншую платформу)</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
@@ -2271,90 +2367,97 @@
 		<key>porting</key>
 		<definition type="h" kind="be">партава́ньне</definition>
 		<definition type="h" kind="by">партава́нне</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
 		<key>portrait</key>
 		<definition type="h" kind="be"><![CDATA[<i>(у тыпаграфіцы)</i> вэртыка́льны]]></definition>
 		<definition type="h" kind="by"><![CDATA[<i>(у тыпаграфіцы)</i> вертыка́льны]]></definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
 		<key>preferences</key>
 		<synonym>settings</synonym>
 		<definition type="h" kind="al">нала́ды</definition>
-		<definition type="h" kind="mt">5</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-05">5</a>]]></definition>
 	</article>
 
 	<article>
 		<key>press</key>
 		<definition type="h" kind="al">ці́снуць, наці́снуць</definition>
-		<definition type="h" kind="mt">4</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]></definition>
 	</article>
 
 	<article>
 		<key>print</key>
 		<definition type="h" kind="al">друкава́ць, надрукава́ць</definition>
-		<definition type="h" kind="mt">4</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]></definition>
 	</article>
 
 	<article>
 		<key>print area</key>
 		<definition type="h" kind="al">плошча дру́ку, поле дру́ку</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>printer</key>
 		<definition type="h" kind="al">друка́рка</definition>
-		<definition type="h" kind="mt">3, 4</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-03">3</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>proportional</key>
 		<definition type="h" kind="al">суме́рны</definition>
-		<definition type="h" kind="mt">6, 7, 8</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-07">7</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>protocol</key>
 		<definition type="h" kind="al">пратакол</definition>
-		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-31">31</a>]]></definition>
 	</article>
 
 	<article>
 		<key>provider</key>
 		<definition type="h" kind="be">права́йдэр</definition>
 		<definition type="h" kind="by">права́йдар</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 	</article>
 
 	<article>
 		<key>proxy</key>
 		<definition type="h" kind="al">проксі, пасярэднік</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>publish</key>
 		<definition type="h" kind="al">выдава́ць, вы́даць</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>publisher</key>
 		<definition type="h" kind="al">выдаве́ц</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>range</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд. варта пакруціць разам з zone</definition>
 	</article>
 
@@ -2372,28 +2475,28 @@
 			<li><em>verb</em> ацэ́ньваць, ацані́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
 		<key>raw data</key>
 		<definition type="h" kind="be">сырыя, перашасныя, неапрацаваныя зьвесткі</definition>
 		<definition type="h" kind="by">сырыя, перашасныя, неапрацаваныя звесткі</definition>
-		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-01">1</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>reader</key>
 		<definition type="h" kind="al">чыта́льнік</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>receipt</key>
 		<definition type="h" kind="al">квіток</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2401,14 +2504,14 @@
 		<key>recover</key>
 		<synonym>restore</synonym>
 		<definition type="h" kind="al">аднаўля́ць, аднаві́ць</definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 	</article>
 
 	<article>
 		<key>recovery</key>
 		<definition type="h" kind="be">аднаўле́ньне</definition>
 		<definition type="h" kind="by">аднаўле́нне</definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 	</article>
 
 	<article>
@@ -2416,19 +2519,25 @@
 		<synonym>trash can</synonym>
 		<definition type="h" kind="be">сьме́тніца</definition>
 		<definition type="h" kind="by">сме́тніца</definition>
-		<definition type="h" kind="mt">2</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>]]></definition>
 	</article>
 
 	<article>
 		<key>redo</key>
 		<definition type="h" kind="al">узнаўля́ць, узнаві́ць</definition>
-		<definition type="h" kind="mt">10, 11</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-10">10</a>
+			<a href="http://wg.kamputerm.org/meetings/sustreca-11">11</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>refresh</key>
 		<definition type="h" kind="al">абнаўля́ць, абнаві́ць</definition>
-		<definition type="h" kind="mt">12, 20</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-12">20</a>
+			<a href="http://wg.kamputerm.org/meetings/sustreca-12">20</a>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -2436,39 +2545,39 @@
 		<synonym>sign up</synonym>
 		<definition type="h" kind="be">рэґістрава́ць, зарэґістрава́ць; рэґістрава́цца, зарэґістрава́цца</definition>
 		<definition type="h" kind="by">рэгістрава́ць, зарэгістрава́ць; рэгістрава́цца, зарэгістрава́цца</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>registration</key>
 		<definition type="h" kind="be">рэґістра́цыя</definition>
 		<definition type="h" kind="by">рэгістра́цыя</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>registry</key>
 		<definition type="h" kind="al">рэе́стр</definition>
-		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-31">31</a>]]></definition>
 	</article>
 
 	<article>
 		<key>release</key>
 		<definition type="h" kind="al">вы́пуск</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>reload</key>
 		<definition type="h" kind="al">перазаладоўваць, перазаладава́ць</definition>
-		<definition type="h" kind="mt">17</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-17">17</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>reminder</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2494,31 +2603,31 @@
 			<li><i>(для вымання элементу са спісу)</i> прыбіра́ць, прыбра́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">2</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>]]></definition>
 	</article>
 
 	<article>
 		<key>rename</key>
 		<definition type="h" kind="al">пераназыва́ць, пераназва́ць</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
 		<key>repartition</key>
 		<definition type="h" kind="al">дзялі́ць наноў, падзялі́ць наноў</definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>repartitioning</key>
 		<definition type="h" kind="al"><![CDATA[перадзе́л <i>(працэс)</i>]]></definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>replace</key>
 		<definition type="h" kind="al">замяня́ць, замяні́ць</definition>
-		<definition type="h" kind="mt">23</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]></definition>
 	</article>
 
 	<article>
@@ -2529,14 +2638,14 @@
 			<li><em>verb</em> паведамля́ць, паве́даміць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 	</article>
 
 	<article>
 		<key>repository</key>
 		<synonym>storage</synonym>
 		<definition type="h" kind="al">сховішча</definition>
-		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-01">1</a>]]></definition>
 		<definition type="h" kind="rm">Разносіць прадметныя назоўнікі repository і storage не варта, бо яны ў гэтым значэнні азначаюць тое сама.</definition>
 	</article>
 
@@ -2544,46 +2653,46 @@
 		<key>resolution</key>
 		<definition type="h" kind="be">разрознасьць</definition>
 		<definition type="h" kind="by">разрознасць</definition>
-		<definition type="h" kind="mt">8</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]></definition>
 	</article>
 
 	<article>
 		<key>restore</key>
 		<synonym>recover</synonym>
 		<definition type="h" kind="al">аднаўля́ць, аднаві́ць</definition>
-		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-01">1</a>]]></definition>
 	</article>
 
 	<article>
 		<key>revision</key>
 		<definition type="h" kind="al">рэда́кцыя</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>roaming</key>
 		<definition type="h" kind="be">блука́ньне</definition>
 		<definition type="h" kind="by">блука́нне</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
 		<key>row</key>
 		<definition type="h" kind="al">радок</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 	</article>
 
 	<article>
 		<key>RSS feed</key>
 		<key>RSS-feed</key>
 		<definition type="h" kind="al">RSS-сту́жка</definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 	</article>
 
 	<article>
 		<key>run</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2595,20 +2704,23 @@
 			<li><em>adj.</em> узорны</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
 		<key>sans serif</key>
 		<definition type="h" kind="be"><![CDATA[бяз ры́сак< (<i>пра шрыфт</i>)]]></definition>
 		<definition type="h" kind="by"><![CDATA[без ры́сак< (<i>пра шрыфт</i>)]]></definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>save</key>
 		<definition type="h" kind="al">захоўваць, захава́ць</definition>
-		<definition type="h" kind="mt">2, 4</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>
+			<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -2625,20 +2737,20 @@
 			<li><i>(пошук у чымсці)</i> прагляда́ць <em>незак. тр.</em>, праглядзе́ць, прагле́дзець</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">4</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]></definition>
 	</article>
 
 	<article>
 		<key>scanner</key>
 		<definition type="h" kind="be">ска́нэр</definition>
 		<definition type="h" kind="by">ска́нер</definition>
-		<definition type="h" kind="mt">4</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-04">4</a>]]></definition>
 	</article>
 
 	<article>
 		<key>screen</key>
 		<definition type="h" kind="al">экра́н</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
@@ -2649,47 +2761,56 @@
 			<li><em>adj.</em> сэнсарны</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
 		<key>serif</key>
 		<definition type="h" kind="al"><![CDATA[з ры́скамі (<i>пра шрыфт</i>)]]></definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>server</key>
 		<definition type="h" kind="be">сэ́рвэр</definition>
 		<definition type="h" kind="by">се́рвер</definition>
-		<definition type="h" kind="mt">23</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]></definition>
 	</article>
 
 	<article>
 		<key>settings</key>
 		<synonym>preferences</synonym>
 		<definition type="h" kind="al">нала́ды</definition>
-		<definition type="h" kind="mt">5</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-05">5</a>]]></definition>
 	</article>
 
 	<article>
 		<key>share</key>
 		<definition type="h" kind="al">абагу́льваць</definition>
-		<definition type="h" kind="mt">22, 23</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>shared</key>
 		<definition type="h" kind="al">абагулeны</definition>
-		<definition type="h" kind="mt">22, 23</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>sharer</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">22, 23</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2697,14 +2818,17 @@
 		<key>sharing</key>
 		<definition type="h" kind="be">абагульваньне</definition>
 		<definition type="h" kind="by">абагульванне</definition>
-		<definition type="h" kind="mt">22, 23</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>sheet</key>
 		<definition type="h" kind="al">а́ркуш</definition>
-		<definition type="h" kind="mt">23</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]></definition>
 	</article>
 
 	<article>
@@ -2720,7 +2844,10 @@
 			<li><b>keyboard ~</b> клавіятурны скарот</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">11, 13</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-11">11</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-13">13</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2730,7 +2857,7 @@
 		<synonym>log in</synonym>
 		<definition type="h" kind="be">уваходзіць, увайсьці́</definition>
 		<definition type="h" kind="by">уваходзіць, увайсці́</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
@@ -2740,7 +2867,7 @@
 		<synonym>log off</synonym>
 		<definition type="h" kind="be">выходзіць, вы́йсьці</definition>
 		<definition type="h" kind="by">выходзіць, вы́йсці</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
@@ -2750,7 +2877,7 @@
 		<synonym>log off</synonym>
 		<definition type="h" kind="be">выходзіць, вы́йсьці</definition>
 		<definition type="h" kind="by">выходзіць, вы́йсці</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
@@ -2758,13 +2885,13 @@
 		<synonym>register</synonym>
 		<definition type="h" kind="be">рэґістрава́ць, зарэґістрава́ць; рэґістрава́цца, зарэґістрава́цца</definition>
 		<definition type="h" kind="by">рэгістрава́ць, зарэгістрава́ць; рэгістрава́цца, зарэгістрава́цца</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>site</key>
 		<definition type="h" kind="al">сайт</definition>
-		<definition type="h" kind="mt">23</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]></definition>
 	</article>
 
 	<article>
@@ -2775,13 +2902,13 @@
 			<li><i>(для шрыфтоў)</i> паме́р</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>slot</key>
 		<definition type="h" kind="al">слот</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2799,20 +2926,23 @@
 			<li><em>adj.</em> прагра́мны</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">9, 1</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-09">9</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-10">10</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>sound card</key>
 		<definition type="h" kind="al">гукава́я ка́рта</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>start</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2820,7 +2950,7 @@
 		<key>statement</key>
 		<definition type="h" kind="be">апэра́тар</definition>
 		<definition type="h" kind="by">апера́тар</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2840,20 +2970,20 @@
 			<li><em>adj.</em> захава́льны</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-01">1</a>]]></definition>
 	</article>
 
 	<article>
 		<key>store</key>
 		<definition type="h" kind="al">захоўваць, захава́ць</definition>
-		<definition type="h" kind="mt">1</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-01">1</a>]]></definition>
 	</article>
 
 	<article>
 		<key>strikethrough</key>
 		<definition type="h" kind="be">закрэ́сьліць</definition>
 		<definition type="h" kind="by">закрэ́сліць</definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
@@ -2864,13 +2994,16 @@
 			<li>чарада́ <i>(калі набор знакаў)</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">22, 23</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]>
+		</definition>
 	</article>
 
 	<article>
 		<key>style</key>
 		<definition type="h" kind="al">стыль</definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
@@ -2881,14 +3014,14 @@
 			<li><em>adj.</em> падрадковы</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">27</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-27">27</a>]]></definition>
 	</article>
 
 	<article>
 		<key>summary</key>
 		<definition type="h" kind="be">падсумава́ньне</definition>
 		<definition type="h" kind="by">падсумава́нне</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 	</article>
 
 	<article>
@@ -2899,14 +3032,14 @@
 			<li><em>adj.</em> надрадковы</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">27</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-27">27</a>]]></definition>
 	</article>
 
 	<article>
 		<key>swapfile</key>
 		<synonym>pagefile</synonym>
 		<definition type="h" kind="al">файл падме́ны</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2914,14 +3047,14 @@
 		<key>swapping</key>
 		<synonym>paging</synonym>
 		<definition type="h" kind="al">падме́на</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>switch</key>
 		<definition type="h" kind="al">сўітч</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд. англіцызм, трэба вызначыцца з напісаннем – на асобнае абмеркаванне.</definition>
 	</article>
 
@@ -2929,14 +3062,14 @@
 		<key>symbol</key>
 		<definition type="h" kind="be">сы́мбаль</definition>
 		<definition type="h" kind="by">сі́мвал</definition>
-		<definition type="h" kind="mt">21</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-21">21</a>]]></definition>
 	</article>
 
 	<article>
 		<key>synchronization</key>
 		<definition type="h" kind="be">сынхраніза́цыя</definition>
 		<definition type="h" kind="by">сінхраніза́цыя</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
@@ -2945,7 +3078,7 @@
 		<key>sync</key>
 		<definition type="h" kind="be">сынхранізава́ць, ссынхранізава́ць</definition>
 		<definition type="h" kind="by">сінхранізава́ць, ссінхранізава́ць</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
@@ -2954,13 +3087,16 @@
 		<key>syncing</key>
 		<definition type="h" kind="be">сынхранізава́ньне</definition>
 		<definition type="h" kind="by">сінхранізава́ньне</definition>
-		<definition type="h" kind="mt">24</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]></definition>
 	</article>
 
 	<article>
 		<key>tab</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">23, 24</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-24">24</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -2969,32 +3105,32 @@
 		<synonym>contents</synonym>
 		<definition type="h" kind="be">зьме́ст</definition>
 		<definition type="h" kind="by">зме́ст</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 	</article>
 
 	<article>
 		<key>tablet</key>
 		<definition type="h" kind="al">тэблет</definition>
-		<definition type="h" kind="mt">33</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-33">33</a>]]></definition>
 	</article>
 
 	<article>
 		<key>tag</key>
 		<definition type="h" kind="al">цэтлік</definition>
-		<definition type="h" kind="mt">9</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-09">9</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>terminal</key>
 		<definition type="h" kind="al">тэрміна́л</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 	</article>
 
 	<article>
 		<key>thumbnail</key>
 		<definition type="h" kind="al">абразок, мініяцюра</definition>
-		<definition type="h" kind="mt">15</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -3006,7 +3142,7 @@
 			<li><em>verb</em> кафлява́ць, закафлява́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">12</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-12">12</a>]]></definition>
 		<definition type="h" kind="rm">кахля?</definition>
 	</article>
 
@@ -3014,14 +3150,14 @@
 		<key>timezone</key>
 		<key>time zone</key>
 		<definition type="h" kind="al">часавая зона</definition>
-		<definition type="h" kind="mt">27</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-27">27</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>trackball</key>
 		<definition type="h" kind="al">трэкбол</definition>
-		<definition type="h" kind="mt">28</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-28">28</a>]]></definition>
 	</article>
 
 	<article>
@@ -3029,7 +3165,7 @@
 		<synonym>transmit</synonym>
 		<definition type="h" kind="be">перада́ць, перане́сьці</definition>
 		<definition type="h" kind="by">перада́ць, перане́сці</definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -3038,7 +3174,7 @@
 		<synonym>transfer</synonym>
 		<definition type="h" kind="be">перада́ць, перане́сьці</definition>
 		<definition type="h" kind="by">перада́ць, перане́сці</definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -3056,7 +3192,7 @@
 			<li><em>verb</em> перамясціць у сметніцу</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">2</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>]]></definition>
 	</article>
 
 	<article>
@@ -3064,7 +3200,7 @@
 		<synonym>recycle bin</synonym>
 		<definition type="h" kind="be">сьме́тніца</definition>
 		<definition type="h" kind="by">сме́тніца</definition>
-		<definition type="h" kind="mt">2</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-02">2</a>]]></definition>
 	</article>
 
 	<article>
@@ -3072,33 +3208,36 @@
 		<synonym>font family</synonym>
 		<definition type="h" kind="be">ґарніту́ра</definition>
 		<definition type="h" kind="by">гарніту́ра</definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>underline</key>
 		<definition type="h" kind="be">падкрэ́сьліць</definition>
 		<definition type="h" kind="by">падкрэ́сліць</definition>
-		<definition type="h" kind="mt">6</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-06">6</a>]]></definition>
 	</article>
 
 	<article>
 		<key>undo</key>
 		<definition type="h" kind="al">адрабля́ць, адрабі́ць</definition>
-		<definition type="h" kind="mt">10</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-10">10</a>]]></definition>
 	</article>
 
 	<article>
 		<key>unicast</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>uninstall</key>
 		<definition type="h" kind="al">высталёўваць, вы́сталяваць</definition>
-		<definition type="h" kind="mt">7, 10</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-07">7</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-10">10</a>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -3106,7 +3245,7 @@
 		<synonym>uninstalling</synonym>
 		<definition type="h" kind="be">высталява́ньне</definition>
 		<definition type="h" kind="by">высталява́нне</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 	</article>
 
 	<article>
@@ -3114,19 +3253,22 @@
 		<synonym>uninstallation</synonym>
 		<definition type="h" kind="be">высталёўваньне</definition>
 		<definition type="h" kind="by">высталёўванне</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 	</article>
 
 	<article>
 		<key>uninstaller</key>
 		<definition type="h" kind="al">высталёўнік</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 	</article>
 
 	<article>
 		<key>unmount</key>
 		<definition type="h" kind="al">адмацава́ць</definition>
-		<definition type="h" kind="mt">7, 8</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-07">7</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]>
+		</definition>
 	</article>
 
 	<article>
@@ -3143,7 +3285,7 @@
 			<li><em>verb</em> абнаўля́ць, абнаві́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 	</article>
 
 	<article>
@@ -3160,28 +3302,31 @@
 			<li><em>verb</em> мадэрнізава́ць, змадэрнізава́ць</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд. змадэрнізаваць?</definition>
 	</article>
 
 	<article>
 		<key>upload</key>
 		<definition type="h" kind="al">запампоўваць, запампава́ць</definition>
-		<definition type="h" kind="mt">7, 8</definition>
+		<definition type="h" kind="mt"><![CDATA[
+			<a href="http://wg.kamputerm.org/meetings/sustreca-07">7</a>,
+			<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]>
+		</definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>uploader</key>
 		<definition type="h" kind="al">пампава́льнік</definition>
-		<definition type="h" kind="mt">18</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-18">18</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>uppercase</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">31</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-31">31</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -3193,7 +3338,7 @@
 			<li>а́драс <i>(размоўнае)</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 	</article>
 
 	<article>
@@ -3204,54 +3349,54 @@
 			<li><em>adj.</em> карыста́льніцкі</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">8</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]></definition>
 	</article>
 
 	<article>
 		<key>username</key>
 		<key>user name</key>
 		<definition type="h" kind="al">імя́ карыста́льніка</definition>
-		<definition type="h" kind="mt">8</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]></definition>
 	</article>
 
 	<article>
 		<key>value</key>
 		<definition type="h" kind="be">значэньне</definition>
 		<definition type="h" kind="by">значэнне</definition>
-		<definition type="h" kind="mt">16</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-16">16</a>]]></definition>
 	</article>
 
 	<article>
 		<key>variable</key>
 		<definition type="h" kind="be">зьме́нная</definition>
 		<definition type="h" kind="by">зме́нная</definition>
-		<definition type="h" kind="mt">22</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-22">22</a>]]></definition>
 	</article>
 
 	<article>
 		<key>version</key>
 		<definition type="h" kind="be">вэ́рсія</definition>
 		<definition type="h" kind="by">ве́рсія</definition>
-		<definition type="h" kind="mt">30</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-30">30</a>]]></definition>
 	</article>
 
 	<article>
 		<key>video card</key>
 		<definition type="h" kind="al">ві̀дэака́рта</definition>
-		<definition type="h" kind="mt">34</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>view</key>
 		<definition type="h" kind="al"><![CDATA[прагляда́ць <em>незак. тр.</em>, прагле́дзець, праглядзе́ць]]></definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 	</article>
 
 	<article>
 		<key>viewer</key>
 		<definition type="h" kind="al">прагляда́льнік</definition>
-		<definition type="h" kind="mt">25</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-25">25</a>]]></definition>
 	</article>
 
 	<article>
@@ -3268,7 +3413,7 @@
 			<li>ува́га <i>(агульнаўжыванае)</i></li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">32</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-32">32</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -3280,50 +3425,50 @@
 			<li><em>adj.</em> се́ціўны</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">10</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-10">10</a>]]></definition>
 	</article>
 
 	<article>
 		<key>wheel</key>
 		<definition type="h" kind="al">колца</definition>
-		<definition type="h" kind="mt">23</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-23">23</a>]]></definition>
 	</article>
 
 	<article>
 		<key>win</key>
 		<definition type="h" kind="al">вы́гуляць</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
 		<key>window</key>
 		<definition type="h" kind="al">акно</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
 		<key>wired</key>
 		<definition type="h" kind="al">дротавы</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
 		<key>wireless</key>
 		<definition type="h" kind="al">бяздротавы</definition>
-		<definition type="h" kind="mt">19</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-19">19</a>]]></definition>
 	</article>
 
 	<article>
 		<key>wizard</key>
 		<definition type="h" kind="al">памочнік, ма́йстар</definition>
-		<definition type="h" kind="mt">14</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-14">14</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>yes</key>
 		<definition type="h" kind="al">так</definition>
-		<definition type="h" kind="mt">8</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-08">8</a>]]></definition>
 	</article>
 
 	<article>
@@ -3333,21 +3478,21 @@
 			<li><em>noun</em> суме́р</li>
 			</ol>]]>
 		</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>zoom in</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
 	<article>
 		<key>zoom out</key>
 		<definition type="h" kind="al">−</definition>
-		<definition type="h" kind="mt">20</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-20">20</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
 	</article>
 
@@ -3359,7 +3504,7 @@
 		<key>kilo</key>
 		<definition type="h" kind="be"><![CDATA[кі́ля, к <em>скар.</em>]]></definition>
 		<definition type="h" kind="by"><![CDATA[кі́ла, к <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3368,7 +3513,7 @@
 		<key>kibi</key>
 		<key>binary kilo</key>
 		<definition type="h" kind="al"><![CDATA[кі́бі, Кі <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3377,7 +3522,7 @@
 		<key>mega</key>
 		<definition type="h" kind="be"><![CDATA[мэґа, М <em>скар.</em>]]></definition>
 		<definition type="h" kind="by"><![CDATA[ме́га, М <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3387,7 +3532,7 @@
 		<key>binary mega</key>
 		<definition type="h" kind="be"><![CDATA[мэбі, Мі <em>скар.</em>]]></definition>
 		<definition type="h" kind="by"><![CDATA[ме́бі, Мі <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3396,7 +3541,7 @@
 		<key>giga</key>
 		<definition type="h" kind="be"><![CDATA[ґі́ґа, Ґ <em>скар.</em>]]></definition>
 		<definition type="h" kind="by"><![CDATA[гі́га, Г <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3406,7 +3551,7 @@
 		<key>binary giga</key>
 		<definition type="h" kind="be"><![CDATA[ґі́бі, Ґі <em>скар.</em>]]></definition>
 		<definition type="h" kind="by"><![CDATA[гі́бі, Гі <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3414,7 +3559,7 @@
 		<key>T</key>
 		<key>tera</key>
 		<definition type="h" kind="al"><![CDATA[тэра, Т <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3423,7 +3568,7 @@
 		<key>tebi</key>
 		<key>binary tera</key>
 		<definition type="h" kind="al"><![CDATA[тэбі, Ті <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3431,7 +3576,7 @@
 		<key>P</key>
 		<key>peta</key>
 		<definition type="h" kind="al"><![CDATA[пэта, П <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3440,7 +3585,7 @@
 		<key>pebi</key>
 		<key>binary peta</key>
 		<definition type="h" kind="al"><![CDATA[пэбі, Пі <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3448,7 +3593,7 @@
 		<key>E</key>
 		<key>exa</key>
 		<definition type="h" kind="al"><![CDATA[экза, Э <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3457,7 +3602,7 @@
 		<key>exbi</key>
 		<key>binary exa</key>
 		<definition type="h" kind="al"><![CDATA[экзбі, Эі <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3465,7 +3610,7 @@
 		<key>Z</key>
 		<key>zetta</key>
 		<definition type="h" kind="al"><![CDATA[зэта, З <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3474,7 +3619,7 @@
 		<key>zebi</key>
 		<key>binary zetta</key>
 		<definition type="h" kind="al"><![CDATA[зэбі, Зі <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3482,7 +3627,7 @@
 		<key>Y</key>
 		<key>yotta</key>
 		<definition type="h" kind="al"><![CDATA[ёта, Ё <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3491,7 +3636,7 @@
 		<key>yobi</key>
 		<key>binary yotta</key>
 		<definition type="h" kind="al"><![CDATA[ёбі, Ёі <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<!-- samples -->
@@ -3502,7 +3647,7 @@
 		<key>kilobyte</key>
 		<definition type="h" kind="be"><![CDATA[кіляба́йт, кБ <em>скар.</em>]]></definition>
 		<definition type="h" kind="by"><![CDATA[кілаба́йт, кБ <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3511,7 +3656,7 @@
 		<key>kilobit</key>
 		<definition type="h" kind="be"><![CDATA[кілябі́т, кбіт <em>скар.</em>]]></definition>
 		<definition type="h" kind="by"><![CDATA[кілабі́т, кбіт <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3519,7 +3664,7 @@
 		<key>KiB</key>
 		<key>kibibyte</key>
 		<definition type="h" kind="al"><![CDATA[кібіба́йт, КіБ <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 
 	<article>
@@ -3527,7 +3672,7 @@
 		<key>Kibit</key>
 		<key>kibibit</key>
 		<definition type="h" kind="al"><![CDATA[кібібі́т, Кібіт <em>скар.</em>]]></definition>
-		<definition type="h" kind="mt">29</definition>
+		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-29">29</a>]]></definition>
 	</article>
 </contents>
 </stardict>
