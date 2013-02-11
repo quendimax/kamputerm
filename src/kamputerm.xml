@@ -2314,7 +2314,9 @@
 	</article>
 
 	<article>
+		<key>pop-up</key>
 		<key>pop up</key>
+		<key>popup</key>
 		<definition type="h" kind="al">−</definition>
 		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-15">15</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
@@ -2322,6 +2324,7 @@
 
 	<article>
 		<key>pop-up window</key>
+		<key>popup window</key>
 		<definition type="h" kind="al">выплыўное акно</definition>
 		<definition type="h" kind="mt"><![CDATA[<a href="http://wg.kamputerm.org/meetings/sustreca-34">34</a>]]></definition>
 		<definition type="h" kind="rm">на перагляд</definition>
